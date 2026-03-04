@@ -1,0 +1,1162 @@
+{
+  "IMG_0066.JPG": {
+    "suggested_name": "Sule Roundabout",
+    "source_icon": "🛣️",
+    "lat": 16.774,
+    "lon": 96.159,
+    "count": 6,
+    "start_time": "2026:01:18 10:44:18"
+  },
+  "IMG_0355.JPG": {
+    "suggested_name": "永盛镇区",
+    "source_icon": "📍",
+    "lat": 16.882,
+    "lon": 96.1,
+    "count": 6,
+    "start_time": "2026:01:18 14:41:59"
+  },
+  "IMG_0467.JPG": {
+    "suggested_name": "University Avenue Road",
+    "source_icon": "🛣️",
+    "lat": 16.833,
+    "lon": 96.136,
+    "count": 6,
+    "start_time": "2026:01:18 16:40:05"
+  },
+  "IMG_0670.JPG": {
+    "suggested_name": "甘马育镇区",
+    "source_icon": "📍",
+    "lat": 16.827,
+    "lon": 96.13,
+    "count": 6,
+    "start_time": "2026:01:18 18:33:45"
+  },
+  "IMG_0773.JPG": {
+    "suggested_name": "Home",
+    "source_icon": "🏛️",
+    "lat": 16.807,
+    "lon": 96.138,
+    "count": 6,
+    "start_time": "2026:01:19 08:19:31"
+  },
+  "IMG_1484.JPG": {
+    "suggested_name": "Shwedagon Pagoda",
+    "source_icon": "🏛️",
+    "lat": 16.8,
+    "lon": 96.149,
+    "count": 6,
+    "start_time": "2026:01:22 18:13:16"
+  },
+  "IMG_1850.JPG": {
+    "suggested_name": "Kan Yeiktha Road",
+    "source_icon": "🛣️",
+    "lat": 16.794,
+    "lon": 96.164,
+    "count": 6,
+    "start_time": "2026:01:23 16:16:33"
+  },
+  "IMG_2535.JPG": {
+    "suggested_name": "Pyidaungsu Yeiktha Street",
+    "source_icon": "🛣️",
+    "lat": 16.789,
+    "lon": 96.141,
+    "count": 6,
+    "start_time": "2026:01:25 11:21:35"
+  },
+  "IMG_2570.JPG": {
+    "suggested_name": "Pyidaungsu Yeiktha Street",
+    "source_icon": "🛣️",
+    "lat": 16.789,
+    "lon": 96.14,
+    "count": 6,
+    "start_time": "2026:01:25 11:33:11"
+  },
+  "IMG_2818.JPG": {
+    "suggested_name": "Cafe Amazon",
+    "source_icon": "🏛️",
+    "lat": 16.783,
+    "lon": 96.144,
+    "count": 6,
+    "start_time": "2026:01:26 18:29:27"
+  },
+  "IMG_0055.JPG": {
+    "suggested_name": "EQUAL Electronic",
+    "source_icon": "🏛️",
+    "lat": 16.777,
+    "lon": 96.16,
+    "count": 5,
+    "start_time": "2026:01:18 10:41:07"
+  },
+  "IMG_0176.JPG": {
+    "suggested_name": "Maha Bandula Garden Street",
+    "source_icon": "🛣️",
+    "lat": 16.77,
+    "lon": 96.16,
+    "count": 5,
+    "start_time": "2026:01:18 13:12:12"
+  },
+  "IMG_0317.JPG": {
+    "suggested_name": "No.1 Industrial Road",
+    "source_icon": "🛣️",
+    "lat": 16.829,
+    "lon": 96.155,
+    "count": 5,
+    "start_time": "2026:01:18 14:08:42"
+  },
+  "IMG_0351.JPG": {
+    "suggested_name": "B 5th Street",
+    "source_icon": "🛣️",
+    "lat": 16.881,
+    "lon": 96.1,
+    "count": 5,
+    "start_time": "2026:01:18 14:41:01"
+  },
+  "IMG_0480.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.827,
+    "lon": 96.131,
+    "count": 5,
+    "start_time": "2026:01:18 16:51:35"
+  },
+  "IMG_0528.JPG": {
+    "suggested_name": "Thiri Hall",
+    "source_icon": "🏛️",
+    "lat": 16.831,
+    "lon": 96.133,
+    "count": 5,
+    "start_time": "2026:01:18 17:18:47"
+  },
+  "IMG_0543.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.833,
+    "lon": 96.133,
+    "count": 5,
+    "start_time": "2026:01:18 17:28:18"
+  },
+  "IMG_0713.JPG": {
+    "suggested_name": "No.1 Industrial Road",
+    "source_icon": "🛣️",
+    "lat": 16.828,
+    "lon": 96.156,
+    "count": 5,
+    "start_time": "2026:01:18 19:15:15"
+  },
+  "IMG_1310.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.803,
+    "lon": 96.156,
+    "count": 5,
+    "start_time": "2026:01:22 09:43:31"
+  },
+  "IMG_1363.JPG": {
+    "suggested_name": "Gyartawya Street",
+    "source_icon": "🛣️",
+    "lat": 16.799,
+    "lon": 96.154,
+    "count": 5,
+    "start_time": "2026:01:22 11:32:18"
+  },
+  "IMG_9772.JPG": {
+    "suggested_name": "Myay Nu Street",
+    "source_icon": "🛣️",
+    "lat": 16.81,
+    "lon": 96.137,
+    "count": 5,
+    "start_time": "2026:01:18 08:35:34"
+  },
+  "IMG_9785.JPG": {
+    "suggested_name": "U Wisara Roundabout",
+    "source_icon": "🛣️",
+    "lat": 16.795,
+    "lon": 96.147,
+    "count": 5,
+    "start_time": "2026:01:18 08:39:36"
+  },
+  "IMG_1987.JPG": {
+    "suggested_name": "43 Art Gallery",
+    "source_icon": "🏛️",
+    "lat": 16.772,
+    "lon": 96.166,
+    "count": 5,
+    "start_time": "2026:01:24 09:43:38"
+  },
+  "IMG_2548.JPG": {
+    "suggested_name": "德贡镇区",
+    "source_icon": "📍",
+    "lat": 16.79,
+    "lon": 96.143,
+    "count": 5,
+    "start_time": "2026:01:25 11:27:48"
+  },
+  "IMG_2555.JPG": {
+    "suggested_name": "National Museum",
+    "source_icon": "🏛️",
+    "lat": 16.789,
+    "lon": 96.143,
+    "count": 5,
+    "start_time": "2026:01:25 11:29:35"
+  },
+  "IMG_2751.JPG": {
+    "suggested_name": "淡汶镇区",
+    "source_icon": "📍",
+    "lat": 16.819,
+    "lon": 96.175,
+    "count": 5,
+    "start_time": "2026:01:25 15:39:16"
+  },
+  "IMG_2893.JPG": {
+    "suggested_name": "Kyan Khin Su Ward",
+    "source_icon": "📍",
+    "lat": 16.893,
+    "lon": 96.132,
+    "count": 5,
+    "start_time": "2026:01:27 08:27:21"
+  },
+  "IMG_9675.JPG": {
+    "suggested_name": "Radio Station Road",
+    "source_icon": "🛣️",
+    "lat": 16.9,
+    "lon": 96.14,
+    "count": 5,
+    "start_time": "2026:01:17 21:34:53"
+  },
+  "IMG_9913.JPG": {
+    "suggested_name": "Thein Phyu Road",
+    "source_icon": "🛣️",
+    "lat": 16.775,
+    "lon": 96.167,
+    "count": 4,
+    "start_time": "2026:01:18 10:08:30"
+  },
+  "IMG_0060.JPG": {
+    "suggested_name": "Sule Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.777,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 10:42:09"
+  },
+  "IMG_0168.JPG": {
+    "suggested_name": "Konthe Road",
+    "source_icon": "🛣️",
+    "lat": 16.772,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 13:10:50"
+  },
+  "IMG_0172.JPG": {
+    "suggested_name": "Bank Street",
+    "source_icon": "🛣️",
+    "lat": 16.771,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 13:11:30"
+  },
+  "IMG_0258.JPG": {
+    "suggested_name": "IT MYANMAR",
+    "source_icon": "🏛️",
+    "lat": 16.774,
+    "lon": 96.164,
+    "count": 4,
+    "start_time": "2026:01:18 13:38:07"
+  },
+  "IMG_0266.JPG": {
+    "suggested_name": "Bo Aung Kyaw Road",
+    "source_icon": "🛣️",
+    "lat": 16.778,
+    "lon": 96.165,
+    "count": 4,
+    "start_time": "2026:01:18 13:40:32"
+  },
+  "IMG_0294.JPG": {
+    "suggested_name": "巴汉镇区",
+    "source_icon": "📍",
+    "lat": 16.796,
+    "lon": 96.157,
+    "count": 4,
+    "start_time": "2026:01:18 13:57:13"
+  },
+  "IMG_0321.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.831,
+    "lon": 96.155,
+    "count": 4,
+    "start_time": "2026:01:18 14:09:15"
+  },
+  "IMG_0418.JPG": {
+    "suggested_name": "MAX",
+    "source_icon": "🏛️",
+    "lat": 16.842,
+    "lon": 96.112,
+    "count": 4,
+    "start_time": "2026:01:18 15:09:51"
+  },
+  "IMG_0427.JPG": {
+    "suggested_name": "Shwe Gant Gaw Silk House",
+    "source_icon": "🏛️",
+    "lat": 16.821,
+    "lon": 96.132,
+    "count": 4,
+    "start_time": "2026:01:18 15:18:35"
+  },
+  "IMG_0429.JPG": {
+    "suggested_name": "甘马育镇区",
+    "source_icon": "📍",
+    "lat": 16.82,
+    "lon": 96.133,
+    "count": 4,
+    "start_time": "2026:01:18 15:21:10"
+  },
+  "IMG_0481.JPG": {
+    "suggested_name": "甘马育镇区",
+    "source_icon": "📍",
+    "lat": 16.828,
+    "lon": 96.131,
+    "count": 4,
+    "start_time": "2026:01:18 16:51:46"
+  },
+  "IMG_0687.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.825,
+    "lon": 96.131,
+    "count": 4,
+    "start_time": "2026:01:18 18:36:55"
+  },
+  "IMG_1083.JPG": {
+    "suggested_name": "Pyi Thu Street",
+    "source_icon": "🛣️",
+    "lat": 16.856,
+    "lon": 96.141,
+    "count": 4,
+    "start_time": "2026:01:20 17:05:55"
+  },
+  "IMG_1096.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.836,
+    "lon": 96.134,
+    "count": 4,
+    "start_time": "2026:01:20 17:57:40"
+  },
+  "IMG_1097.JPG": {
+    "suggested_name": "Kanbaung",
+    "source_icon": "🛣️",
+    "lat": 16.838,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:20 17:57:42"
+  },
+  "IMG_1304.JPG": {
+    "suggested_name": "巴汉镇区",
+    "source_icon": "📍",
+    "lat": 16.802,
+    "lon": 96.155,
+    "count": 4,
+    "start_time": "2026:01:22 09:43:15"
+  },
+  "IMG_1846.JPG": {
+    "suggested_name": "敏加拉当纽镇区",
+    "source_icon": "📍",
+    "lat": 16.793,
+    "lon": 96.163,
+    "count": 4,
+    "start_time": "2026:01:23 16:16:00"
+  },
+  "IMG_2074.JPG": {
+    "suggested_name": "Holy Trinity Cathedral",
+    "source_icon": "🏛️",
+    "lat": 16.78,
+    "lon": 96.154,
+    "count": 4,
+    "start_time": "2026:01:24 13:37:45"
+  },
+  "IMG_2691.JPG": {
+    "suggested_name": "B.E.H.S. (3), Dagon",
+    "source_icon": "🏛️",
+    "lat": 16.785,
+    "lon": 96.139,
+    "count": 4,
+    "start_time": "2026:01:25 12:04:50"
+  },
+  "IMG_2841.JPG": {
+    "suggested_name": "Yangon Spanish School",
+    "source_icon": "🏛️",
+    "lat": 16.802,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:26 19:50:07"
+  },
+  "IMG_2873.JPG": {
+    "suggested_name": "莱镇区",
+    "source_icon": "📍",
+    "lat": 16.849,
+    "lon": 96.139,
+    "count": 4,
+    "start_time": "2026:01:27 08:11:36"
+  },
+  "IMG_9487.JPG": {
+    "suggested_name": "航站南路",
+    "source_icon": "🛣️",
+    "lat": 25.081,
+    "lon": 121.237,
+    "count": 4,
+    "start_time": "2026:01:17 12:32:38"
+  },
+  "IMG_9657.JPG": {
+    "suggested_name": "Yangon Airport Road",
+    "source_icon": "🛣️",
+    "lat": 16.902,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:17 21:17:35"
+  },
+  "IMG_9683.JPG": {
+    "suggested_name": "No (5) Ward-Sein Pan Myaing/9 Miles",
+    "source_icon": "📍",
+    "lat": 16.882,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:17 21:40:39"
+  },
+  "IMG_0038.JPG": {
+    "suggested_name": "40th Street",
+    "source_icon": "🛣️",
+    "lat": 16.777,
+    "lon": 96.164,
+    "count": 3,
+    "start_time": "2026:01:18 10:39:14"
+  },
+  "IMG_0040.JPG": {
+    "suggested_name": "Thazin Printing",
+    "source_icon": "🏛️",
+    "lat": 16.777,
+    "lon": 96.163,
+    "count": 3,
+    "start_time": "2026:01:18 10:39:35"
+  },
+  "IMG_0162.JPG": {
+    "suggested_name": "Sule Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.773,
+    "lon": 96.159,
+    "count": 3,
+    "start_time": "2026:01:18 13:02:53"
+  },
+  "IMG_0200.JPG": {
+    "suggested_name": "Seik Kan Tha Street",
+    "source_icon": "🛣️",
+    "lat": 16.77,
+    "lon": 96.163,
+    "count": 3,
+    "start_time": "2026:01:18 13:17:28"
+  },
+  "IMG_0300.JPG": {
+    "suggested_name": "Gyartawya Street",
+    "source_icon": "🛣️",
+    "lat": 16.8,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:18 13:59:39"
+  },
+  "IMG_0341.JPG": {
+    "suggested_name": "Thiri Mon 8th Street",
+    "source_icon": "🛣️",
+    "lat": 16.856,
+    "lon": 96.108,
+    "count": 3,
+    "start_time": "2026:01:18 14:34:40"
+  },
+  "IMG_1080.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.867,
+    "lon": 96.144,
+    "count": 3,
+    "start_time": "2026:01:20 17:02:30"
+  },
+  "IMG_1093.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.82,
+    "lon": 96.132,
+    "count": 3,
+    "start_time": "2026:01:20 17:21:30"
+  },
+  "IMG_9690.JPG": {
+    "suggested_name": "No (4) Ward-Kyaik Waing Lay",
+    "source_icon": "📍",
+    "lat": 16.866,
+    "lon": 96.142,
+    "count": 3,
+    "start_time": "2026:01:17 21:43:24"
+  },
+  "IMG_1300.JPG": {
+    "suggested_name": "ဟန္းဗိုလ္ခ်ဳပ္လမ္း",
+    "source_icon": "🏛️",
+    "lat": 16.803,
+    "lon": 96.155,
+    "count": 3,
+    "start_time": "2026:01:22 09:42:32"
+  },
+  "IMG_1360.JPG": {
+    "suggested_name": "巴汉镇区",
+    "source_icon": "📍",
+    "lat": 16.799,
+    "lon": 96.155,
+    "count": 3,
+    "start_time": "2026:01:22 11:32:03"
+  },
+  "IMG_1378.JPG": {
+    "suggested_name": "Thukha Street",
+    "source_icon": "🛣️",
+    "lat": 16.808,
+    "lon": 96.139,
+    "count": 3,
+    "start_time": "2026:01:22 12:24:00"
+  },
+  "IMG_1763.JPG": {
+    "suggested_name": "Western stairway and escalator",
+    "source_icon": "🛣️",
+    "lat": 16.798,
+    "lon": 96.148,
+    "count": 3,
+    "start_time": "2026:01:22 19:11:39"
+  },
+  "IMG_1807.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.805,
+    "lon": 96.142,
+    "count": 3,
+    "start_time": "2026:01:23 15:26:55"
+  },
+  "IMG_1812.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.804,
+    "lon": 96.143,
+    "count": 3,
+    "start_time": "2026:01:23 15:31:32"
+  },
+  "IMG_1843.JPG": {
+    "suggested_name": "Myint Zu Yi Cafe",
+    "source_icon": "🏛️",
+    "lat": 16.795,
+    "lon": 96.15,
+    "count": 3,
+    "start_time": "2026:01:23 16:12:46"
+  },
+  "IMG_1856.JPG": {
+    "suggested_name": "Kan Yeiktha",
+    "source_icon": "🛣️",
+    "lat": 16.793,
+    "lon": 96.165,
+    "count": 3,
+    "start_time": "2026:01:23 16:16:46"
+  },
+  "IMG_1966.JPG": {
+    "suggested_name": "Kan Yeiktha Road",
+    "source_icon": "🛣️",
+    "lat": 16.793,
+    "lon": 96.168,
+    "count": 3,
+    "start_time": "2026:01:23 19:15:47"
+  },
+  "IMG_1992.JPG": {
+    "suggested_name": "Bogalay Market",
+    "source_icon": "🏛️",
+    "lat": 16.772,
+    "lon": 96.165,
+    "count": 3,
+    "start_time": "2026:01:24 09:43:58"
+  },
+  "IMG_2017.JPG": {
+    "suggested_name": "Space Boutique Hostel",
+    "source_icon": "🏛️",
+    "lat": 16.777,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:24 12:19:56"
+  },
+  "IMG_2283.JPG": {
+    "suggested_name": "Khin San Maw Jewelry",
+    "source_icon": "🏛️",
+    "lat": 16.773,
+    "lon": 96.156,
+    "count": 3,
+    "start_time": "2026:01:24 14:42:09"
+  },
+  "IMG_2286.JPG": {
+    "suggested_name": "Nepali & Indian food vegetarian",
+    "source_icon": "🏛️",
+    "lat": 16.772,
+    "lon": 96.156,
+    "count": 3,
+    "start_time": "2026:01:24 14:42:19"
+  },
+  "IMG_2380.JPG": {
+    "suggested_name": "Ahlone Road",
+    "source_icon": "🛣️",
+    "lat": 16.795,
+    "lon": 96.146,
+    "count": 3,
+    "start_time": "2026:01:25 09:56:09"
+  },
+  "IMG_2403.JPG": {
+    "suggested_name": "National Museum",
+    "source_icon": "🏛️",
+    "lat": 16.788,
+    "lon": 96.143,
+    "count": 3,
+    "start_time": "2026:01:25 10:14:57"
+  },
+  "IMG_2686.JPG": {
+    "suggested_name": "Than Taman Street",
+    "source_icon": "🛣️",
+    "lat": 16.787,
+    "lon": 96.141,
+    "count": 3,
+    "start_time": "2026:01:25 12:04:18"
+  },
+  "IMG_2838.JPG": {
+    "suggested_name": "Danny House",
+    "source_icon": "🏛️",
+    "lat": 16.802,
+    "lon": 96.134,
+    "count": 3,
+    "start_time": "2026:01:26 19:49:49"
+  },
+  "IMG_2877.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.85,
+    "lon": 96.14,
+    "count": 3,
+    "start_time": "2026:01:27 08:11:44"
+  },
+  "IMG_2883.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.871,
+    "lon": 96.14,
+    "count": 3,
+    "start_time": "2026:01:27 08:20:28"
+  },
+  "IMG_2886.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.875,
+    "lon": 96.139,
+    "count": 3,
+    "start_time": "2026:01:27 08:21:04"
+  },
+  "IMG_2960.JPG": {
+    "suggested_name": "Yangon Airport Road",
+    "source_icon": "🛣️",
+    "lat": 16.904,
+    "lon": 96.135,
+    "count": 3,
+    "start_time": "2026:01:27 11:18:07"
+  },
+  "IMG_9485.JPG": {
+    "suggested_name": "桃園機場第一航廈",
+    "source_icon": "🏛️",
+    "lat": 25.082,
+    "lon": 121.238,
+    "count": 3,
+    "start_time": "2026:01:17 11:58:09"
+  },
+  "IMG_9787.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.793,
+    "lon": 96.148,
+    "count": 3,
+    "start_time": "2026:01:18 08:40:21"
+  },
+  "IMG_9791.JPG": {
+    "suggested_name": "德贡镇区",
+    "source_icon": "📍",
+    "lat": 16.788,
+    "lon": 96.15,
+    "count": 3,
+    "start_time": "2026:01:18 08:41:01"
+  },
+  "IMG_9795.JPG": {
+    "suggested_name": "Shwedagon Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.781,
+    "lon": 96.153,
+    "count": 3,
+    "start_time": "2026:01:18 08:42:12"
+  },
+  "IMG_9814.JPG": {
+    "suggested_name": "Diamond white",
+    "source_icon": "🏛️",
+    "lat": 16.779,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:18 08:44:56"
+  },
+  "IMG_0053.JPG": {
+    "suggested_name": "Giordano",
+    "source_icon": "🏛️",
+    "lat": 16.777,
+    "lon": 96.161,
+    "count": 2,
+    "start_time": "2026:01:18 10:40:53"
+  },
+  "IMG_0064.JPG": {
+    "suggested_name": "皎德达镇区",
+    "source_icon": "📍",
+    "lat": 16.775,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 10:43:24"
+  },
+  "IMG_0256.JPG": {
+    "suggested_name": "40th Street",
+    "source_icon": "🛣️",
+    "lat": 16.771,
+    "lon": 96.164,
+    "count": 2,
+    "start_time": "2026:01:18 13:37:12"
+  },
+  "IMG_0262.JPG": {
+    "suggested_name": "40th Street",
+    "source_icon": "🛣️",
+    "lat": 16.775,
+    "lon": 96.164,
+    "count": 2,
+    "start_time": "2026:01:18 13:38:36"
+  },
+  "IMG_9820.JPG": {
+    "suggested_name": "Panorama Hotel",
+    "source_icon": "🏛️",
+    "lat": 16.779,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 08:46:19"
+  },
+  "IMG_0281.JPG": {
+    "suggested_name": "Pansodan Bridge",
+    "source_icon": "🛣️",
+    "lat": 16.781,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:52:15"
+  },
+  "IMG_0283.JPG": {
+    "suggested_name": "Kun Chan Road",
+    "source_icon": "🛣️",
+    "lat": 16.782,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:52:26"
+  },
+  "IMG_0286.JPG": {
+    "suggested_name": "Yangon Zoological Gardens",
+    "source_icon": "🏛️",
+    "lat": 16.791,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:54:07"
+  },
+  "IMG_0288.JPG": {
+    "suggested_name": "CoffeeSixSix",
+    "source_icon": "🏛️",
+    "lat": 16.792,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:54:15"
+  },
+  "IMG_0291.JPG": {
+    "suggested_name": "Kan Yeiktha Road",
+    "source_icon": "🛣️",
+    "lat": 16.795,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 13:56:39"
+  },
+  "IMG_0298.JPG": {
+    "suggested_name": "Kyaw Gems & Jewelry",
+    "source_icon": "🏛️",
+    "lat": 16.798,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:18 13:57:42"
+  },
+  "IMG_0310.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.826,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:18 14:07:06"
+  },
+  "IMG_0319.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.83,
+    "lon": 96.155,
+    "count": 2,
+    "start_time": "2026:01:18 14:08:51"
+  },
+  "IMG_0325.JPG": {
+    "suggested_name": "Kabar Aye Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.833,
+    "lon": 96.155,
+    "count": 2,
+    "start_time": "2026:01:18 14:10:45"
+  },
+  "IMG_0327.JPG": {
+    "suggested_name": "The Central Boulevard",
+    "source_icon": "🏛️",
+    "lat": 16.834,
+    "lon": 96.156,
+    "count": 2,
+    "start_time": "2026:01:18 14:11:28"
+  },
+  "IMG_0335.JPG": {
+    "suggested_name": "Parami Road",
+    "source_icon": "🛣️",
+    "lat": 16.854,
+    "lon": 96.138,
+    "count": 2,
+    "start_time": "2026:01:18 14:25:25"
+  },
+  "IMG_0339.JPG": {
+    "suggested_name": "Baho Road",
+    "source_icon": "🛣️",
+    "lat": 16.857,
+    "lon": 96.116,
+    "count": 2,
+    "start_time": "2026:01:18 14:33:34"
+  },
+  "IMG_0345.JPG": {
+    "suggested_name": "Bayint Naung Road",
+    "source_icon": "🛣️",
+    "lat": 16.866,
+    "lon": 96.106,
+    "count": 2,
+    "start_time": "2026:01:18 14:36:29"
+  },
+  "IMG_0347.JPG": {
+    "suggested_name": "Bayint Naung Road",
+    "source_icon": "🛣️",
+    "lat": 16.87,
+    "lon": 96.105,
+    "count": 2,
+    "start_time": "2026:01:18 14:37:08"
+  },
+  "IMG_0349.JPG": {
+    "suggested_name": "A / 4 Street",
+    "source_icon": "🛣️",
+    "lat": 16.881,
+    "lon": 96.099,
+    "count": 2,
+    "start_time": "2026:01:18 14:40:50"
+  },
+  "IMG_0407.JPG": {
+    "suggested_name": "Bayint Naung Road",
+    "source_icon": "🛣️",
+    "lat": 16.845,
+    "lon": 96.112,
+    "count": 2,
+    "start_time": "2026:01:18 15:09:00"
+  },
+  "IMG_0416.JPG": {
+    "suggested_name": "Bayint Naung Road",
+    "source_icon": "🛣️",
+    "lat": 16.843,
+    "lon": 96.112,
+    "count": 2,
+    "start_time": "2026:01:18 15:09:32"
+  },
+  "IMG_0424.JPG": {
+    "suggested_name": "Bayint Naung Road",
+    "source_icon": "🛣️",
+    "lat": 16.822,
+    "lon": 96.123,
+    "count": 2,
+    "start_time": "2026:01:18 15:14:52"
+  },
+  "IMG_0430.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.813,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:18 15:22:23"
+  },
+  "IMG_0432.JPG": {
+    "suggested_name": "Shwe Sin",
+    "source_icon": "🏛️",
+    "lat": 16.805,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:18 15:27:45"
+  },
+  "IMG_0476.JPG": {
+    "suggested_name": "Pinya Dormitory",
+    "source_icon": "🏛️",
+    "lat": 16.829,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:18 16:48:51"
+  },
+  "IMG_0478.JPG": {
+    "suggested_name": "University Avenue Road",
+    "source_icon": "🛣️",
+    "lat": 16.826,
+    "lon": 96.133,
+    "count": 2,
+    "start_time": "2026:01:18 16:49:50"
+  },
+  "IMG_0810.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.808,
+    "lon": 96.136,
+    "count": 2,
+    "start_time": "2026:01:19 09:29:56"
+  },
+  "IMG_0863.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.814,
+    "lon": 96.134,
+    "count": 2,
+    "start_time": "2026:01:20 14:06:40"
+  },
+  "IMG_0866.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.819,
+    "lon": 96.133,
+    "count": 2,
+    "start_time": "2026:01:20 14:12:55"
+  },
+  "IMG_0870.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.846,
+    "lon": 96.136,
+    "count": 2,
+    "start_time": "2026:01:20 14:18:11"
+  },
+  "IMG_1084.JPG": {
+    "suggested_name": "莱镇区",
+    "source_icon": "📍",
+    "lat": 16.849,
+    "lon": 96.137,
+    "count": 2,
+    "start_time": "2026:01:20 17:13:30"
+  },
+  "IMG_1154.JPG": {
+    "suggested_name": "Kanbaung",
+    "source_icon": "🛣️",
+    "lat": 16.839,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:21 09:22:11"
+  },
+  "IMG_1296.JPG": {
+    "suggested_name": "BEHS 4 Sanchaung",
+    "source_icon": "🏛️",
+    "lat": 16.806,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:22 09:35:54"
+  },
+  "IMG_1302.JPG": {
+    "suggested_name": "Win Family",
+    "source_icon": "🏛️",
+    "lat": 16.802,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:22 09:43:09"
+  },
+  "IMG_1368.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.802,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:22 11:37:41"
+  },
+  "IMG_1370.JPG": {
+    "suggested_name": "Denko Bahan Branch",
+    "source_icon": "🏛️",
+    "lat": 16.803,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:22 11:37:54"
+  },
+  "IMG_1780.JPG": {
+    "suggested_name": "U Wisara Road",
+    "source_icon": "🛣️",
+    "lat": 16.799,
+    "lon": 96.146,
+    "count": 2,
+    "start_time": "2026:01:22 19:22:45"
+  },
+  "IMG_1841.JPG": {
+    "suggested_name": "巴汉镇区",
+    "source_icon": "📍",
+    "lat": 16.804,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:23 16:07:28"
+  },
+  "IMG_2020.JPG": {
+    "suggested_name": "U TIN NYUNT ELECTRIC",
+    "source_icon": "🏛️",
+    "lat": 16.777,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:24 12:20:38"
+  },
+  "IMG_2290.JPG": {
+    "suggested_name": "26th Street",
+    "source_icon": "🛣️",
+    "lat": 16.772,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:24 14:43:08"
+  },
+  "IMG_2292.JPG": {
+    "suggested_name": "Konthe Road",
+    "source_icon": "🛣️",
+    "lat": 16.772,
+    "lon": 96.153,
+    "count": 2,
+    "start_time": "2026:01:24 14:43:20"
+  },
+  "IMG_2296.JPG": {
+    "suggested_name": "Heavy-Duty Vehicle Commercial Bypass Road",
+    "source_icon": "🛣️",
+    "lat": 16.772,
+    "lon": 96.148,
+    "count": 2,
+    "start_time": "2026:01:24 14:44:16"
+  },
+  "IMG_2299.JPG": {
+    "suggested_name": "Shwe Taung Tan Street",
+    "source_icon": "🛣️",
+    "lat": 16.773,
+    "lon": 96.146,
+    "count": 2,
+    "start_time": "2026:01:24 14:44:41"
+  },
+  "IMG_2301.JPG": {
+    "suggested_name": "Yangon - Dala Bridge",
+    "source_icon": "🛣️",
+    "lat": 16.778,
+    "lon": 96.145,
+    "count": 2,
+    "start_time": "2026:01:24 14:47:26"
+  },
+  "IMG_2383.JPG": {
+    "suggested_name": "Myoma Kyaung Street",
+    "source_icon": "🛣️",
+    "lat": 16.794,
+    "lon": 96.145,
+    "count": 2,
+    "start_time": "2026:01:25 09:56:29"
+  },
+  "IMG_2685.JPG": {
+    "suggested_name": "Taw Win Street",
+    "source_icon": "🛣️",
+    "lat": 16.788,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:25 12:04:11"
+  },
+  "IMG_2743.JPG": {
+    "suggested_name": "B. E. P. S No. (3) Tamwe",
+    "source_icon": "🏛️",
+    "lat": 16.815,
+    "lon": 96.172,
+    "count": 2,
+    "start_time": "2026:01:25 15:35:42"
+  },
+  "IMG_2747.JPG": {
+    "suggested_name": "Sky Star Hotel",
+    "source_icon": "🏛️",
+    "lat": 16.818,
+    "lon": 96.174,
+    "count": 2,
+    "start_time": "2026:01:25 15:37:50"
+  },
+  "IMG_2822.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.782,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:26 18:30:37"
+  },
+  "IMG_2871.JPG": {
+    "suggested_name": "莱镇区",
+    "source_icon": "📍",
+    "lat": 16.849,
+    "lon": 96.138,
+    "count": 2,
+    "start_time": "2026:01:27 08:11:32"
+  },
+  "IMG_9670.JPG": {
+    "suggested_name": "Yangon Airport Road",
+    "source_icon": "🛣️",
+    "lat": 16.899,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:17 21:33:34"
+  },
+  "IMG_9673.JPG": {
+    "suggested_name": "Tom Yam Koong - Roof Top Bar",
+    "source_icon": "🏛️",
+    "lat": 16.901,
+    "lon": 96.139,
+    "count": 2,
+    "start_time": "2026:01:17 21:34:37"
+  },
+  "IMG_9691.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.86,
+    "lon": 96.142,
+    "count": 2,
+    "start_time": "2026:01:17 21:44:05"
+  },
+  "IMG_9695.JPG": {
+    "suggested_name": "Pyay Road",
+    "source_icon": "🛣️",
+    "lat": 16.854,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:17 21:45:27"
+  },
+  "IMG_9812.JPG": {
+    "suggested_name": "30th Street",
+    "source_icon": "🛣️",
+    "lat": 16.779,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:18 08:44:47"
+  },
+  "IMG_9817.JPG": {
+    "suggested_name": "Sule Pagoda Road",
+    "source_icon": "🛣️",
+    "lat": 16.779,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 08:45:43"
+  }
+}

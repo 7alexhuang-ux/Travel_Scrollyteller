@@ -1,0 +1,522 @@
+{
+  "cluster_0": {
+    "location": "緬甸國家博物館",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T09:58:26.097047"
+  },
+  "cluster_2": {
+    "location": "緬甸國家博物館",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T09:58:49.971329"
+  },
+  "cluster_44": {
+    "location": "緬甸國家博物館",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T09:58:58.647657"
+  },
+  "cluster_1": {
+    "location": "國際上座部佛教弘法大學",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:06.252700"
+  },
+  "cluster_54": {
+    "location": "國際上座部佛教弘法大學",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:10.433415"
+  },
+  "cluster_28": {
+    "location": "國際上座部佛教弘法大學",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:13.019695"
+  },
+  "cluster_3": {
+    "location": "M-Tower",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:39.562902"
+  },
+  "cluster_66": {
+    "location": "M-Tower",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:42.835629"
+  },
+  "cluster_53": {
+    "location": "M-Tower",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:00:45.585927"
+  },
+  "cluster_4": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:03:58.473078"
+  },
+  "cluster_19": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:05.534606"
+  },
+  "cluster_8": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:08.494631"
+  },
+  "cluster_55": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:12.104392"
+  },
+  "cluster_35": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:14.393650"
+  },
+  "cluster_10": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:17.481238"
+  },
+  "cluster_73": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:20.446423"
+  },
+  "cluster_31": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:23.085119"
+  },
+  "cluster_56": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:26.293263"
+  },
+  "cluster_47": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:29.765359"
+  },
+  "cluster_5": {
+    "location": "Residence 26",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:04:54.938046"
+  },
+  "null": {
+    "location": "緬甸國家博物館",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:06:46.175290"
+  },
+  "cluster_6": {
+    "location": "仰光溫德姆至尊酒店",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:32:16.758153"
+  },
+  "cluster_39": {
+    "location": "仰光溫德姆至尊酒店",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:32:29.431260"
+  },
+  "cluster_7": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:33:12.202649"
+  },
+  "cluster_74": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:34:02.778174"
+  },
+  "cluster_71": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:34:12.565564"
+  },
+  "cluster_59": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:34:14.476683"
+  },
+  "cluster_58": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:34:16.360255"
+  },
+  "cluster_9": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:34:19.310230"
+  },
+  "cluster_75": {
+    "location": "Immaculate Conception Cathedral",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:36:34.258421"
+  },
+  "cluster_11": {
+    "location": "翁山市場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:36:58.408024"
+  },
+  "cluster_51": {
+    "location": "翁山市場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:01.201496"
+  },
+  "cluster_22": {
+    "location": "翁山市場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:03.673311"
+  },
+  "cluster_24": {
+    "location": "翁山市場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:06.210667"
+  },
+  "cluster_61": {
+    "location": "Junction City",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:20.614483"
+  },
+  "cluster_12": {
+    "location": "Junction City",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:24.934004"
+  },
+  "cluster_17": {
+    "location": "Junction City",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:27.556567"
+  },
+  "cluster_64": {
+    "location": "Junction City",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:37:52.812825"
+  },
+  "cluster_13": {
+    "location": "Myanmar Plaza",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:41:54.983863"
+  },
+  "cluster_14": {
+    "location": "Judson Memorial Baptist Church",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:43:25.704138"
+  },
+  "cluster_15": {
+    "location": "Emanuel Baptist Church",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:43:52.695632"
+  },
+  "cluster_16": {
+    "location": "Shwe Kan Kaw Tea House",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:44:34.918043"
+  },
+  "cluster_78": {
+    "location": "Alinkar Cafe House",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:51:56.833498"
+  },
+  "cluster_18": {
+    "location": "JSID",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:52:15.270389"
+  },
+  "cluster_46": {
+    "location": "JSID",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:52:32.758581"
+  },
+  "cluster_29": {
+    "location": "Residence 26",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:52:45.830531"
+  },
+  "cluster_37": {
+    "location": "JSID",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:53:17.648645"
+  },
+  "cluster_50": {
+    "location": "iGreen 建設公司",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:53:42.937570"
+  },
+  "cluster_21": {
+    "location": "仰光國際機場一航廈",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:53:59.441804"
+  },
+  "cluster_70": {
+    "location": "仰光國際機場一航廈",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:54:01.294281"
+  },
+  "cluster_38": {
+    "location": "迦梨女神(Kali)印度廟",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:57:24.232549"
+  },
+  "cluster_27": {
+    "location": "迦梨女神(Kali)印度廟",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T10:57:32.924370"
+  },
+  "cluster_76": {
+    "location": "Thiri Mingalar Market",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:00:29.592619"
+  },
+  "cluster_20": {
+    "location": "Strand Road",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:16:58.692174"
+  },
+  "cluster_60": {
+    "location": "Strand Road",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:17:23.904514"
+  },
+  "cluster_45": {
+    "location": "Strand Road",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:17:26.359405"
+  },
+  "cluster_23": {
+    "location": "The Radio Bar",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:17:46.751532"
+  },
+  "cluster_25": {
+    "location": "Yankin House 餐酒館",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:18:30.432367"
+  },
+  "cluster_26": {
+    "location": "Aung Taw Mu St 商業街",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:19:51.709512"
+  },
+  "cluster_30": {
+    "location": "A Bank",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:05.811587"
+  },
+  "cluster_32": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:24.283141"
+  },
+  "cluster_63": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:28.249947"
+  },
+  "cluster_42": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:30.802717"
+  },
+  "cluster_62": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:33.082095"
+  },
+  "cluster_33": {
+    "location": "Sky Star Hotel",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:20:55.925915"
+  },
+  "cluster_34": {
+    "location": "Aung Thu Kha 傳統緬甸餐廳",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:21:49.433599"
+  },
+  "cluster_36": {
+    "location": "Cafe City Yangon 餐廳",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:22:18.445301"
+  },
+  "cluster_40": {
+    "location": "MKT 營造廠",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:22:40.213612"
+  },
+  "cluster_49": {
+    "location": "仰光省檢察長辦公室",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:24:42.709034"
+  },
+  "cluster_41": {
+    "location": "Emanuel Baptist Church",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:24:57.182616"
+  },
+  "cluster_48": {
+    "location": "桃園國際機場第一航廈",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:25:17.474325"
+  },
+  "cluster_69": {
+    "location": "桃園國際機場第一航廈",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:25:19.963125"
+  },
+  "cluster_67": {
+    "location": "大金塔",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:25:31.756621"
+  },
+  "cluster_43": {
+    "location": "A Bank",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:25:44.294800"
+  },
+  "cluster_65": {
+    "location": "仰光大學",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:25:58.503337"
+  },
+  "cluster_77": {
+    "location": "Ma Pan 設計的房子",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:26:58.754397"
+  },
+  "cluster_52": {
+    "location": "塞車街景",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:27:31.868652"
+  },
+  "cluster_68": {
+    "location": "Golden City Chetty Restaurant",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:36:42.608030"
+  },
+  "cluster_57": {
+    "location": "仰光溫德姆至尊酒店",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:36:53.766283"
+  },
+  "cluster_72": {
+    "location": "Yankin St 商業街",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:38:28.321955"
+  },
+  "cluster_79": {
+    "location": "Ma Pan 設計的房子",
+    "sub_tags": {},
+    "updated_at": "2026-02-07T11:38:48.803331"
+  },
+  "cluster_80": {
+    "location": "Oishii Sushi日式料理",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:26:11.395068"
+  },
+  "cluster_106": {
+    "location": "Oishii Sushi日式料理",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:26:17.542384"
+  },
+  "cluster_174": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:07.452625"
+  },
+  "cluster_317": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:10.178832"
+  },
+  "cluster_93": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:13.581488"
+  },
+  "cluster_112": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:17.052630"
+  },
+  "cluster_138": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:19.440704"
+  },
+  "cluster_173": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:21.922381"
+  },
+  "cluster_316": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:24.705648"
+  },
+  "cluster_81": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:27.562438"
+  },
+  "cluster_231": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:30.930801"
+  },
+  "cluster_137": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:33.241492"
+  },
+  "cluster_139": {
+    "location": "曼谷機場",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:27:36.124609"
+  },
+  "cluster_238": {
+    "location": "街道立面",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:28:29.877627"
+  },
+  "cluster_332": {
+    "location": "街道立面",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:28:45.549235"
+  },
+  "cluster_179": {
+    "location": "街道立面",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:29:02.424722"
+  },
+  "cluster_82": {
+    "location": "仰光秘書處大樓",
+    "sub_tags": {},
+    "updated_at": "2026-02-11T23:29:21.795652"
+  },
+  "cluster_undefined": {
+    "location": "緬甸國家博物館",
+    "sub_tags": {},
+    "point_type": "minor",
+    "updated_at": "2026-02-12T21:01:53.225552"
+  },
+  "cluster_293": {
+    "location": "MAX 加油站",
+    "sub_tags": {},
+    "point_type": "major",
+    "updated_at": "2026-02-12T21:15:47.221453"
+  },
+  "cluster_89": {
+    "location": "鴨子船餐廳",
+    "sub_tags": {},
+    "point_type": "major",
+    "updated_at": "2026-02-12T21:16:09.150961"
+  },
+  "cluster_83": {
+    "location": "蘇雷塔",
+    "sub_tags": {},
+    "point_type": "major",
+    "updated_at": "2026-02-12T21:16:30.822963"
+  },
+  "cluster_84": {
+    "location": "印度廟旁聚落",
+    "sub_tags": {},
+    "point_type": "major",
+    "updated_at": "2026-02-12T21:16:46.991181"
+  }
+}

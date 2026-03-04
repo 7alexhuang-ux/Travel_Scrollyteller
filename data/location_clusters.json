@@ -1,0 +1,6478 @@
+[
+  {
+    "lat": 16.788,
+    "lon": 96.142,
+    "count": 179,
+    "start_time": "2026:01:25 10:00:16",
+    "end_time": "2026:01:25 12:20:23",
+    "sample_file": "IMG_2387.JPG",
+    "all_files": [
+      "IMG_2387.JPG",
+      "IMG_2388.JPG",
+      "IMG_2389.JPG",
+      "IMG_2390.JPG",
+      "IMG_2391.JPG",
+      "IMG_2392.JPG",
+      "IMG_2393.JPG",
+      "IMG_2394.JPG",
+      "IMG_2395.JPG",
+      "IMG_2396.JPG",
+      "IMG_2397.JPG",
+      "IMG_2398.JPG",
+      "IMG_2399.JPG",
+      "IMG_2400.JPG",
+      "IMG_2402.JPG",
+      "IMG_2404.JPG",
+      "IMG_2405.JPG",
+      "IMG_2406.JPG",
+      "IMG_2407.JPG",
+      "IMG_2408.JPG",
+      "IMG_2409.JPG",
+      "IMG_2410.JPG",
+      "IMG_2411.JPG",
+      "IMG_2412.JPG",
+      "IMG_2413.JPG",
+      "IMG_2414.JPG",
+      "IMG_2415.JPG",
+      "IMG_2416.JPG",
+      "IMG_2417.JPG",
+      "IMG_2418.JPG",
+      "IMG_2419.JPG",
+      "IMG_2420.JPG",
+      "IMG_2421.JPG",
+      "IMG_2422.JPG",
+      "IMG_2423.JPG",
+      "IMG_2424.JPG",
+      "IMG_2425.JPG",
+      "IMG_2426.JPG",
+      "IMG_2427.JPG",
+      "IMG_2428.JPG",
+      "IMG_2429.JPG",
+      "IMG_2430.JPG",
+      "IMG_2431.JPG",
+      "IMG_2432.JPG",
+      "IMG_2433.JPG",
+      "IMG_2434.JPG",
+      "IMG_2435.JPG",
+      "IMG_2436.JPG",
+      "IMG_2437.JPG",
+      "IMG_2438.JPG",
+      "IMG_2439.JPG",
+      "IMG_2440.JPG",
+      "IMG_2441.JPG",
+      "IMG_2442.JPG",
+      "IMG_2443.JPG",
+      "IMG_2444.JPG",
+      "IMG_2445.JPG",
+      "IMG_2446.JPG",
+      "IMG_2447.JPG",
+      "IMG_2448.JPG",
+      "IMG_2449.JPG",
+      "IMG_2450.JPG",
+      "IMG_2451.JPG",
+      "IMG_2452.JPG",
+      "IMG_2453.JPG",
+      "IMG_2454.JPG",
+      "IMG_2455.JPG",
+      "IMG_2456.JPG",
+      "IMG_2457.JPG",
+      "IMG_2458.JPG",
+      "IMG_2459.JPG",
+      "IMG_2460.JPG",
+      "IMG_2461.JPG",
+      "IMG_2462.JPG",
+      "IMG_2463.JPG",
+      "IMG_2464.JPG",
+      "IMG_2465.JPG",
+      "IMG_2466.JPG",
+      "IMG_2467.JPG",
+      "IMG_2468.JPG",
+      "IMG_2469.JPG",
+      "IMG_2470.JPG",
+      "IMG_2471.JPG",
+      "IMG_2472.JPG",
+      "IMG_2473.JPG",
+      "IMG_2474.JPG",
+      "IMG_2475.JPG",
+      "IMG_2476.JPG",
+      "IMG_2477.JPG",
+      "IMG_2478.JPG",
+      "IMG_2479.JPG",
+      "IMG_2480.JPG",
+      "IMG_2481.JPG",
+      "IMG_2482.JPG",
+      "IMG_2483.JPG",
+      "IMG_2484.JPG",
+      "IMG_2485.JPG",
+      "IMG_2486.JPG",
+      "IMG_2487.JPG",
+      "IMG_2488.JPG",
+      "IMG_2489.JPG",
+      "IMG_2490.JPG",
+      "IMG_2491.JPG",
+      "IMG_2492.JPG",
+      "IMG_2493.JPG",
+      "IMG_2494.JPG",
+      "IMG_2495.JPG",
+      "IMG_2496.JPG",
+      "IMG_2497.JPG",
+      "IMG_2498.JPG",
+      "IMG_2499.JPG",
+      "IMG_2500.JPG",
+      "IMG_2501.JPG",
+      "IMG_2502.JPG",
+      "IMG_2503.JPG",
+      "IMG_2504.JPG",
+      "IMG_2505.JPG",
+      "IMG_2506.JPG",
+      "IMG_2507.JPG",
+      "IMG_2508.JPG",
+      "IMG_2509.JPG",
+      "IMG_2510.JPG",
+      "IMG_2511.JPG",
+      "IMG_2512.JPG",
+      "IMG_2513.JPG",
+      "IMG_2514.JPG",
+      "IMG_2515.JPG",
+      "IMG_2516.JPG",
+      "IMG_2517.JPG",
+      "IMG_2518.JPG",
+      "IMG_2519.JPG",
+      "IMG_2520.JPG",
+      "IMG_2530.JPG",
+      "IMG_2531.JPG",
+      "IMG_2532.JPG",
+      "IMG_2533.JPG",
+      "IMG_2631.JPG",
+      "IMG_2632.JPG",
+      "IMG_2633.JPG",
+      "IMG_2634.JPG",
+      "IMG_2635.JPG",
+      "IMG_2636.JPG",
+      "IMG_2637.JPG",
+      "IMG_2638.JPG",
+      "IMG_2639.JPG",
+      "IMG_2640.JPG",
+      "IMG_2641.JPG",
+      "IMG_2642.JPG",
+      "IMG_2644.JPG",
+      "IMG_2645.JPG",
+      "IMG_2646.JPG",
+      "IMG_2647.JPG",
+      "IMG_2648.JPG",
+      "IMG_2649.JPG",
+      "IMG_2650.JPG",
+      "IMG_2651.JPG",
+      "IMG_2652.JPG",
+      "IMG_2655.JPG",
+      "IMG_2656.JPG",
+      "IMG_2657.JPG",
+      "IMG_2658.JPG",
+      "IMG_2660.JPG",
+      "IMG_2661.JPG",
+      "IMG_2662.JPG",
+      "IMG_2666.JPG",
+      "IMG_2667.JPG",
+      "IMG_2668.JPG",
+      "IMG_2669.JPG",
+      "IMG_2670.JPG",
+      "IMG_2678.JPG",
+      "IMG_2679.JPG",
+      "IMG_2695.JPG",
+      "IMG_2697.JPG",
+      "IMG_2699.JPG",
+      "IMG_2726.JPG",
+      "IMG_2727.JPG",
+      "IMG_2728.JPG",
+      "IMG_2729.JPG",
+      "IMG_2730.JPG"
+    ]
+  },
+  {
+    "lat": 16.875,
+    "lon": 96.148,
+    "count": 156,
+    "start_time": "2026:01:20 16:06:17",
+    "end_time": "2026:01:20 16:58:44",
+    "sample_file": "IMG_0883.JPG",
+    "all_files": [
+      "IMG_0883.JPG",
+      "IMG_0884.JPG",
+      "IMG_0885.JPG",
+      "IMG_0886.JPG",
+      "IMG_0887.JPG",
+      "IMG_0888.JPG",
+      "IMG_0889.JPG",
+      "IMG_0890.JPG",
+      "IMG_0891.JPG",
+      "IMG_0892.JPG",
+      "IMG_0893.JPG",
+      "IMG_0894.JPG",
+      "IMG_0895.JPG",
+      "IMG_0896.JPG",
+      "IMG_0897.JPG",
+      "IMG_0898.JPG",
+      "IMG_0899.JPG",
+      "IMG_0900.JPG",
+      "IMG_0901.JPG",
+      "IMG_0902.JPG",
+      "IMG_0903.JPG",
+      "IMG_0904.JPG",
+      "IMG_0905.JPG",
+      "IMG_0906.JPG",
+      "IMG_0907.JPG",
+      "IMG_0908.JPG",
+      "IMG_0909.JPG",
+      "IMG_0910.JPG",
+      "IMG_0911.JPG",
+      "IMG_0912.JPG",
+      "IMG_0913.JPG",
+      "IMG_0914.JPG",
+      "IMG_0915.JPG",
+      "IMG_0916.JPG",
+      "IMG_0917.JPG",
+      "IMG_0918.JPG",
+      "IMG_0919.JPG",
+      "IMG_0920.JPG",
+      "IMG_0921.JPG",
+      "IMG_0922.JPG",
+      "IMG_0923.JPG",
+      "IMG_0924.JPG",
+      "IMG_0925.JPG",
+      "IMG_0926.JPG",
+      "IMG_0927.JPG",
+      "IMG_0928.JPG",
+      "IMG_0929.JPG",
+      "IMG_0930.JPG",
+      "IMG_0931.JPG",
+      "IMG_0932.JPG",
+      "IMG_0933.JPG",
+      "IMG_0934.JPG",
+      "IMG_0935.JPG",
+      "IMG_0936.JPG",
+      "IMG_0937.JPG",
+      "IMG_0938.JPG",
+      "IMG_0940.JPG",
+      "IMG_0941.JPG",
+      "IMG_0942.JPG",
+      "IMG_0943.JPG",
+      "IMG_0944.JPG",
+      "IMG_0945.JPG",
+      "IMG_0946.JPG",
+      "IMG_0947.JPG",
+      "IMG_0948.JPG",
+      "IMG_0949.JPG",
+      "IMG_0950.JPG",
+      "IMG_0951.JPG",
+      "IMG_0952.JPG",
+      "IMG_0953.JPG",
+      "IMG_0954.JPG",
+      "IMG_0955.JPG",
+      "IMG_0956.JPG",
+      "IMG_0957.JPG",
+      "IMG_0958.JPG",
+      "IMG_0959.JPG",
+      "IMG_0960.JPG",
+      "IMG_0977.JPG",
+      "IMG_0978.JPG",
+      "IMG_0979.JPG",
+      "IMG_0980.JPG",
+      "IMG_0981.JPG",
+      "IMG_0982.JPG",
+      "IMG_0983.JPG",
+      "IMG_0984.JPG",
+      "IMG_0985.JPG",
+      "IMG_0989.JPG",
+      "IMG_0990.JPG",
+      "IMG_0991.JPG",
+      "IMG_0998.JPG",
+      "IMG_0999.JPG",
+      "IMG_1010.JPG",
+      "IMG_1013.JPG",
+      "IMG_1014.JPG",
+      "IMG_1015.JPG",
+      "IMG_1018.JPG",
+      "IMG_1019.JPG",
+      "IMG_1020.JPG",
+      "IMG_1021.JPG",
+      "IMG_1022.JPG",
+      "IMG_1023.JPG",
+      "IMG_1024.JPG",
+      "IMG_1025.JPG",
+      "IMG_1026.JPG",
+      "IMG_1027.JPG",
+      "IMG_1028.JPG",
+      "IMG_1029.JPG",
+      "IMG_1030.JPG",
+      "IMG_1031.JPG",
+      "IMG_1032.JPG",
+      "IMG_1033.JPG",
+      "IMG_1034.JPG",
+      "IMG_1035.JPG",
+      "IMG_1036.JPG",
+      "IMG_1037.JPG",
+      "IMG_1038.JPG",
+      "IMG_1039.JPG",
+      "IMG_1040.JPG",
+      "IMG_1041.JPG",
+      "IMG_1042.JPG",
+      "IMG_1043.JPG",
+      "IMG_1044.JPG",
+      "IMG_1045.JPG",
+      "IMG_1046.JPG",
+      "IMG_1047.JPG",
+      "IMG_1048.JPG",
+      "IMG_1049.JPG",
+      "IMG_1050.JPG",
+      "IMG_1051.JPG",
+      "IMG_1052.JPG",
+      "IMG_1053.JPG",
+      "IMG_1054.JPG",
+      "IMG_1055.JPG",
+      "IMG_1056.JPG",
+      "IMG_1057.JPG",
+      "IMG_1058.JPG",
+      "IMG_1059.JPG",
+      "IMG_1060.JPG",
+      "IMG_1061.JPG",
+      "IMG_1062.JPG",
+      "IMG_1063.JPG",
+      "IMG_1064.JPG",
+      "IMG_1065.JPG",
+      "IMG_1066.JPG",
+      "IMG_1067.JPG",
+      "IMG_1068.JPG",
+      "IMG_1069.JPG",
+      "IMG_1070.JPG",
+      "IMG_1071.JPG",
+      "IMG_1072.JPG",
+      "IMG_1073.JPG",
+      "IMG_1074.JPG",
+      "IMG_1075.JPG",
+      "IMG_1076.JPG",
+      "IMG_1077.JPG",
+      "IMG_1078.JPG"
+    ]
+  },
+  {
+    "lat": 16.789,
+    "lon": 96.142,
+    "count": 115,
+    "start_time": "2026:01:24 14:50:20",
+    "end_time": "2026:01:25 12:16:49",
+    "sample_file": "IMG_2304.JPG",
+    "all_files": [
+      "IMG_2304.JPG",
+      "IMG_2305.JPG",
+      "IMG_2306.JPG",
+      "IMG_2307.JPG",
+      "IMG_2308.JPG",
+      "IMG_2521.JPG",
+      "IMG_2522.JPG",
+      "IMG_2523.JPG",
+      "IMG_2524.JPG",
+      "IMG_2525.JPG",
+      "IMG_2526.JPG",
+      "IMG_2527.JPG",
+      "IMG_2528.JPG",
+      "IMG_2534.JPG",
+      "IMG_2536.JPG",
+      "IMG_2537.JPG",
+      "IMG_2538.JPG",
+      "IMG_2539.JPG",
+      "IMG_2540.JPG",
+      "IMG_2541.JPG",
+      "IMG_2542.JPG",
+      "IMG_2553.JPG",
+      "IMG_2554.JPG",
+      "IMG_2557.JPG",
+      "IMG_2558.JPG",
+      "IMG_2559.JPG",
+      "IMG_2564.JPG",
+      "IMG_2565.JPG",
+      "IMG_2566.JPG",
+      "IMG_2567.JPG",
+      "IMG_2577.JPG",
+      "IMG_2578.JPG",
+      "IMG_2579.JPG",
+      "IMG_2580.JPG",
+      "IMG_2581.JPG",
+      "IMG_2582.JPG",
+      "IMG_2583.JPG",
+      "IMG_2584.JPG",
+      "IMG_2585.JPG",
+      "IMG_2586.JPG",
+      "IMG_2587.JPG",
+      "IMG_2588.JPG",
+      "IMG_2591.JPG",
+      "IMG_2592.JPG",
+      "IMG_2593.JPG",
+      "IMG_2594.JPG",
+      "IMG_2595.JPG",
+      "IMG_2596.JPG",
+      "IMG_2597.JPG",
+      "IMG_2598.JPG",
+      "IMG_2599.JPG",
+      "IMG_2600.JPG",
+      "IMG_2601.JPG",
+      "IMG_2602.JPG",
+      "IMG_2603.JPG",
+      "IMG_2604.JPG",
+      "IMG_2606.JPG",
+      "IMG_2607.JPG",
+      "IMG_2608.JPG",
+      "IMG_2609.JPG",
+      "IMG_2610.JPG",
+      "IMG_2611.JPG",
+      "IMG_2612.JPG",
+      "IMG_2614.JPG",
+      "IMG_2615.JPG",
+      "IMG_2616.JPG",
+      "IMG_2617.JPG",
+      "IMG_2618.JPG",
+      "IMG_2619.JPG",
+      "IMG_2624.JPG",
+      "IMG_2625.JPG",
+      "IMG_2626.JPG",
+      "IMG_2627.JPG",
+      "IMG_2628.JPG",
+      "IMG_2629.JPG",
+      "IMG_2630.JPG",
+      "IMG_2659.JPG",
+      "IMG_2663.JPG",
+      "IMG_2671.JPG",
+      "IMG_2672.JPG",
+      "IMG_2673.JPG",
+      "IMG_2674.JPG",
+      "IMG_2675.JPG",
+      "IMG_2676.JPG",
+      "IMG_2677.JPG",
+      "IMG_2680.JPG",
+      "IMG_2681.JPG",
+      "IMG_2682.JPG",
+      "IMG_2683.JPG",
+      "IMG_2684.JPG",
+      "IMG_2696.JPG",
+      "IMG_2698.JPG",
+      "IMG_2700.JPG",
+      "IMG_2701.JPG",
+      "IMG_2702.JPG",
+      "IMG_2703.JPG",
+      "IMG_2704.JPG",
+      "IMG_2705.JPG",
+      "IMG_2706.JPG",
+      "IMG_2707.JPG",
+      "IMG_2708.JPG",
+      "IMG_2709.JPG",
+      "IMG_2713.JPG",
+      "IMG_2714.JPG",
+      "IMG_2715.JPG",
+      "IMG_2716.JPG",
+      "IMG_2717.JPG",
+      "IMG_2718.JPG",
+      "IMG_2719.JPG",
+      "IMG_2720.JPG",
+      "IMG_2721.JPG",
+      "IMG_2722.JPG",
+      "IMG_2723.JPG",
+      "IMG_2724.JPG",
+      "IMG_2725.JPG"
+    ]
+  },
+  {
+    "lat": 16.826,
+    "lon": 96.131,
+    "count": 107,
+    "start_time": "2026:01:18 17:36:28",
+    "end_time": "2026:01:27 08:06:52",
+    "sample_file": "IMG_0556.JPG",
+    "all_files": [
+      "IMG_0556.JPG",
+      "IMG_0557.JPG",
+      "IMG_0558.JPG",
+      "IMG_0559.JPG",
+      "IMG_0560.JPG",
+      "IMG_0561.JPG",
+      "IMG_0562.JPG",
+      "IMG_0563.JPG",
+      "IMG_0564.JPG",
+      "IMG_0565.JPG",
+      "IMG_0566.JPG",
+      "IMG_0567.JPG",
+      "IMG_0568.JPG",
+      "IMG_0569.JPG",
+      "IMG_0570.JPG",
+      "IMG_0571.JPG",
+      "IMG_0572.JPG",
+      "IMG_0573.JPG",
+      "IMG_0574.JPG",
+      "IMG_0575.JPG",
+      "IMG_0576.JPG",
+      "IMG_0577.JPG",
+      "IMG_0578.JPG",
+      "IMG_0579.JPG",
+      "IMG_0580.JPG",
+      "IMG_0581.JPG",
+      "IMG_0582.JPG",
+      "IMG_0583.JPG",
+      "IMG_0584.JPG",
+      "IMG_0585.JPG",
+      "IMG_0586.JPG",
+      "IMG_0587.JPG",
+      "IMG_0588.JPG",
+      "IMG_0589.JPG",
+      "IMG_0590.JPG",
+      "IMG_0591.JPG",
+      "IMG_0592.JPG",
+      "IMG_0593.JPG",
+      "IMG_0594.JPG",
+      "IMG_0595.JPG",
+      "IMG_0596.JPG",
+      "IMG_0597.JPG",
+      "IMG_0598.JPG",
+      "IMG_0599.JPG",
+      "IMG_0600.JPG",
+      "IMG_0601.JPG",
+      "IMG_0602.JPG",
+      "IMG_0603.JPG",
+      "IMG_0604.JPG",
+      "IMG_0605.JPG",
+      "IMG_0606.JPG",
+      "IMG_0607.JPG",
+      "IMG_0608.JPG",
+      "IMG_0609.JPG",
+      "IMG_0610.JPG",
+      "IMG_0611.JPG",
+      "IMG_0612.JPG",
+      "IMG_0613.JPG",
+      "IMG_0614.JPG",
+      "IMG_0615.JPG",
+      "IMG_0616.JPG",
+      "IMG_0617.JPG",
+      "IMG_0618.JPG",
+      "IMG_0619.JPG",
+      "IMG_0633.JPG",
+      "IMG_0634.JPG",
+      "IMG_0635.JPG",
+      "IMG_0636.JPG",
+      "IMG_0637.JPG",
+      "IMG_0638.JPG",
+      "IMG_0639.JPG",
+      "IMG_0640.JPG",
+      "IMG_0641.JPG",
+      "IMG_0642.JPG",
+      "IMG_0643.JPG",
+      "IMG_0644.JPG",
+      "IMG_0645.JPG",
+      "IMG_0646.JPG",
+      "IMG_0647.JPG",
+      "IMG_0648.JPG",
+      "IMG_0649.JPG",
+      "IMG_0650.JPG",
+      "IMG_0651.JPG",
+      "IMG_0652.JPG",
+      "IMG_0653.JPG",
+      "IMG_0654.JPG",
+      "IMG_0655.JPG",
+      "IMG_0656.JPG",
+      "IMG_0657.JPG",
+      "IMG_0658.JPG",
+      "IMG_0659.JPG",
+      "IMG_0660.JPG",
+      "IMG_0661.JPG",
+      "IMG_0676.JPG",
+      "IMG_0677.JPG",
+      "IMG_0678.JPG",
+      "IMG_0679.JPG",
+      "IMG_0680.JPG",
+      "IMG_0681.JPG",
+      "IMG_0682.JPG",
+      "IMG_0683.JPG",
+      "IMG_0684.JPG",
+      "IMG_0685.JPG",
+      "IMG_0686.JPG",
+      "IMG_2865.JPG",
+      "IMG_2866.JPG",
+      "IMG_2867.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.149,
+    "count": 98,
+    "start_time": "2026:01:22 17:53:37",
+    "end_time": "2026:01:22 19:09:24",
+    "sample_file": "IMG_1413.JPG",
+    "all_files": [
+      "IMG_1413.JPG",
+      "IMG_1414.JPG",
+      "IMG_1416.JPG",
+      "IMG_1417.JPG",
+      "IMG_1418.JPG",
+      "IMG_1419.JPG",
+      "IMG_1420.JPG",
+      "IMG_1421.JPG",
+      "IMG_1422.JPG",
+      "IMG_1423.JPG",
+      "IMG_1424.JPG",
+      "IMG_1425.JPG",
+      "IMG_1426.JPG",
+      "IMG_1427.JPG",
+      "IMG_1651.JPG",
+      "IMG_1652.JPG",
+      "IMG_1653.JPG",
+      "IMG_1655.JPG",
+      "IMG_1656.JPG",
+      "IMG_1657.JPG",
+      "IMG_1658.JPG",
+      "IMG_1659.JPG",
+      "IMG_1661.JPG",
+      "IMG_1662.JPG",
+      "IMG_1663.JPG",
+      "IMG_1664.JPG",
+      "IMG_1665.JPG",
+      "IMG_1666.JPG",
+      "IMG_1667.JPG",
+      "IMG_1668.JPG",
+      "IMG_1669.JPG",
+      "IMG_1670.JPG",
+      "IMG_1671.JPG",
+      "IMG_1672.JPG",
+      "IMG_1673.JPG",
+      "IMG_1674.JPG",
+      "IMG_1675.JPG",
+      "IMG_1678.JPG",
+      "IMG_1679.JPG",
+      "IMG_1696.JPG",
+      "IMG_1697.JPG",
+      "IMG_1698.JPG",
+      "IMG_1699.JPG",
+      "IMG_1700.JPG",
+      "IMG_1701.JPG",
+      "IMG_1702.JPG",
+      "IMG_1703.JPG",
+      "IMG_1704.JPG",
+      "IMG_1706.JPG",
+      "IMG_1708.JPG",
+      "IMG_1709.JPG",
+      "IMG_1710.JPG",
+      "IMG_1711.JPG",
+      "IMG_1712.JPG",
+      "IMG_1713.JPG",
+      "IMG_1714.JPG",
+      "IMG_1715.JPG",
+      "IMG_1716.JPG",
+      "IMG_1717.JPG",
+      "IMG_1723.JPG",
+      "IMG_1724.JPG",
+      "IMG_1725.JPG",
+      "IMG_1726.JPG",
+      "IMG_1727.JPG",
+      "IMG_1728.JPG",
+      "IMG_1729.JPG",
+      "IMG_1730.JPG",
+      "IMG_1731.JPG",
+      "IMG_1732.JPG",
+      "IMG_1733.JPG",
+      "IMG_1734.JPG",
+      "IMG_1735.JPG",
+      "IMG_1736.JPG",
+      "IMG_1737.JPG",
+      "IMG_1738.JPG",
+      "IMG_1739.JPG",
+      "IMG_1740.JPG",
+      "IMG_1741.JPG",
+      "IMG_1742.JPG",
+      "IMG_1743.JPG",
+      "IMG_1744.JPG",
+      "IMG_1745.JPG",
+      "IMG_1746.JPG",
+      "IMG_1747.JPG",
+      "IMG_1748.JPG",
+      "IMG_1749.JPG",
+      "IMG_1750.JPG",
+      "IMG_1751.JPG",
+      "IMG_1752.JPG",
+      "IMG_1753.JPG",
+      "IMG_1754.JPG",
+      "IMG_1755.JPG",
+      "IMG_1756.JPG",
+      "IMG_1757.JPG",
+      "IMG_1758.JPG",
+      "IMG_1759.JPG",
+      "IMG_1760.JPG",
+      "IMG_1761.JPG"
+    ]
+  },
+  {
+    "lat": 16.808,
+    "lon": 96.137,
+    "count": 83,
+    "start_time": "2026:01:17 21:53:59",
+    "end_time": "2026:01:27 07:49:17",
+    "sample_file": "IMG_9698.JPG",
+    "all_files": [
+      "IMG_9698.JPG",
+      "IMG_9699.JPG",
+      "IMG_9701.JPG",
+      "IMG_9702.JPG",
+      "IMG_9703.JPG",
+      "IMG_9704.JPG",
+      "IMG_9705.JPG",
+      "IMG_9706.JPG",
+      "IMG_9707.JPG",
+      "IMG_9714.JPG",
+      "IMG_9715.JPG",
+      "IMG_9716.JPG",
+      "IMG_9728.JPG",
+      "IMG_9729.JPG",
+      "IMG_9731.JPG",
+      "IMG_9732.JPG",
+      "IMG_9733.JPG",
+      "IMG_9734.JPG",
+      "IMG_9735.JPG",
+      "IMG_9736.JPG",
+      "IMG_0767.JPG",
+      "IMG_0769.JPG",
+      "IMG_0770.JPG",
+      "IMG_0771.JPG",
+      "IMG_0834.JPG",
+      "IMG_0835.JPG",
+      "IMG_0836.JPG",
+      "IMG_0837.JPG",
+      "IMG_0838.JPG",
+      "IMG_0839.JPG",
+      "IMG_0840.JPG",
+      "IMG_0841.JPG",
+      "IMG_0842.JPG",
+      "IMG_0843.JPG",
+      "IMG_0844.JPG",
+      "IMG_0845.JPG",
+      "IMG_0846.JPG",
+      "IMG_0847.JPG",
+      "IMG_0848.JPG",
+      "IMG_0849.JPG",
+      "IMG_0850.JPG",
+      "IMG_0851.JPG",
+      "IMG_0852.JPG",
+      "IMG_0853.JPG",
+      "IMG_0854.JPG",
+      "IMG_0855.JPG",
+      "IMG_0856.JPG",
+      "IMG_0857.JPG",
+      "IMG_1137.JPG",
+      "IMG_1138.JPG",
+      "IMG_1139.JPG",
+      "IMG_1140.JPG",
+      "IMG_1143.JPG",
+      "IMG_1144.JPG",
+      "IMG_1292.JPG",
+      "IMG_1293.JPG",
+      "IMG_1380.JPG",
+      "IMG_1381.JPG",
+      "IMG_1382.JPG",
+      "IMG_1383.JPG",
+      "IMG_1384.JPG",
+      "IMG_1385.JPG",
+      "IMG_1386.JPG",
+      "IMG_1387.JPG",
+      "IMG_1388.JPG",
+      "IMG_1389.JPG",
+      "IMG_1390.JPG",
+      "IMG_1391.JPG",
+      "IMG_1392.JPG",
+      "IMG_1393.JPG",
+      "IMG_1394.JPG",
+      "IMG_1395.JPG",
+      "IMG_1802.JPG",
+      "IMG_1803.JPG",
+      "IMG_1978.JPG",
+      "IMG_1980.JPG",
+      "IMG_1981.JPG",
+      "IMG_1982.JPG",
+      "IMG_2309.JPG",
+      "IMG_2349.JPG",
+      "IMG_2847.JPG",
+      "IMG_2852.JPG",
+      "IMG_2853.JPG"
+    ]
+  },
+  {
+    "lat": 16.792,
+    "lon": 96.17,
+    "count": 81,
+    "start_time": "2026:01:23 16:23:29",
+    "end_time": "2026:01:23 17:22:56",
+    "sample_file": "IMG_1865.JPG",
+    "all_files": [
+      "IMG_1865.JPG",
+      "IMG_1866.JPG",
+      "IMG_1867.JPG",
+      "IMG_1868.JPG",
+      "IMG_1869.JPG",
+      "IMG_1870.JPG",
+      "IMG_1871.JPG",
+      "IMG_1872.JPG",
+      "IMG_1873.JPG",
+      "IMG_1875.JPG",
+      "IMG_1876.JPG",
+      "IMG_1883.JPG",
+      "IMG_1886.JPG",
+      "IMG_1887.JPG",
+      "IMG_1888.JPG",
+      "IMG_1889.JPG",
+      "IMG_1890.JPG",
+      "IMG_1891.JPG",
+      "IMG_1892.JPG",
+      "IMG_1893.JPG",
+      "IMG_1894.JPG",
+      "IMG_1896.JPG",
+      "IMG_1897.JPG",
+      "IMG_1898.JPG",
+      "IMG_1899.JPG",
+      "IMG_1900.JPG",
+      "IMG_1901.JPG",
+      "IMG_1902.JPG",
+      "IMG_1903.JPG",
+      "IMG_1904.JPG",
+      "IMG_1905.JPG",
+      "IMG_1906.JPG",
+      "IMG_1907.JPG",
+      "IMG_1908.JPG",
+      "IMG_1909.JPG",
+      "IMG_1910.JPG",
+      "IMG_1911.JPG",
+      "IMG_1912.JPG",
+      "IMG_1915.JPG",
+      "IMG_1916.JPG",
+      "IMG_1917.JPG",
+      "IMG_1918.JPG",
+      "IMG_1919.JPG",
+      "IMG_1920.JPG",
+      "IMG_1921.JPG",
+      "IMG_1922.JPG",
+      "IMG_1923.JPG",
+      "IMG_1924.JPG",
+      "IMG_1925.JPG",
+      "IMG_1926.JPG",
+      "IMG_1927.JPG",
+      "IMG_1928.JPG",
+      "IMG_1929.JPG",
+      "IMG_1930.JPG",
+      "IMG_1931.JPG",
+      "IMG_1932.JPG",
+      "IMG_1933.JPG",
+      "IMG_1934.JPG",
+      "IMG_1935.JPG",
+      "IMG_1939.JPG",
+      "IMG_1940.JPG",
+      "IMG_1941.JPG",
+      "IMG_1942.JPG",
+      "IMG_1943.JPG",
+      "IMG_1946.JPG",
+      "IMG_1948.JPG",
+      "IMG_1949.JPG",
+      "IMG_1950.JPG",
+      "IMG_1951.JPG",
+      "IMG_1952.JPG",
+      "IMG_1953.JPG",
+      "IMG_1954.JPG",
+      "IMG_1955.JPG",
+      "IMG_1956.JPG",
+      "IMG_1957.JPG",
+      "IMG_1958.JPG",
+      "IMG_1959.JPG",
+      "IMG_1960.JPG",
+      "IMG_1961.JPG",
+      "IMG_1962.JPG",
+      "IMG_1963.JPG"
+    ]
+  },
+  {
+    "lat": 16.776,
+    "lon": 96.166,
+    "count": 75,
+    "start_time": "2026:01:18 08:56:15",
+    "end_time": "2026:01:18 10:33:59",
+    "sample_file": "IMG_9839.JPG",
+    "all_files": [
+      "IMG_9839.JPG",
+      "IMG_9867.JPG",
+      "IMG_9868.JPG",
+      "IMG_9869.JPG",
+      "IMG_9870.JPG",
+      "IMG_9871.JPG",
+      "IMG_9872.JPG",
+      "IMG_9873.JPG",
+      "IMG_9875.JPG",
+      "IMG_9876.JPG",
+      "IMG_9877.JPG",
+      "IMG_9878.JPG",
+      "IMG_9879.JPG",
+      "IMG_9880.JPG",
+      "IMG_9881.JPG",
+      "IMG_9882.JPG",
+      "IMG_9883.JPG",
+      "IMG_9884.JPG",
+      "IMG_9885.JPG",
+      "IMG_9892.JPG",
+      "IMG_9893.JPG",
+      "IMG_9894.JPG",
+      "IMG_9895.JPG",
+      "IMG_9896.JPG",
+      "IMG_9897.JPG",
+      "IMG_9898.JPG",
+      "IMG_9899.JPG",
+      "IMG_9900.JPG",
+      "IMG_9902.JPG",
+      "IMG_9903.JPG",
+      "IMG_9904.JPG",
+      "IMG_9930.JPG",
+      "IMG_9931.JPG",
+      "IMG_9932.JPG",
+      "IMG_9933.JPG",
+      "IMG_9934.JPG",
+      "IMG_9935.JPG",
+      "IMG_9936.JPG",
+      "IMG_9937.JPG",
+      "IMG_9938.JPG",
+      "IMG_9939.JPG",
+      "IMG_9940.JPG",
+      "IMG_9941.JPG",
+      "IMG_9942.JPG",
+      "IMG_9943.JPG",
+      "IMG_9944.JPG",
+      "IMG_9949.JPG",
+      "IMG_9950.JPG",
+      "IMG_9951.JPG",
+      "IMG_9952.JPG",
+      "IMG_9953.JPG",
+      "IMG_9957.JPG",
+      "IMG_9960.JPG",
+      "IMG_9961.JPG",
+      "IMG_9962.JPG",
+      "IMG_9963.JPG",
+      "IMG_9964.JPG",
+      "IMG_9965.JPG",
+      "IMG_9966.JPG",
+      "IMG_9967.JPG",
+      "IMG_9968.JPG",
+      "IMG_9969.JPG",
+      "IMG_9970.JPG",
+      "IMG_9971.JPG",
+      "IMG_9972.JPG",
+      "IMG_9973.JPG",
+      "IMG_9974.JPG",
+      "IMG_9975.JPG",
+      "IMG_9976.JPG",
+      "IMG_9977.JPG",
+      "IMG_9978.JPG",
+      "IMG_9979.JPG",
+      "IMG_0027.JPG",
+      "IMG_0028.JPG",
+      "IMG_0029.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.149,
+    "count": 66,
+    "start_time": "2026:01:22 17:54:58",
+    "end_time": "2026:01:22 18:16:47",
+    "sample_file": "IMG_1415.JPG",
+    "all_files": [
+      "IMG_1415.JPG",
+      "IMG_1428.JPG",
+      "IMG_1429.JPG",
+      "IMG_1430.JPG",
+      "IMG_1431.JPG",
+      "IMG_1432.JPG",
+      "IMG_1433.JPG",
+      "IMG_1434.JPG",
+      "IMG_1435.JPG",
+      "IMG_1436.JPG",
+      "IMG_1437.JPG",
+      "IMG_1438.JPG",
+      "IMG_1439.JPG",
+      "IMG_1440.JPG",
+      "IMG_1441.JPG",
+      "IMG_1442.JPG",
+      "IMG_1443.JPG",
+      "IMG_1444.JPG",
+      "IMG_1445.JPG",
+      "IMG_1446.JPG",
+      "IMG_1447.JPG",
+      "IMG_1448.JPG",
+      "IMG_1449.JPG",
+      "IMG_1450.JPG",
+      "IMG_1451.JPG",
+      "IMG_1452.JPG",
+      "IMG_1453.JPG",
+      "IMG_1454.JPG",
+      "IMG_1455.JPG",
+      "IMG_1456.JPG",
+      "IMG_1457.JPG",
+      "IMG_1459.JPG",
+      "IMG_1462.JPG",
+      "IMG_1463.JPG",
+      "IMG_1464.JPG",
+      "IMG_1465.JPG",
+      "IMG_1466.JPG",
+      "IMG_1467.JPG",
+      "IMG_1468.JPG",
+      "IMG_1469.JPG",
+      "IMG_1470.JPG",
+      "IMG_1471.JPG",
+      "IMG_1472.JPG",
+      "IMG_1473.JPG",
+      "IMG_1474.JPG",
+      "IMG_1490.JPG",
+      "IMG_1491.JPG",
+      "IMG_1492.JPG",
+      "IMG_1493.JPG",
+      "IMG_1494.JPG",
+      "IMG_1495.JPG",
+      "IMG_1496.JPG",
+      "IMG_1497.JPG",
+      "IMG_1498.JPG",
+      "IMG_1499.JPG",
+      "IMG_1500.JPG",
+      "IMG_1501.JPG",
+      "IMG_1502.JPG",
+      "IMG_1503.JPG",
+      "IMG_1504.JPG",
+      "IMG_1505.JPG",
+      "IMG_1506.JPG",
+      "IMG_1507.JPG",
+      "IMG_1508.JPG",
+      "IMG_1509.JPG",
+      "IMG_1510.JPG"
+    ]
+  },
+  {
+    "lat": 16.775,
+    "lon": 96.166,
+    "count": 64,
+    "start_time": "2026:01:18 10:08:41",
+    "end_time": "2026:01:18 10:31:34",
+    "sample_file": "IMG_9914.JPG",
+    "all_files": [
+      "IMG_9914.JPG",
+      "IMG_9915.JPG",
+      "IMG_9916.JPG",
+      "IMG_9917.JPG",
+      "IMG_9918.JPG",
+      "IMG_9919.JPG",
+      "IMG_9920.JPG",
+      "IMG_9921.JPG",
+      "IMG_9922.JPG",
+      "IMG_9923.JPG",
+      "IMG_9924.JPG",
+      "IMG_9925.JPG",
+      "IMG_9926.JPG",
+      "IMG_9927.JPG",
+      "IMG_9928.JPG",
+      "IMG_9929.JPG",
+      "IMG_9945.JPG",
+      "IMG_9946.JPG",
+      "IMG_9947.JPG",
+      "IMG_9948.JPG",
+      "IMG_9954.JPG",
+      "IMG_9955.JPG",
+      "IMG_9956.JPG",
+      "IMG_9958.JPG",
+      "IMG_9959.JPG",
+      "IMG_9980.JPG",
+      "IMG_9981.JPG",
+      "IMG_9982.JPG",
+      "IMG_9985.JPG",
+      "IMG_9986.JPG",
+      "IMG_9987.JPG",
+      "IMG_9988.JPG",
+      "IMG_9989.JPG",
+      "IMG_9990.JPG",
+      "IMG_9991.JPG",
+      "IMG_9992.JPG",
+      "IMG_9993.JPG",
+      "IMG_9994.JPG",
+      "IMG_9995.JPG",
+      "IMG_9996.JPG",
+      "IMG_9997.JPG",
+      "IMG_9998.JPG",
+      "IMG_9999.JPG",
+      "IMG_0001.JPG",
+      "IMG_0002.JPG",
+      "IMG_0003.JPG",
+      "IMG_0004.JPG",
+      "IMG_0005.JPG",
+      "IMG_0009.JPG",
+      "IMG_0010.JPG",
+      "IMG_0011.JPG",
+      "IMG_0012.JPG",
+      "IMG_0013.JPG",
+      "IMG_0014.JPG",
+      "IMG_0015.JPG",
+      "IMG_0016.JPG",
+      "IMG_0017.JPG",
+      "IMG_0018.JPG",
+      "IMG_0019.JPG",
+      "IMG_0020.JPG",
+      "IMG_0021.JPG",
+      "IMG_0022.JPG",
+      "IMG_0023.JPG",
+      "IMG_0024.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.15,
+    "count": 62,
+    "start_time": "2026:01:22 18:27:47",
+    "end_time": "2026:01:22 18:39:35",
+    "sample_file": "IMG_1590.JPG",
+    "all_files": [
+      "IMG_1590.JPG",
+      "IMG_1591.JPG",
+      "IMG_1592.JPG",
+      "IMG_1593.JPG",
+      "IMG_1594.JPG",
+      "IMG_1595.JPG",
+      "IMG_1596.JPG",
+      "IMG_1597.JPG",
+      "IMG_1598.JPG",
+      "IMG_1599.JPG",
+      "IMG_1600.JPG",
+      "IMG_1601.JPG",
+      "IMG_1602.JPG",
+      "IMG_1603.JPG",
+      "IMG_1604.JPG",
+      "IMG_1605.JPG",
+      "IMG_1606.JPG",
+      "IMG_1607.JPG",
+      "IMG_1608.JPG",
+      "IMG_1609.JPG",
+      "IMG_1610.JPG",
+      "IMG_1611.JPG",
+      "IMG_1612.JPG",
+      "IMG_1613.JPG",
+      "IMG_1614.JPG",
+      "IMG_1615.JPG",
+      "IMG_1616.JPG",
+      "IMG_1617.JPG",
+      "IMG_1618.JPG",
+      "IMG_1619.JPG",
+      "IMG_1620.JPG",
+      "IMG_1621.JPG",
+      "IMG_1622.JPG",
+      "IMG_1623.JPG",
+      "IMG_1624.JPG",
+      "IMG_1625.JPG",
+      "IMG_1626.JPG",
+      "IMG_1627.JPG",
+      "IMG_1628.JPG",
+      "IMG_1629.JPG",
+      "IMG_1630.JPG",
+      "IMG_1631.JPG",
+      "IMG_1632.JPG",
+      "IMG_1633.JPG",
+      "IMG_1634.JPG",
+      "IMG_1635.JPG",
+      "IMG_1636.JPG",
+      "IMG_1637.JPG",
+      "IMG_1638.JPG",
+      "IMG_1639.JPG",
+      "IMG_1640.JPG",
+      "IMG_1641.JPG",
+      "IMG_1642.JPG",
+      "IMG_1643.JPG",
+      "IMG_1644.JPG",
+      "IMG_1645.JPG",
+      "IMG_1646.JPG",
+      "IMG_1647.JPG",
+      "IMG_1648.JPG",
+      "IMG_1649.JPG",
+      "IMG_1650.JPG",
+      "IMG_1654.JPG"
+    ]
+  },
+  {
+    "lat": 16.781,
+    "lon": 96.155,
+    "count": 62,
+    "start_time": "2026:01:24 14:02:38",
+    "end_time": "2026:01:24 14:22:54",
+    "sample_file": "IMG_2137.JPG",
+    "all_files": [
+      "IMG_2137.JPG",
+      "IMG_2203.JPG",
+      "IMG_2204.JPG",
+      "IMG_2205.JPG",
+      "IMG_2206.JPG",
+      "IMG_2207.JPG",
+      "IMG_2208.JPG",
+      "IMG_2209.JPG",
+      "IMG_2210.JPG",
+      "IMG_2211.JPG",
+      "IMG_2212.JPG",
+      "IMG_2213.JPG",
+      "IMG_2214.JPG",
+      "IMG_2215.JPG",
+      "IMG_2216.JPG",
+      "IMG_2217.JPG",
+      "IMG_2218.JPG",
+      "IMG_2219.JPG",
+      "IMG_2220.JPG",
+      "IMG_2222.JPG",
+      "IMG_2223.JPG",
+      "IMG_2224.JPG",
+      "IMG_2225.JPG",
+      "IMG_2226.JPG",
+      "IMG_2227.JPG",
+      "IMG_2228.JPG",
+      "IMG_2229.JPG",
+      "IMG_2230.JPG",
+      "IMG_2231.JPG",
+      "IMG_2232.JPG",
+      "IMG_2233.JPG",
+      "IMG_2234.JPG",
+      "IMG_2235.JPG",
+      "IMG_2236.JPG",
+      "IMG_2237.JPG",
+      "IMG_2238.JPG",
+      "IMG_2239.JPG",
+      "IMG_2240.JPG",
+      "IMG_2242.JPG",
+      "IMG_2243.JPG",
+      "IMG_2244.JPG",
+      "IMG_2245.JPG",
+      "IMG_2246.JPG",
+      "IMG_2247.JPG",
+      "IMG_2248.JPG",
+      "IMG_2249.JPG",
+      "IMG_2250.JPG",
+      "IMG_2251.JPG",
+      "IMG_2252.JPG",
+      "IMG_2253.JPG",
+      "IMG_2254.JPG",
+      "IMG_2255.JPG",
+      "IMG_2256.JPG",
+      "IMG_2257.JPG",
+      "IMG_2258.JPG",
+      "IMG_2259.JPG",
+      "IMG_2260.JPG",
+      "IMG_2261.JPG",
+      "IMG_2262.JPG",
+      "IMG_2263.JPG",
+      "IMG_2264.JPG",
+      "IMG_2265.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.155,
+    "count": 60,
+    "start_time": "2026:01:18 08:44:28",
+    "end_time": "2026:01:24 14:35:44",
+    "sample_file": "IMG_9808.JPG",
+    "all_files": [
+      "IMG_9808.JPG",
+      "IMG_9809.JPG",
+      "IMG_9810.JPG",
+      "IMG_2032.JPG",
+      "IMG_2033.JPG",
+      "IMG_2034.JPG",
+      "IMG_2035.JPG",
+      "IMG_2036.JPG",
+      "IMG_2037.JPG",
+      "IMG_2038.JPG",
+      "IMG_2039.JPG",
+      "IMG_2040.JPG",
+      "IMG_2041.JPG",
+      "IMG_2042.JPG",
+      "IMG_2043.JPG",
+      "IMG_2044.JPG",
+      "IMG_2052.JPG",
+      "IMG_2053.JPG",
+      "IMG_2054.JPG",
+      "IMG_2092.JPG",
+      "IMG_2093.JPG",
+      "IMG_2094.JPG",
+      "IMG_2095.JPG",
+      "IMG_2096.JPG",
+      "IMG_2097.JPG",
+      "IMG_2098.JPG",
+      "IMG_2100.JPG",
+      "IMG_2101.JPG",
+      "IMG_2102.JPG",
+      "IMG_2103.JPG",
+      "IMG_2104.JPG",
+      "IMG_2105.JPG",
+      "IMG_2106.JPG",
+      "IMG_2107.JPG",
+      "IMG_2108.JPG",
+      "IMG_2109.JPG",
+      "IMG_2110.JPG",
+      "IMG_2111.JPG",
+      "IMG_2112.JPG",
+      "IMG_2113.JPG",
+      "IMG_2168.JPG",
+      "IMG_2169.JPG",
+      "IMG_2170.JPG",
+      "IMG_2171.JPG",
+      "IMG_2172.JPG",
+      "IMG_2173.JPG",
+      "IMG_2174.JPG",
+      "IMG_2175.JPG",
+      "IMG_2176.JPG",
+      "IMG_2177.JPG",
+      "IMG_2178.JPG",
+      "IMG_2179.JPG",
+      "IMG_2180.JPG",
+      "IMG_2181.JPG",
+      "IMG_2182.JPG",
+      "IMG_2183.JPG",
+      "IMG_2268.JPG",
+      "IMG_2269.JPG",
+      "IMG_2270.JPG",
+      "IMG_2280.JPG"
+    ]
+  },
+  {
+    "lat": 16.828,
+    "lon": 96.155,
+    "count": 59,
+    "start_time": "2026:01:18 14:07:59",
+    "end_time": "2026:01:18 20:33:41",
+    "sample_file": "IMG_0312.JPG",
+    "all_files": [
+      "IMG_0312.JPG",
+      "IMG_0313.JPG",
+      "IMG_0314.JPG",
+      "IMG_0315.JPG",
+      "IMG_0316.JPG",
+      "IMG_0690.JPG",
+      "IMG_0691.JPG",
+      "IMG_0692.JPG",
+      "IMG_0693.JPG",
+      "IMG_0694.JPG",
+      "IMG_0695.JPG",
+      "IMG_0696.JPG",
+      "IMG_0697.JPG",
+      "IMG_0699.JPG",
+      "IMG_0700.JPG",
+      "IMG_0701.JPG",
+      "IMG_0702.JPG",
+      "IMG_0703.JPG",
+      "IMG_0704.JPG",
+      "IMG_0705.JPG",
+      "IMG_0706.JPG",
+      "IMG_0707.JPG",
+      "IMG_0708.JPG",
+      "IMG_0709.JPG",
+      "IMG_0710.JPG",
+      "IMG_0711.JPG",
+      "IMG_0712.JPG",
+      "IMG_0714.JPG",
+      "IMG_0715.JPG",
+      "IMG_0716.JPG",
+      "IMG_0717.JPG",
+      "IMG_0721.JPG",
+      "IMG_0723.JPG",
+      "IMG_0724.JPG",
+      "IMG_0725.JPG",
+      "IMG_0726.JPG",
+      "IMG_0727.JPG",
+      "IMG_0728.JPG",
+      "IMG_0729.JPG",
+      "IMG_0730.JPG",
+      "IMG_0731.JPG",
+      "IMG_0732.JPG",
+      "IMG_0733.JPG",
+      "IMG_0734.JPG",
+      "IMG_0735.JPG",
+      "IMG_0736.JPG",
+      "IMG_0737.JPG",
+      "IMG_0738.JPG",
+      "IMG_0739.JPG",
+      "IMG_0740.JPG",
+      "IMG_0741.JPG",
+      "IMG_0742.JPG",
+      "IMG_0743.JPG",
+      "IMG_0744.JPG",
+      "IMG_0745.JPG",
+      "IMG_0746.JPG",
+      "IMG_0747.JPG",
+      "IMG_0748.JPG",
+      "IMG_0749.JPG"
+    ]
+  },
+  {
+    "lat": 16.831,
+    "lon": 96.134,
+    "count": 51,
+    "start_time": "2026:01:18 16:54:08",
+    "end_time": "2026:01:18 17:22:54",
+    "sample_file": "IMG_0485.JPG",
+    "all_files": [
+      "IMG_0485.JPG",
+      "IMG_0486.JPG",
+      "IMG_0487.JPG",
+      "IMG_0488.JPG",
+      "IMG_0489.JPG",
+      "IMG_0490.JPG",
+      "IMG_0491.JPG",
+      "IMG_0492.JPG",
+      "IMG_0493.JPG",
+      "IMG_0494.JPG",
+      "IMG_0495.JPG",
+      "IMG_0496.JPG",
+      "IMG_0497.JPG",
+      "IMG_0498.JPG",
+      "IMG_0499.JPG",
+      "IMG_0500.JPG",
+      "IMG_0501.JPG",
+      "IMG_0502.JPG",
+      "IMG_0505.JPG",
+      "IMG_0506.JPG",
+      "IMG_0507.JPG",
+      "IMG_0508.JPG",
+      "IMG_0509.JPG",
+      "IMG_0510.JPG",
+      "IMG_0511.JPG",
+      "IMG_0512.JPG",
+      "IMG_0513.JPG",
+      "IMG_0514.JPG",
+      "IMG_0515.JPG",
+      "IMG_0516.JPG",
+      "IMG_0517.JPG",
+      "IMG_0518.JPG",
+      "IMG_0519.JPG",
+      "IMG_0520.JPG",
+      "IMG_0521.JPG",
+      "IMG_0522.JPG",
+      "IMG_0523.JPG",
+      "IMG_0524.JPG",
+      "IMG_0525.JPG",
+      "IMG_0526.JPG",
+      "IMG_0527.JPG",
+      "IMG_0532.JPG",
+      "IMG_0533.JPG",
+      "IMG_0534.JPG",
+      "IMG_0535.JPG",
+      "IMG_0536.JPG",
+      "IMG_0537.JPG",
+      "IMG_0539.JPG",
+      "IMG_0540.JPG",
+      "IMG_0541.JPG",
+      "IMG_0542.JPG"
+    ]
+  },
+  {
+    "lat": 16.774,
+    "lon": 96.16,
+    "count": 49,
+    "start_time": "2026:01:18 10:44:41",
+    "end_time": "2026:01:18 13:00:21",
+    "sample_file": "IMG_0071.JPG",
+    "all_files": [
+      "IMG_0071.JPG",
+      "IMG_0072.JPG",
+      "IMG_0073.JPG",
+      "IMG_0074.JPG",
+      "IMG_0075.JPG",
+      "IMG_0076.JPG",
+      "IMG_0077.JPG",
+      "IMG_0078.JPG",
+      "IMG_0079.JPG",
+      "IMG_0080.JPG",
+      "IMG_0081.JPG",
+      "IMG_0082.JPG",
+      "IMG_0087.JPG",
+      "IMG_0088.JPG",
+      "IMG_0089.JPG",
+      "IMG_0090.JPG",
+      "IMG_0092.JPG",
+      "IMG_0097.JPG",
+      "IMG_0098.JPG",
+      "IMG_0102.JPG",
+      "IMG_0104.JPG",
+      "IMG_0107.JPG",
+      "IMG_0109.JPG",
+      "IMG_0112.JPG",
+      "IMG_0114.JPG",
+      "IMG_0115.JPG",
+      "IMG_0116.JPG",
+      "IMG_0117.JPG",
+      "IMG_0121.JPG",
+      "IMG_0122.JPG",
+      "IMG_0128.JPG",
+      "IMG_0129.JPG",
+      "IMG_0130.JPG",
+      "IMG_0131.JPG",
+      "IMG_0132.JPG",
+      "IMG_0133.JPG",
+      "IMG_0134.JPG",
+      "IMG_0135.JPG",
+      "IMG_0136.JPG",
+      "IMG_0137.JPG",
+      "IMG_0138.JPG",
+      "IMG_0139.JPG",
+      "IMG_0140.JPG",
+      "IMG_0142.JPG",
+      "IMG_0147.JPG",
+      "IMG_0148.JPG",
+      "IMG_0149.JPG",
+      "IMG_0150.JPG",
+      "IMG_0151.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.139,
+    "count": 48,
+    "start_time": "2026:01:19 08:22:28",
+    "end_time": "2026:01:21 20:07:40",
+    "sample_file": "IMG_0780.JPG",
+    "all_files": [
+      "IMG_0780.JPG",
+      "IMG_0781.JPG",
+      "IMG_0782.JPG",
+      "IMG_0783.JPG",
+      "IMG_0784.JPG",
+      "IMG_0785.JPG",
+      "IMG_0796.JPG",
+      "IMG_0797.JPG",
+      "IMG_0798.JPG",
+      "IMG_1188.JPG",
+      "IMG_1189.JPG",
+      "IMG_1190.JPG",
+      "IMG_1191.JPG",
+      "IMG_1192.JPG",
+      "IMG_1193.JPG",
+      "IMG_1194.JPG",
+      "IMG_1195.JPG",
+      "IMG_1196.JPG",
+      "IMG_1197.JPG",
+      "IMG_1198.JPG",
+      "IMG_1199.JPG",
+      "IMG_1200.JPG",
+      "IMG_1201.JPG",
+      "IMG_1239.JPG",
+      "IMG_1240.JPG",
+      "IMG_1241.JPG",
+      "IMG_1242.JPG",
+      "IMG_1243.JPG",
+      "IMG_1244.JPG",
+      "IMG_1245.JPG",
+      "IMG_1246.JPG",
+      "IMG_1247.JPG",
+      "IMG_1248.JPG",
+      "IMG_1249.JPG",
+      "IMG_1250.JPG",
+      "IMG_1251.JPG",
+      "IMG_1252.JPG",
+      "IMG_1253.JPG",
+      "IMG_1254.JPG",
+      "IMG_1255.JPG",
+      "IMG_1256.JPG",
+      "IMG_1257.JPG",
+      "IMG_1258.JPG",
+      "IMG_1259.JPG",
+      "IMG_1260.JPG",
+      "IMG_1261.JPG",
+      "IMG_1262.JPG",
+      "IMG_1263.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.154,
+    "count": 47,
+    "start_time": "2026:01:24 12:25:22",
+    "end_time": "2026:01:24 14:34:36",
+    "sample_file": "IMG_2022.JPG",
+    "all_files": [
+      "IMG_2022.JPG",
+      "IMG_2045.JPG",
+      "IMG_2046.JPG",
+      "IMG_2047.JPG",
+      "IMG_2048.JPG",
+      "IMG_2049.JPG",
+      "IMG_2050.JPG",
+      "IMG_2051.JPG",
+      "IMG_2055.JPG",
+      "IMG_2056.JPG",
+      "IMG_2057.JPG",
+      "IMG_2058.JPG",
+      "IMG_2059.JPG",
+      "IMG_2061.JPG",
+      "IMG_2062.JPG",
+      "IMG_2063.JPG",
+      "IMG_2064.JPG",
+      "IMG_2065.JPG",
+      "IMG_2066.JPG",
+      "IMG_2067.JPG",
+      "IMG_2068.JPG",
+      "IMG_2069.JPG",
+      "IMG_2070.JPG",
+      "IMG_2071.JPG",
+      "IMG_2073.JPG",
+      "IMG_2077.JPG",
+      "IMG_2078.JPG",
+      "IMG_2079.JPG",
+      "IMG_2080.JPG",
+      "IMG_2081.JPG",
+      "IMG_2082.JPG",
+      "IMG_2083.JPG",
+      "IMG_2084.JPG",
+      "IMG_2085.JPG",
+      "IMG_2086.JPG",
+      "IMG_2087.JPG",
+      "IMG_2088.JPG",
+      "IMG_2089.JPG",
+      "IMG_2090.JPG",
+      "IMG_2091.JPG",
+      "IMG_2271.JPG",
+      "IMG_2272.JPG",
+      "IMG_2273.JPG",
+      "IMG_2274.JPG",
+      "IMG_2277.JPG",
+      "IMG_2278.JPG",
+      "IMG_2279.JPG"
+    ]
+  },
+  {
+    "lat": 16.809,
+    "lon": 96.137,
+    "count": 46,
+    "start_time": "2026:01:18 08:19:30",
+    "end_time": "2026:01:26 12:26:04",
+    "sample_file": "IMG_9749.JPG",
+    "all_files": [
+      "IMG_9749.JPG",
+      "IMG_9750.JPG",
+      "IMG_9751.JPG",
+      "IMG_9752.JPG",
+      "IMG_9753.JPG",
+      "IMG_9754.JPG",
+      "IMG_9755.JPG",
+      "IMG_9756.JPG",
+      "IMG_9757.JPG",
+      "IMG_9758.JPG",
+      "IMG_9760.JPG",
+      "IMG_9761.JPG",
+      "IMG_9762.JPG",
+      "IMG_9763.JPG",
+      "IMG_9764.JPG",
+      "IMG_9765.JPG",
+      "IMG_9766.JPG",
+      "IMG_9767.JPG",
+      "IMG_9768.JPG",
+      "IMG_9769.JPG",
+      "IMG_9770.JPG",
+      "IMG_9771.JPG",
+      "IMG_0858.JPG",
+      "IMG_1147.JPG",
+      "IMG_1148.JPG",
+      "IMG_1176.JPG",
+      "IMG_1177.JPG",
+      "IMG_1178.JPG",
+      "IMG_1184.JPG",
+      "IMG_1185.JPG",
+      "IMG_1372.JPG",
+      "IMG_2359.JPG",
+      "IMG_2363.JPG",
+      "IMG_2364.JPG",
+      "IMG_2365.JPG",
+      "IMG_2366.JPG",
+      "IMG_2367.JPG",
+      "IMG_2368.JPG",
+      "IMG_2369.JPG",
+      "IMG_2370.JPG",
+      "IMG_2371.JPG",
+      "IMG_2733.JPG",
+      "IMG_2734.JPG",
+      "IMG_2780.JPG",
+      "IMG_2781.JPG",
+      "IMG_2806.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.15,
+    "count": 46,
+    "start_time": "2026:01:22 18:17:12",
+    "end_time": "2026:01:22 18:27:36",
+    "sample_file": "IMG_1511.JPG",
+    "all_files": [
+      "IMG_1511.JPG",
+      "IMG_1512.JPG",
+      "IMG_1513.JPG",
+      "IMG_1514.JPG",
+      "IMG_1515.JPG",
+      "IMG_1549.JPG",
+      "IMG_1550.JPG",
+      "IMG_1551.JPG",
+      "IMG_1552.JPG",
+      "IMG_1553.JPG",
+      "IMG_1554.JPG",
+      "IMG_1555.JPG",
+      "IMG_1556.JPG",
+      "IMG_1557.JPG",
+      "IMG_1558.JPG",
+      "IMG_1559.JPG",
+      "IMG_1560.JPG",
+      "IMG_1561.JPG",
+      "IMG_1562.JPG",
+      "IMG_1563.JPG",
+      "IMG_1564.JPG",
+      "IMG_1565.JPG",
+      "IMG_1566.JPG",
+      "IMG_1567.JPG",
+      "IMG_1568.JPG",
+      "IMG_1569.JPG",
+      "IMG_1570.JPG",
+      "IMG_1571.JPG",
+      "IMG_1572.JPG",
+      "IMG_1573.JPG",
+      "IMG_1574.JPG",
+      "IMG_1575.JPG",
+      "IMG_1576.JPG",
+      "IMG_1577.JPG",
+      "IMG_1578.JPG",
+      "IMG_1579.JPG",
+      "IMG_1580.JPG",
+      "IMG_1581.JPG",
+      "IMG_1582.JPG",
+      "IMG_1583.JPG",
+      "IMG_1584.JPG",
+      "IMG_1585.JPG",
+      "IMG_1586.JPG",
+      "IMG_1587.JPG",
+      "IMG_1588.JPG",
+      "IMG_1589.JPG"
+    ]
+  },
+  {
+    "lat": 16.769,
+    "lon": 96.162,
+    "count": 45,
+    "start_time": "2026:01:18 13:12:51",
+    "end_time": "2026:01:18 13:29:08",
+    "sample_file": "IMG_0182.JPG",
+    "all_files": [
+      "IMG_0182.JPG",
+      "IMG_0183.JPG",
+      "IMG_0184.JPG",
+      "IMG_0185.JPG",
+      "IMG_0205.JPG",
+      "IMG_0206.JPG",
+      "IMG_0207.JPG",
+      "IMG_0208.JPG",
+      "IMG_0209.JPG",
+      "IMG_0210.JPG",
+      "IMG_0211.JPG",
+      "IMG_0212.JPG",
+      "IMG_0213.JPG",
+      "IMG_0214.JPG",
+      "IMG_0215.JPG",
+      "IMG_0216.JPG",
+      "IMG_0217.JPG",
+      "IMG_0218.JPG",
+      "IMG_0219.JPG",
+      "IMG_0220.JPG",
+      "IMG_0221.JPG",
+      "IMG_0222.JPG",
+      "IMG_0223.JPG",
+      "IMG_0224.JPG",
+      "IMG_0225.JPG",
+      "IMG_0226.JPG",
+      "IMG_0227.JPG",
+      "IMG_0228.JPG",
+      "IMG_0229.JPG",
+      "IMG_0230.JPG",
+      "IMG_0231.JPG",
+      "IMG_0232.JPG",
+      "IMG_0233.JPG",
+      "IMG_0234.JPG",
+      "IMG_0235.JPG",
+      "IMG_0236.JPG",
+      "IMG_0237.JPG",
+      "IMG_0238.JPG",
+      "IMG_0239.JPG",
+      "IMG_0240.JPG",
+      "IMG_0241.JPG",
+      "IMG_0242.JPG",
+      "IMG_0243.JPG",
+      "IMG_0244.JPG",
+      "IMG_0245.JPG"
+    ]
+  },
+  {
+    "lat": 16.903,
+    "lon": 96.136,
+    "count": 36,
+    "start_time": "2026:01:27 09:05:45",
+    "end_time": "2026:01:27 11:12:42",
+    "sample_file": "IMG_2900.JPG",
+    "all_files": [
+      "IMG_2900.JPG",
+      "IMG_2901.JPG",
+      "IMG_2903.JPG",
+      "IMG_2904.JPG",
+      "IMG_2905.JPG",
+      "IMG_2906.JPG",
+      "IMG_2907.JPG",
+      "IMG_2908.JPG",
+      "IMG_2909.JPG",
+      "IMG_2910.JPG",
+      "IMG_2911.JPG",
+      "IMG_2912.JPG",
+      "IMG_2913.JPG",
+      "IMG_2914.JPG",
+      "IMG_2915.JPG",
+      "IMG_2916.JPG",
+      "IMG_2917.JPG",
+      "IMG_2918.JPG",
+      "IMG_2919.JPG",
+      "IMG_2920.JPG",
+      "IMG_2921.JPG",
+      "IMG_2922.JPG",
+      "IMG_2923.JPG",
+      "IMG_2924.JPG",
+      "IMG_2925.JPG",
+      "IMG_2926.JPG",
+      "IMG_2927.JPG",
+      "IMG_2928.JPG",
+      "IMG_2929.JPG",
+      "IMG_2930.JPG",
+      "IMG_2931.JPG",
+      "IMG_2932.JPG",
+      "IMG_2956.JPG",
+      "IMG_2957.JPG",
+      "IMG_2958.JPG",
+      "IMG_2959.JPG"
+    ]
+  },
+  {
+    "lat": 16.78,
+    "lon": 96.155,
+    "count": 34,
+    "start_time": "2026:01:24 12:26:01",
+    "end_time": "2026:01:24 14:23:31",
+    "sample_file": "IMG_2023.JPG",
+    "all_files": [
+      "IMG_2023.JPG",
+      "IMG_2024.JPG",
+      "IMG_2025.JPG",
+      "IMG_2026.JPG",
+      "IMG_2027.JPG",
+      "IMG_2028.JPG",
+      "IMG_2029.JPG",
+      "IMG_2030.JPG",
+      "IMG_2031.JPG",
+      "IMG_2099.JPG",
+      "IMG_2116.JPG",
+      "IMG_2117.JPG",
+      "IMG_2184.JPG",
+      "IMG_2185.JPG",
+      "IMG_2186.JPG",
+      "IMG_2187.JPG",
+      "IMG_2188.JPG",
+      "IMG_2189.JPG",
+      "IMG_2190.JPG",
+      "IMG_2191.JPG",
+      "IMG_2192.JPG",
+      "IMG_2193.JPG",
+      "IMG_2194.JPG",
+      "IMG_2195.JPG",
+      "IMG_2196.JPG",
+      "IMG_2197.JPG",
+      "IMG_2198.JPG",
+      "IMG_2199.JPG",
+      "IMG_2200.JPG",
+      "IMG_2201.JPG",
+      "IMG_2202.JPG",
+      "IMG_2221.JPG",
+      "IMG_2266.JPG",
+      "IMG_2267.JPG"
+    ]
+  },
+  {
+    "lat": 16.833,
+    "lon": 96.168,
+    "count": 34,
+    "start_time": "2026:01:24 18:33:59",
+    "end_time": "2026:01:24 20:42:37",
+    "sample_file": "IMG_2312.JPG",
+    "all_files": [
+      "IMG_2312.JPG",
+      "IMG_2313.JPG",
+      "IMG_2314.JPG",
+      "IMG_2315.JPG",
+      "IMG_2316.JPG",
+      "IMG_2317.JPG",
+      "IMG_2318.JPG",
+      "IMG_2319.JPG",
+      "IMG_2320.JPG",
+      "IMG_2321.JPG",
+      "IMG_2322.JPG",
+      "IMG_2323.JPG",
+      "IMG_2324.JPG",
+      "IMG_2325.JPG",
+      "IMG_2326.JPG",
+      "IMG_2327.JPG",
+      "IMG_2328.JPG",
+      "IMG_2329.JPG",
+      "IMG_2330.JPG",
+      "IMG_2331.JPG",
+      "IMG_2332.JPG",
+      "IMG_2333.JPG",
+      "IMG_2334.JPG",
+      "IMG_2335.JPG",
+      "IMG_2336.JPG",
+      "IMG_2337.JPG",
+      "IMG_2338.JPG",
+      "IMG_2339.JPG",
+      "IMG_2340.JPG",
+      "IMG_2341.JPG",
+      "IMG_2342.JPG",
+      "IMG_2343.JPG",
+      "IMG_2345.JPG",
+      "IMG_2347.JPG"
+    ]
+  },
+  {
+    "lat": 16.78,
+    "lon": 96.156,
+    "count": 31,
+    "start_time": "2026:01:24 13:45:53",
+    "end_time": "2026:01:24 14:09:34",
+    "sample_file": "IMG_2115.JPG",
+    "all_files": [
+      "IMG_2115.JPG",
+      "IMG_2118.JPG",
+      "IMG_2119.JPG",
+      "IMG_2120.JPG",
+      "IMG_2121.JPG",
+      "IMG_2122.JPG",
+      "IMG_2123.JPG",
+      "IMG_2124.JPG",
+      "IMG_2125.JPG",
+      "IMG_2126.JPG",
+      "IMG_2127.JPG",
+      "IMG_2128.JPG",
+      "IMG_2129.JPG",
+      "IMG_2130.JPG",
+      "IMG_2131.JPG",
+      "IMG_2145.JPG",
+      "IMG_2146.JPG",
+      "IMG_2147.JPG",
+      "IMG_2148.JPG",
+      "IMG_2149.JPG",
+      "IMG_2150.JPG",
+      "IMG_2151.JPG",
+      "IMG_2152.JPG",
+      "IMG_2153.JPG",
+      "IMG_2154.JPG",
+      "IMG_2155.JPG",
+      "IMG_2156.JPG",
+      "IMG_2157.JPG",
+      "IMG_2158.JPG",
+      "IMG_2159.JPG",
+      "IMG_2160.JPG"
+    ]
+  },
+  {
+    "lat": 16.83,
+    "lon": 96.174,
+    "count": 30,
+    "start_time": "2026:01:20 18:37:17",
+    "end_time": "2026:01:20 21:51:32",
+    "sample_file": "IMG_1102.JPG",
+    "all_files": [
+      "IMG_1102.JPG",
+      "IMG_1103.JPG",
+      "IMG_1104.JPG",
+      "IMG_1105.JPG",
+      "IMG_1106.JPG",
+      "IMG_1107.JPG",
+      "IMG_1108.JPG",
+      "IMG_1109.JPG",
+      "IMG_1110.JPG",
+      "IMG_1111.JPG",
+      "IMG_1112.JPG",
+      "IMG_1113.JPG",
+      "IMG_1114.JPG",
+      "IMG_1115.JPG",
+      "IMG_1116.JPG",
+      "IMG_1117.JPG",
+      "IMG_1118.JPG",
+      "IMG_1119.JPG",
+      "IMG_1120.JPG",
+      "IMG_1121.JPG",
+      "IMG_1126.JPG",
+      "IMG_1127.JPG",
+      "IMG_1128.JPG",
+      "IMG_1129.JPG",
+      "IMG_1130.JPG",
+      "IMG_1131.JPG",
+      "IMG_1132.JPG",
+      "IMG_1133.JPG",
+      "IMG_1134.JPG",
+      "IMG_1135.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.139,
+    "count": 30,
+    "start_time": "2026:01:21 18:23:17",
+    "end_time": "2026:01:21 20:03:39",
+    "sample_file": "IMG_1202.JPG",
+    "all_files": [
+      "IMG_1202.JPG",
+      "IMG_1203.JPG",
+      "IMG_1204.JPG",
+      "IMG_1205.JPG",
+      "IMG_1206.JPG",
+      "IMG_1207.JPG",
+      "IMG_1208.JPG",
+      "IMG_1209.JPG",
+      "IMG_1210.JPG",
+      "IMG_1211.JPG",
+      "IMG_1212.JPG",
+      "IMG_1213.JPG",
+      "IMG_1214.JPG",
+      "IMG_1215.JPG",
+      "IMG_1216.JPG",
+      "IMG_1217.JPG",
+      "IMG_1218.JPG",
+      "IMG_1219.JPG",
+      "IMG_1220.JPG",
+      "IMG_1221.JPG",
+      "IMG_1222.JPG",
+      "IMG_1223.JPG",
+      "IMG_1224.JPG",
+      "IMG_1225.JPG",
+      "IMG_1231.JPG",
+      "IMG_1232.JPG",
+      "IMG_1233.JPG",
+      "IMG_1234.JPG",
+      "IMG_1235.JPG",
+      "IMG_1236.JPG"
+    ]
+  },
+  {
+    "lat": 16.883,
+    "lon": 96.101,
+    "count": 26,
+    "start_time": "2026:01:18 14:42:16",
+    "end_time": "2026:01:18 14:59:00",
+    "sample_file": "IMG_0357.JPG",
+    "all_files": [
+      "IMG_0357.JPG",
+      "IMG_0358.JPG",
+      "IMG_0359.JPG",
+      "IMG_0360.JPG",
+      "IMG_0361.JPG",
+      "IMG_0362.JPG",
+      "IMG_0363.JPG",
+      "IMG_0369.JPG",
+      "IMG_0370.JPG",
+      "IMG_0371.JPG",
+      "IMG_0372.JPG",
+      "IMG_0373.JPG",
+      "IMG_0374.JPG",
+      "IMG_0388.JPG",
+      "IMG_0389.JPG",
+      "IMG_0390.JPG",
+      "IMG_0391.JPG",
+      "IMG_0392.JPG",
+      "IMG_0393.JPG",
+      "IMG_0394.JPG",
+      "IMG_0395.JPG",
+      "IMG_0396.JPG",
+      "IMG_0397.JPG",
+      "IMG_0398.JPG",
+      "IMG_0399.JPG",
+      "IMG_0400.JPG"
+    ]
+  },
+  {
+    "lat": 16.874,
+    "lon": 96.148,
+    "count": 26,
+    "start_time": "2026:01:20 16:33:33",
+    "end_time": "2026:01:20 16:47:48",
+    "sample_file": "IMG_0939.JPG",
+    "all_files": [
+      "IMG_0939.JPG",
+      "IMG_0961.JPG",
+      "IMG_0962.JPG",
+      "IMG_0963.JPG",
+      "IMG_0964.JPG",
+      "IMG_0965.JPG",
+      "IMG_0966.JPG",
+      "IMG_0967.JPG",
+      "IMG_0968.JPG",
+      "IMG_0969.JPG",
+      "IMG_0970.JPG",
+      "IMG_0971.JPG",
+      "IMG_0972.JPG",
+      "IMG_0973.JPG",
+      "IMG_0974.JPG",
+      "IMG_0975.JPG",
+      "IMG_0976.JPG",
+      "IMG_1001.JPG",
+      "IMG_1002.JPG",
+      "IMG_1003.JPG",
+      "IMG_1004.JPG",
+      "IMG_1005.JPG",
+      "IMG_1006.JPG",
+      "IMG_1007.JPG",
+      "IMG_1008.JPG",
+      "IMG_1009.JPG"
+    ]
+  },
+  {
+    "lat": 16.808,
+    "lon": 96.138,
+    "count": 25,
+    "start_time": "2026:01:18 06:36:56",
+    "end_time": "2026:01:25 09:32:04",
+    "sample_file": "IMG_9720.JPG",
+    "all_files": [
+      "IMG_9720.JPG",
+      "IMG_9721.JPG",
+      "IMG_9722.JPG",
+      "IMG_9723.JPG",
+      "IMG_9724.JPG",
+      "IMG_9725.JPG",
+      "IMG_9726.JPG",
+      "IMG_9727.JPG",
+      "IMG_9737.JPG",
+      "IMG_9738.JPG",
+      "IMG_0768.JPG",
+      "IMG_0772.JPG",
+      "IMG_0774.JPG",
+      "IMG_0775.JPG",
+      "IMG_0776.JPG",
+      "IMG_0804.JPG",
+      "IMG_0805.JPG",
+      "IMG_0806.JPG",
+      "IMG_0807.JPG",
+      "IMG_0808.JPG",
+      "IMG_0809.JPG",
+      "IMG_0831.JPG",
+      "IMG_1179.JPG",
+      "IMG_1186.JPG",
+      "IMG_2358.JPG"
+    ]
+  },
+  {
+    "lat": 16.801,
+    "lon": 96.158,
+    "count": 25,
+    "start_time": "2026:01:22 09:44:06",
+    "end_time": "2026:01:22 11:31:26",
+    "sample_file": "IMG_1316.JPG",
+    "all_files": [
+      "IMG_1316.JPG",
+      "IMG_1317.JPG",
+      "IMG_1318.JPG",
+      "IMG_1319.JPG",
+      "IMG_1320.JPG",
+      "IMG_1321.JPG",
+      "IMG_1322.JPG",
+      "IMG_1323.JPG",
+      "IMG_1328.JPG",
+      "IMG_1329.JPG",
+      "IMG_1332.JPG",
+      "IMG_1333.JPG",
+      "IMG_1334.JPG",
+      "IMG_1335.JPG",
+      "IMG_1336.JPG",
+      "IMG_1337.JPG",
+      "IMG_1338.JPG",
+      "IMG_1339.JPG",
+      "IMG_1340.JPG",
+      "IMG_1341.JPG",
+      "IMG_1342.JPG",
+      "IMG_1355.JPG",
+      "IMG_1356.JPG",
+      "IMG_1357.JPG",
+      "IMG_1358.JPG"
+    ]
+  },
+  {
+    "lat": 16.797,
+    "lon": 96.149,
+    "count": 25,
+    "start_time": "2026:01:22 18:40:44",
+    "end_time": "2026:01:22 18:56:32",
+    "sample_file": "IMG_1660.JPG",
+    "all_files": [
+      "IMG_1660.JPG",
+      "IMG_1676.JPG",
+      "IMG_1677.JPG",
+      "IMG_1680.JPG",
+      "IMG_1681.JPG",
+      "IMG_1682.JPG",
+      "IMG_1683.JPG",
+      "IMG_1684.JPG",
+      "IMG_1685.JPG",
+      "IMG_1686.JPG",
+      "IMG_1687.JPG",
+      "IMG_1688.JPG",
+      "IMG_1689.JPG",
+      "IMG_1691.JPG",
+      "IMG_1692.JPG",
+      "IMG_1693.JPG",
+      "IMG_1694.JPG",
+      "IMG_1695.JPG",
+      "IMG_1705.JPG",
+      "IMG_1707.JPG",
+      "IMG_1718.JPG",
+      "IMG_1719.JPG",
+      "IMG_1720.JPG",
+      "IMG_1721.JPG",
+      "IMG_1722.JPG"
+    ]
+  },
+  {
+    "lat": 13.69,
+    "lon": 100.746,
+    "count": 25,
+    "start_time": "2026:01:17 18:54:14",
+    "end_time": "2026:01:17 19:15:25",
+    "sample_file": "IMG_9602.JPG",
+    "all_files": [
+      "IMG_9602.JPG",
+      "IMG_9603.JPG",
+      "IMG_9604.JPG",
+      "IMG_9605.JPG",
+      "IMG_9606.JPG",
+      "IMG_9607.JPG",
+      "IMG_9608.JPG",
+      "IMG_9609.JPG",
+      "IMG_9610.JPG",
+      "IMG_9611.JPG",
+      "IMG_9612.JPG",
+      "IMG_9613.JPG",
+      "IMG_9614.JPG",
+      "IMG_9615.JPG",
+      "IMG_9616.JPG",
+      "IMG_9617.JPG",
+      "IMG_9618.JPG",
+      "IMG_9619.JPG",
+      "IMG_9620.JPG",
+      "IMG_9625.JPG",
+      "IMG_9626.JPG",
+      "IMG_9627.JPG",
+      "IMG_9628.JPG",
+      "IMG_9629.JPG",
+      "IMG_9630.JPG"
+    ]
+  },
+  {
+    "lat": 16.818,
+    "lon": 96.175,
+    "count": 23,
+    "start_time": "2026:01:25 15:37:56",
+    "end_time": "2026:01:25 17:42:05",
+    "sample_file": "IMG_2749.JPG",
+    "all_files": [
+      "IMG_2749.JPG",
+      "IMG_2750.JPG",
+      "IMG_2754.JPG",
+      "IMG_2755.JPG",
+      "IMG_2756.JPG",
+      "IMG_2757.JPG",
+      "IMG_2758.JPG",
+      "IMG_2759.JPG",
+      "IMG_2760.JPG",
+      "IMG_2761.JPG",
+      "IMG_2762.JPG",
+      "IMG_2763.JPG",
+      "IMG_2764.JPG",
+      "IMG_2765.JPG",
+      "IMG_2766.JPG",
+      "IMG_2767.JPG",
+      "IMG_2768.JPG",
+      "IMG_2769.JPG",
+      "IMG_2770.JPG",
+      "IMG_2771.JPG",
+      "IMG_2772.JPG",
+      "IMG_2773.JPG",
+      "IMG_2774.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.146,
+    "count": 22,
+    "start_time": "2026:01:18 15:30:43",
+    "end_time": "2026:01:18 16:06:03",
+    "sample_file": "IMG_0435.JPG",
+    "all_files": [
+      "IMG_0435.JPG",
+      "IMG_0436.JPG",
+      "IMG_0437.JPG",
+      "IMG_0438.JPG",
+      "IMG_0439.JPG",
+      "IMG_0440.JPG",
+      "IMG_0441.JPG",
+      "IMG_0442.JPG",
+      "IMG_0443.JPG",
+      "IMG_0444.JPG",
+      "IMG_0445.JPG",
+      "IMG_0446.JPG",
+      "IMG_0447.JPG",
+      "IMG_0448.JPG",
+      "IMG_0449.JPG",
+      "IMG_0450.JPG",
+      "IMG_0451.JPG",
+      "IMG_0452.JPG",
+      "IMG_0453.JPG",
+      "IMG_0454.JPG",
+      "IMG_0455.JPG",
+      "IMG_0456.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.151,
+    "count": 21,
+    "start_time": "2026:01:22 18:17:45",
+    "end_time": "2026:01:22 18:19:06",
+    "sample_file": "IMG_1516.JPG",
+    "all_files": [
+      "IMG_1516.JPG",
+      "IMG_1517.JPG",
+      "IMG_1518.JPG",
+      "IMG_1519.JPG",
+      "IMG_1520.JPG",
+      "IMG_1521.JPG",
+      "IMG_1522.JPG",
+      "IMG_1523.JPG",
+      "IMG_1524.JPG",
+      "IMG_1525.JPG",
+      "IMG_1526.JPG",
+      "IMG_1527.JPG",
+      "IMG_1528.JPG",
+      "IMG_1529.JPG",
+      "IMG_1530.JPG",
+      "IMG_1531.JPG",
+      "IMG_1532.JPG",
+      "IMG_1533.JPG",
+      "IMG_1534.JPG",
+      "IMG_1535.JPG",
+      "IMG_1536.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.143,
+    "count": 19,
+    "start_time": "2026:01:19 12:07:36",
+    "end_time": "2026:01:19 13:37:52",
+    "sample_file": "IMG_0812.JPG",
+    "all_files": [
+      "IMG_0812.JPG",
+      "IMG_0813.JPG",
+      "IMG_0814.JPG",
+      "IMG_0815.JPG",
+      "IMG_0816.JPG",
+      "IMG_0817.JPG",
+      "IMG_0818.JPG",
+      "IMG_0819.JPG",
+      "IMG_0820.JPG",
+      "IMG_0821.JPG",
+      "IMG_0822.JPG",
+      "IMG_0823.JPG",
+      "IMG_0824.JPG",
+      "IMG_0825.JPG",
+      "IMG_0826.JPG",
+      "IMG_0827.JPG",
+      "IMG_0828.JPG",
+      "IMG_0829.JPG",
+      "IMG_0830.JPG"
+    ]
+  },
+  {
+    "lat": 16.809,
+    "lon": 96.136,
+    "count": 19,
+    "start_time": "2026:01:20 12:09:14",
+    "end_time": "2026:01:26 17:34:34",
+    "sample_file": "IMG_0859.JPG",
+    "all_files": [
+      "IMG_0859.JPG",
+      "IMG_0860.JPG",
+      "IMG_0861.JPG",
+      "IMG_0862.JPG",
+      "IMG_1182.JPG",
+      "IMG_1183.JPG",
+      "IMG_1376.JPG",
+      "IMG_1377.JPG",
+      "IMG_1804.JPG",
+      "IMG_1808.JPG",
+      "IMG_1809.JPG",
+      "IMG_1810.JPG",
+      "IMG_1811.JPG",
+      "IMG_2803.JPG",
+      "IMG_2808.JPG",
+      "IMG_2809.JPG",
+      "IMG_2813.JPG",
+      "IMG_2814.JPG",
+      "IMG_2815.JPG"
+    ]
+  },
+  {
+    "lat": 16.883,
+    "lon": 96.102,
+    "count": 18,
+    "start_time": "2026:01:18 14:46:30",
+    "end_time": "2026:01:18 14:55:42",
+    "sample_file": "IMG_0364.JPG",
+    "all_files": [
+      "IMG_0364.JPG",
+      "IMG_0365.JPG",
+      "IMG_0366.JPG",
+      "IMG_0367.JPG",
+      "IMG_0368.JPG",
+      "IMG_0375.JPG",
+      "IMG_0376.JPG",
+      "IMG_0377.JPG",
+      "IMG_0378.JPG",
+      "IMG_0379.JPG",
+      "IMG_0380.JPG",
+      "IMG_0381.JPG",
+      "IMG_0382.JPG",
+      "IMG_0383.JPG",
+      "IMG_0384.JPG",
+      "IMG_0385.JPG",
+      "IMG_0386.JPG",
+      "IMG_0387.JPG"
+    ]
+  },
+  {
+    "lat": 16.792,
+    "lon": 96.169,
+    "count": 17,
+    "start_time": "2026:01:23 16:18:10",
+    "end_time": "2026:01:23 16:48:23",
+    "sample_file": "IMG_1860.JPG",
+    "all_files": [
+      "IMG_1860.JPG",
+      "IMG_1861.JPG",
+      "IMG_1862.JPG",
+      "IMG_1863.JPG",
+      "IMG_1874.JPG",
+      "IMG_1877.JPG",
+      "IMG_1878.JPG",
+      "IMG_1879.JPG",
+      "IMG_1880.JPG",
+      "IMG_1881.JPG",
+      "IMG_1882.JPG",
+      "IMG_1884.JPG",
+      "IMG_1885.JPG",
+      "IMG_1936.JPG",
+      "IMG_1937.JPG",
+      "IMG_1944.JPG",
+      "IMG_1945.JPG"
+    ]
+  },
+  {
+    "lat": 16.773,
+    "lon": 96.165,
+    "count": 17,
+    "start_time": "2026:01:24 09:45:31",
+    "end_time": "2026:01:24 12:07:37",
+    "sample_file": "IMG_1995.JPG",
+    "all_files": [
+      "IMG_1995.JPG",
+      "IMG_1996.JPG",
+      "IMG_1997.JPG",
+      "IMG_1998.JPG",
+      "IMG_1999.JPG",
+      "IMG_2001.JPG",
+      "IMG_2002.JPG",
+      "IMG_2003.JPG",
+      "IMG_2004.JPG",
+      "IMG_2005.JPG",
+      "IMG_2006.JPG",
+      "IMG_2007.JPG",
+      "IMG_2008.JPG",
+      "IMG_2009.JPG",
+      "IMG_2010.JPG",
+      "IMG_2011.JPG",
+      "IMG_2012.JPG"
+    ]
+  },
+  {
+    "lat": 16.774,
+    "lon": 96.161,
+    "count": 16,
+    "start_time": "2026:01:18 10:49:47",
+    "end_time": "2026:01:18 12:40:06",
+    "sample_file": "IMG_0083.JPG",
+    "all_files": [
+      "IMG_0083.JPG",
+      "IMG_0084.JPG",
+      "IMG_0085.JPG",
+      "IMG_0086.JPG",
+      "IMG_0091.JPG",
+      "IMG_0093.JPG",
+      "IMG_0094.JPG",
+      "IMG_0095.JPG",
+      "IMG_0099.JPG",
+      "IMG_0108.JPG",
+      "IMG_0110.JPG",
+      "IMG_0111.JPG",
+      "IMG_0124.JPG",
+      "IMG_0125.JPG",
+      "IMG_0126.JPG",
+      "IMG_0127.JPG"
+    ]
+  },
+  {
+    "lat": 13.693,
+    "lon": 100.747,
+    "count": 16,
+    "start_time": "2026:01:17 18:43:24",
+    "end_time": "2026:01:17 18:48:00",
+    "sample_file": "IMG_9571.JPG",
+    "all_files": [
+      "IMG_9571.JPG",
+      "IMG_9572.JPG",
+      "IMG_9573.JPG",
+      "IMG_9574.JPG",
+      "IMG_9575.JPG",
+      "IMG_9576.JPG",
+      "IMG_9577.JPG",
+      "IMG_9578.JPG",
+      "IMG_9579.JPG",
+      "IMG_9580.JPG",
+      "IMG_9581.JPG",
+      "IMG_9582.JPG",
+      "IMG_9586.JPG",
+      "IMG_9587.JPG",
+      "IMG_9588.JPG",
+      "IMG_9589.JPG"
+    ]
+  },
+  {
+    "lat": 16.801,
+    "lon": 96.159,
+    "count": 15,
+    "start_time": "2026:01:22 09:53:47",
+    "end_time": "2026:01:22 11:10:13",
+    "sample_file": "IMG_1327.JPG",
+    "all_files": [
+      "IMG_1327.JPG",
+      "IMG_1330.JPG",
+      "IMG_1331.JPG",
+      "IMG_1343.JPG",
+      "IMG_1344.JPG",
+      "IMG_1345.JPG",
+      "IMG_1346.JPG",
+      "IMG_1347.JPG",
+      "IMG_1348.JPG",
+      "IMG_1349.JPG",
+      "IMG_1350.JPG",
+      "IMG_1351.JPG",
+      "IMG_1352.JPG",
+      "IMG_1353.JPG",
+      "IMG_1354.JPG"
+    ]
+  },
+  {
+    "lat": 16.79,
+    "lon": 96.142,
+    "count": 15,
+    "start_time": "2026:01:25 11:26:31",
+    "end_time": "2026:01:25 11:50:46",
+    "sample_file": "IMG_2543.JPG",
+    "all_files": [
+      "IMG_2543.JPG",
+      "IMG_2544.JPG",
+      "IMG_2545.JPG",
+      "IMG_2546.JPG",
+      "IMG_2547.JPG",
+      "IMG_2556.JPG",
+      "IMG_2560.JPG",
+      "IMG_2561.JPG",
+      "IMG_2562.JPG",
+      "IMG_2605.JPG",
+      "IMG_2613.JPG",
+      "IMG_2620.JPG",
+      "IMG_2621.JPG",
+      "IMG_2622.JPG",
+      "IMG_2623.JPG"
+    ]
+  },
+  {
+    "lat": 16.769,
+    "lon": 96.164,
+    "count": 14,
+    "start_time": "2026:01:18 13:13:17",
+    "end_time": "2026:01:18 13:36:20",
+    "sample_file": "IMG_0187.JPG",
+    "all_files": [
+      "IMG_0187.JPG",
+      "IMG_0188.JPG",
+      "IMG_0189.JPG",
+      "IMG_0190.JPG",
+      "IMG_0191.JPG",
+      "IMG_0246.JPG",
+      "IMG_0247.JPG",
+      "IMG_0248.JPG",
+      "IMG_0249.JPG",
+      "IMG_0250.JPG",
+      "IMG_0251.JPG",
+      "IMG_0252.JPG",
+      "IMG_0253.JPG",
+      "IMG_0254.JPG"
+    ]
+  },
+  {
+    "lat": 16.809,
+    "lon": 96.138,
+    "count": 14,
+    "start_time": "2026:01:18 08:17:48",
+    "end_time": "2026:01:25 09:33:09",
+    "sample_file": "IMG_9739.JPG",
+    "all_files": [
+      "IMG_9739.JPG",
+      "IMG_9740.JPG",
+      "IMG_9741.JPG",
+      "IMG_9742.JPG",
+      "IMG_9743.JPG",
+      "IMG_9744.JPG",
+      "IMG_9745.JPG",
+      "IMG_9746.JPG",
+      "IMG_9747.JPG",
+      "IMG_9748.JPG",
+      "IMG_1374.JPG",
+      "IMG_2360.JPG",
+      "IMG_2361.JPG",
+      "IMG_2362.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.146,
+    "count": 14,
+    "start_time": "2026:01:18 08:38:54",
+    "end_time": "2026:01:22 19:22:40",
+    "sample_file": "IMG_9779.JPG",
+    "all_files": [
+      "IMG_9779.JPG",
+      "IMG_9780.JPG",
+      "IMG_9781.JPG",
+      "IMG_1397.JPG",
+      "IMG_1398.JPG",
+      "IMG_1405.JPG",
+      "IMG_1407.JPG",
+      "IMG_1408.JPG",
+      "IMG_1409.JPG",
+      "IMG_1410.JPG",
+      "IMG_1411.JPG",
+      "IMG_1412.JPG",
+      "IMG_1778.JPG",
+      "IMG_1779.JPG"
+    ]
+  },
+  {
+    "lat": 25.084,
+    "lon": 121.237,
+    "count": 14,
+    "start_time": "2026:01:17 13:48:10",
+    "end_time": "2026:01:17 18:00:54",
+    "sample_file": "IMG_9506.JPG",
+    "all_files": [
+      "IMG_9506.JPG",
+      "IMG_9508.JPG",
+      "IMG_9509.JPG",
+      "IMG_9511.JPG",
+      "IMG_9514.JPG",
+      "IMG_9515.JPG",
+      "IMG_9516.JPG",
+      "IMG_9517.JPG",
+      "IMG_9518.JPG",
+      "IMG_9519.JPG",
+      "IMG_9520.JPG",
+      "IMG_9521.JPG",
+      "IMG_9512.JPG",
+      "IMG_9513.JPG"
+    ]
+  },
+  {
+    "lat": 16.773,
+    "lon": 96.16,
+    "count": 13,
+    "start_time": "2026:01:18 12:54:30",
+    "end_time": "2026:01:18 13:03:38",
+    "sample_file": "IMG_0143.JPG",
+    "all_files": [
+      "IMG_0143.JPG",
+      "IMG_0144.JPG",
+      "IMG_0152.JPG",
+      "IMG_0153.JPG",
+      "IMG_0154.JPG",
+      "IMG_0155.JPG",
+      "IMG_0156.JPG",
+      "IMG_0157.JPG",
+      "IMG_0158.JPG",
+      "IMG_0159.JPG",
+      "IMG_0160.JPG",
+      "IMG_0161.JPG",
+      "IMG_0165.JPG"
+    ]
+  },
+  {
+    "lat": 16.864,
+    "lon": 96.14,
+    "count": 13,
+    "start_time": "2026:01:20 14:28:42",
+    "end_time": "2026:01:21 10:15:55",
+    "sample_file": "IMG_0874.JPG",
+    "all_files": [
+      "IMG_0874.JPG",
+      "IMG_0875.JPG",
+      "IMG_0876.JPG",
+      "IMG_0877.JPG",
+      "IMG_0878.JPG",
+      "IMG_0879.JPG",
+      "IMG_0880.JPG",
+      "IMG_0881.JPG",
+      "IMG_0882.JPG",
+      "IMG_1158.JPG",
+      "IMG_1159.JPG",
+      "IMG_1160.JPG",
+      "IMG_1161.JPG"
+    ]
+  },
+  {
+    "lat": 16.781,
+    "lon": 96.156,
+    "count": 13,
+    "start_time": "2026:01:24 14:01:21",
+    "end_time": "2026:01:24 14:18:49",
+    "sample_file": "IMG_2132.JPG",
+    "all_files": [
+      "IMG_2132.JPG",
+      "IMG_2133.JPG",
+      "IMG_2134.JPG",
+      "IMG_2135.JPG",
+      "IMG_2136.JPG",
+      "IMG_2138.JPG",
+      "IMG_2139.JPG",
+      "IMG_2140.JPG",
+      "IMG_2141.JPG",
+      "IMG_2142.JPG",
+      "IMG_2143.JPG",
+      "IMG_2144.JPG",
+      "IMG_2241.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.162,
+    "count": 12,
+    "start_time": "2026:01:18 10:40:07",
+    "end_time": "2026:01:24 09:41:31",
+    "sample_file": "IMG_0043.JPG",
+    "all_files": [
+      "IMG_0043.JPG",
+      "IMG_0044.JPG",
+      "IMG_0045.JPG",
+      "IMG_0046.JPG",
+      "IMG_0047.JPG",
+      "IMG_0048.JPG",
+      "IMG_0049.JPG",
+      "IMG_0050.JPG",
+      "IMG_0051.JPG",
+      "IMG_0052.JPG",
+      "IMG_0278.JPG",
+      "IMG_1983.JPG"
+    ]
+  },
+  {
+    "lat": 16.825,
+    "lon": 96.13,
+    "count": 12,
+    "start_time": "2026:01:18 18:06:47",
+    "end_time": "2026:01:18 18:07:20",
+    "sample_file": "IMG_0621.JPG",
+    "all_files": [
+      "IMG_0621.JPG",
+      "IMG_0622.JPG",
+      "IMG_0623.JPG",
+      "IMG_0624.JPG",
+      "IMG_0625.JPG",
+      "IMG_0626.JPG",
+      "IMG_0627.JPG",
+      "IMG_0628.JPG",
+      "IMG_0629.JPG",
+      "IMG_0630.JPG",
+      "IMG_0631.JPG",
+      "IMG_0632.JPG"
+    ]
+  },
+  {
+    "lat": 16.875,
+    "lon": 96.147,
+    "count": 12,
+    "start_time": "2026:01:20 16:45:37",
+    "end_time": "2026:01:20 16:48:33",
+    "sample_file": "IMG_0986.JPG",
+    "all_files": [
+      "IMG_0986.JPG",
+      "IMG_0987.JPG",
+      "IMG_0988.JPG",
+      "IMG_0993.JPG",
+      "IMG_0994.JPG",
+      "IMG_0995.JPG",
+      "IMG_0996.JPG",
+      "IMG_0997.JPG",
+      "IMG_1011.JPG",
+      "IMG_1012.JPG",
+      "IMG_1016.JPG",
+      "IMG_1017.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.15,
+    "count": 12,
+    "start_time": "2026:01:22 18:19:47",
+    "end_time": "2026:01:22 18:21:17",
+    "sample_file": "IMG_1537.JPG",
+    "all_files": [
+      "IMG_1537.JPG",
+      "IMG_1538.JPG",
+      "IMG_1539.JPG",
+      "IMG_1540.JPG",
+      "IMG_1541.JPG",
+      "IMG_1542.JPG",
+      "IMG_1543.JPG",
+      "IMG_1544.JPG",
+      "IMG_1545.JPG",
+      "IMG_1546.JPG",
+      "IMG_1547.JPG",
+      "IMG_1548.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.147,
+    "count": 12,
+    "start_time": "2026:01:22 19:11:46",
+    "end_time": "2026:01:22 19:21:22",
+    "sample_file": "IMG_1765.JPG",
+    "all_files": [
+      "IMG_1765.JPG",
+      "IMG_1766.JPG",
+      "IMG_1767.JPG",
+      "IMG_1768.JPG",
+      "IMG_1769.JPG",
+      "IMG_1770.JPG",
+      "IMG_1771.JPG",
+      "IMG_1772.JPG",
+      "IMG_1773.JPG",
+      "IMG_1774.JPG",
+      "IMG_1776.JPG",
+      "IMG_1777.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.169,
+    "count": 12,
+    "start_time": "2026:01:23 16:28:54",
+    "end_time": "2026:01:23 19:18:17",
+    "sample_file": "IMG_1895.JPG",
+    "all_files": [
+      "IMG_1895.JPG",
+      "IMG_1913.JPG",
+      "IMG_1914.JPG",
+      "IMG_1947.JPG",
+      "IMG_1964.JPG",
+      "IMG_1965.JPG",
+      "IMG_1969.JPG",
+      "IMG_1970.JPG",
+      "IMG_1971.JPG",
+      "IMG_1972.JPG",
+      "IMG_1973.JPG",
+      "IMG_1974.JPG"
+    ]
+  },
+  {
+    "lat": 16.776,
+    "lon": 96.167,
+    "count": 10,
+    "start_time": "2026:01:18 10:03:16",
+    "end_time": "2026:01:18 10:33:23",
+    "sample_file": "IMG_9905.JPG",
+    "all_files": [
+      "IMG_9905.JPG",
+      "IMG_9906.JPG",
+      "IMG_9907.JPG",
+      "IMG_9908.JPG",
+      "IMG_9909.JPG",
+      "IMG_9910.JPG",
+      "IMG_9911.JPG",
+      "IMG_9912.JPG",
+      "IMG_0025.JPG",
+      "IMG_0026.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.166,
+    "count": 10,
+    "start_time": "2026:01:18 09:55:57",
+    "end_time": "2026:01:18 10:39:10",
+    "sample_file": "IMG_9874.JPG",
+    "all_files": [
+      "IMG_9874.JPG",
+      "IMG_9901.JPG",
+      "IMG_0030.JPG",
+      "IMG_0031.JPG",
+      "IMG_0032.JPG",
+      "IMG_0033.JPG",
+      "IMG_0034.JPG",
+      "IMG_0035.JPG",
+      "IMG_0036.JPG",
+      "IMG_0037.JPG"
+    ]
+  },
+  {
+    "lat": 16.769,
+    "lon": 96.163,
+    "count": 10,
+    "start_time": "2026:01:18 13:13:11",
+    "end_time": "2026:01:18 13:18:45",
+    "sample_file": "IMG_0186.JPG",
+    "all_files": [
+      "IMG_0186.JPG",
+      "IMG_0192.JPG",
+      "IMG_0193.JPG",
+      "IMG_0194.JPG",
+      "IMG_0195.JPG",
+      "IMG_0196.JPG",
+      "IMG_0197.JPG",
+      "IMG_0198.JPG",
+      "IMG_0199.JPG",
+      "IMG_0203.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.156,
+    "count": 10,
+    "start_time": "2026:01:18 08:44:41",
+    "end_time": "2026:01:24 14:36:25",
+    "sample_file": "IMG_9811.JPG",
+    "all_files": [
+      "IMG_9811.JPG",
+      "IMG_2114.JPG",
+      "IMG_2161.JPG",
+      "IMG_2162.JPG",
+      "IMG_2163.JPG",
+      "IMG_2164.JPG",
+      "IMG_2165.JPG",
+      "IMG_2166.JPG",
+      "IMG_2167.JPG",
+      "IMG_2281.JPG"
+    ]
+  },
+  {
+    "lat": 13.692,
+    "lon": 100.748,
+    "count": 10,
+    "start_time": "2026:01:17 17:07:50",
+    "end_time": "2026:01:17 17:58:08",
+    "sample_file": "IMG_9533.JPG",
+    "all_files": [
+      "IMG_9533.JPG",
+      "IMG_9534.JPG",
+      "IMG_9535.JPG",
+      "IMG_9536.JPG",
+      "IMG_9537.JPG",
+      "IMG_9554.JPG",
+      "IMG_9555.JPG",
+      "IMG_9556.JPG",
+      "IMG_9557.JPG",
+      "IMG_9558.JPG"
+    ]
+  },
+  {
+    "lat": 13.693,
+    "lon": 100.746,
+    "count": 10,
+    "start_time": "2026:01:17 18:40:16",
+    "end_time": "2026:01:17 18:41:56",
+    "sample_file": "IMG_9560.JPG",
+    "all_files": [
+      "IMG_9560.JPG",
+      "IMG_9561.JPG",
+      "IMG_9562.JPG",
+      "IMG_9563.JPG",
+      "IMG_9564.JPG",
+      "IMG_9565.JPG",
+      "IMG_9566.JPG",
+      "IMG_9567.JPG",
+      "IMG_9568.JPG",
+      "IMG_9569.JPG"
+    ]
+  },
+  {
+    "lat": 16.78,
+    "lon": 96.153,
+    "count": 10,
+    "start_time": "2026:01:18 08:42:25",
+    "end_time": "2026:01:18 08:44:21",
+    "sample_file": "IMG_9798.JPG",
+    "all_files": [
+      "IMG_9798.JPG",
+      "IMG_9799.JPG",
+      "IMG_9800.JPG",
+      "IMG_9801.JPG",
+      "IMG_9802.JPG",
+      "IMG_9803.JPG",
+      "IMG_9804.JPG",
+      "IMG_9805.JPG",
+      "IMG_9806.JPG",
+      "IMG_9807.JPG"
+    ]
+  },
+  {
+    "lat": 16.832,
+    "lon": 96.136,
+    "count": 9,
+    "start_time": "2026:01:18 16:36:18",
+    "end_time": "2026:01:18 16:47:44",
+    "sample_file": "IMG_0460.JPG",
+    "all_files": [
+      "IMG_0460.JPG",
+      "IMG_0461.JPG",
+      "IMG_0462.JPG",
+      "IMG_0463.JPG",
+      "IMG_0464.JPG",
+      "IMG_0465.JPG",
+      "IMG_0466.JPG",
+      "IMG_0473.JPG",
+      "IMG_0474.JPG"
+    ]
+  },
+  {
+    "lat": 16.826,
+    "lon": 96.13,
+    "count": 9,
+    "start_time": "2026:01:18 18:05:47",
+    "end_time": "2026:01:18 18:33:38",
+    "sample_file": "IMG_0620.JPG",
+    "all_files": [
+      "IMG_0620.JPG",
+      "IMG_0662.JPG",
+      "IMG_0663.JPG",
+      "IMG_0664.JPG",
+      "IMG_0665.JPG",
+      "IMG_0666.JPG",
+      "IMG_0667.JPG",
+      "IMG_0668.JPG",
+      "IMG_0669.JPG"
+    ]
+  },
+  {
+    "lat": 16.797,
+    "lon": 96.146,
+    "count": 9,
+    "start_time": "2026:01:18 08:39:05",
+    "end_time": "2026:01:25 09:55:44",
+    "sample_file": "IMG_9782.JPG",
+    "all_files": [
+      "IMG_9782.JPG",
+      "IMG_9783.JPG",
+      "IMG_9784.JPG",
+      "IMG_1399.JPG",
+      "IMG_1400.JPG",
+      "IMG_1404.JPG",
+      "IMG_1406.JPG",
+      "IMG_2376.JPG",
+      "IMG_2377.JPG"
+    ]
+  },
+  {
+    "lat": 16.803,
+    "lon": 96.134,
+    "count": 9,
+    "start_time": "2026:01:26 19:06:03",
+    "end_time": "2026:01:26 19:48:28",
+    "sample_file": "IMG_2829.JPG",
+    "all_files": [
+      "IMG_2829.JPG",
+      "IMG_2830.JPG",
+      "IMG_2831.JPG",
+      "IMG_2832.JPG",
+      "IMG_2833.JPG",
+      "IMG_2834.JPG",
+      "IMG_2835.JPG",
+      "IMG_2836.JPG",
+      "IMG_2837.JPG"
+    ]
+  },
+  {
+    "lat": 25.081,
+    "lon": 121.234,
+    "count": 9,
+    "start_time": "2026:01:17 13:03:22",
+    "end_time": "2026:01:17 13:18:47",
+    "sample_file": "IMG_9492.JPG",
+    "all_files": [
+      "IMG_9492.JPG",
+      "IMG_9493.JPG",
+      "IMG_9494.JPG",
+      "IMG_9495.JPG",
+      "IMG_9496.JPG",
+      "IMG_9497.JPG",
+      "IMG_9498.JPG",
+      "IMG_9499.JPG",
+      "IMG_9500.JPG"
+    ]
+  },
+  {
+    "lat": 16.902,
+    "lon": 96.136,
+    "count": 9,
+    "start_time": "2026:01:17 21:25:32",
+    "end_time": "2026:01:17 21:33:29",
+    "sample_file": "IMG_9661.JPG",
+    "all_files": [
+      "IMG_9661.JPG",
+      "IMG_9662.JPG",
+      "IMG_9663.JPG",
+      "IMG_9664.JPG",
+      "IMG_9665.JPG",
+      "IMG_9666.JPG",
+      "IMG_9667.JPG",
+      "IMG_9668.JPG",
+      "IMG_9669.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.165,
+    "count": 8,
+    "start_time": "2026:01:18 13:49:41",
+    "end_time": "2026:01:24 12:13:33",
+    "sample_file": "IMG_0276.JPG",
+    "all_files": [
+      "IMG_0276.JPG",
+      "IMG_0277.JPG",
+      "IMG_1984.JPG",
+      "IMG_1985.JPG",
+      "IMG_1986.JPG",
+      "IMG_2013.JPG",
+      "IMG_2014.JPG",
+      "IMG_2015.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.139,
+    "count": 8,
+    "start_time": "2026:01:19 08:21:33",
+    "end_time": "2026:01:21 20:08:59",
+    "sample_file": "IMG_0777.JPG",
+    "all_files": [
+      "IMG_0777.JPG",
+      "IMG_0778.JPG",
+      "IMG_0779.JPG",
+      "IMG_1187.JPG",
+      "IMG_1264.JPG",
+      "IMG_1265.JPG",
+      "IMG_1266.JPG",
+      "IMG_1267.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.148,
+    "count": 8,
+    "start_time": "2026:01:22 18:11:11",
+    "end_time": "2026:01:22 18:13:09",
+    "sample_file": "IMG_1475.JPG",
+    "all_files": [
+      "IMG_1475.JPG",
+      "IMG_1476.JPG",
+      "IMG_1477.JPG",
+      "IMG_1478.JPG",
+      "IMG_1479.JPG",
+      "IMG_1480.JPG",
+      "IMG_1482.JPG",
+      "IMG_1483.JPG"
+    ]
+  },
+  {
+    "lat": 16.776,
+    "lon": 96.165,
+    "count": 7,
+    "start_time": "2026:01:18 09:58:19",
+    "end_time": "2026:01:18 13:38:56",
+    "sample_file": "IMG_9886.JPG",
+    "all_files": [
+      "IMG_9886.JPG",
+      "IMG_9887.JPG",
+      "IMG_9888.JPG",
+      "IMG_9889.JPG",
+      "IMG_9890.JPG",
+      "IMG_9891.JPG",
+      "IMG_0265.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.165,
+    "count": 7,
+    "start_time": "2026:01:18 08:46:45",
+    "end_time": "2026:01:18 13:46:05",
+    "sample_file": "IMG_9822.JPG",
+    "all_files": [
+      "IMG_9822.JPG",
+      "IMG_9823.JPG",
+      "IMG_0267.JPG",
+      "IMG_0268.JPG",
+      "IMG_0270.JPG",
+      "IMG_0271.JPG",
+      "IMG_0272.JPG"
+    ]
+  },
+  {
+    "lat": 16.844,
+    "lon": 96.112,
+    "count": 7,
+    "start_time": "2026:01:18 15:09:05",
+    "end_time": "2026:01:18 15:09:28",
+    "sample_file": "IMG_0409.JPG",
+    "all_files": [
+      "IMG_0409.JPG",
+      "IMG_0410.JPG",
+      "IMG_0411.JPG",
+      "IMG_0412.JPG",
+      "IMG_0413.JPG",
+      "IMG_0414.JPG",
+      "IMG_0415.JPG"
+    ]
+  },
+  {
+    "lat": 16.834,
+    "lon": 96.133,
+    "count": 7,
+    "start_time": "2026:01:18 17:30:23",
+    "end_time": "2026:01:18 17:32:47",
+    "sample_file": "IMG_0547.JPG",
+    "all_files": [
+      "IMG_0547.JPG",
+      "IMG_0548.JPG",
+      "IMG_0549.JPG",
+      "IMG_0550.JPG",
+      "IMG_0551.JPG",
+      "IMG_0552.JPG",
+      "IMG_0553.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.138,
+    "count": 7,
+    "start_time": "2026:01:19 08:26:38",
+    "end_time": "2026:01:19 09:00:39",
+    "sample_file": "IMG_0786.JPG",
+    "all_files": [
+      "IMG_0786.JPG",
+      "IMG_0788.JPG",
+      "IMG_0789.JPG",
+      "IMG_0792.JPG",
+      "IMG_0793.JPG",
+      "IMG_0794.JPG",
+      "IMG_0795.JPG"
+    ]
+  },
+  {
+    "lat": 16.838,
+    "lon": 96.134,
+    "count": 7,
+    "start_time": "2026:01:20 17:17:46",
+    "end_time": "2026:01:20 17:17:53",
+    "sample_file": "IMG_1085.JPG",
+    "all_files": [
+      "IMG_1085.JPG",
+      "IMG_1086.JPG",
+      "IMG_1087.JPG",
+      "IMG_1088.JPG",
+      "IMG_1089.JPG",
+      "IMG_1090.JPG",
+      "IMG_1091.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.135,
+    "count": 7,
+    "start_time": "2026:01:22 20:11:48",
+    "end_time": "2026:01:22 20:47:12",
+    "sample_file": "IMG_1788.JPG",
+    "all_files": [
+      "IMG_1788.JPG",
+      "IMG_1789.JPG",
+      "IMG_1790.JPG",
+      "IMG_1791.JPG",
+      "IMG_1792.JPG",
+      "IMG_1793.JPG",
+      "IMG_1794.JPG"
+    ]
+  },
+  {
+    "lat": 13.691,
+    "lon": 100.751,
+    "count": 7,
+    "start_time": "2026:01:17 17:39:18",
+    "end_time": "2026:01:17 17:41:16",
+    "sample_file": "IMG_9541.JPG",
+    "all_files": [
+      "IMG_9541.JPG",
+      "IMG_9542.JPG",
+      "IMG_9543.JPG",
+      "IMG_9545.JPG",
+      "IMG_9546.JPG",
+      "IMG_9547.JPG",
+      "IMG_9548.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.167,
+    "count": 7,
+    "start_time": "2026:01:18 08:48:02",
+    "end_time": "2026:01:18 08:48:40",
+    "sample_file": "IMG_9830.JPG",
+    "all_files": [
+      "IMG_9830.JPG",
+      "IMG_9831.JPG",
+      "IMG_9832.JPG",
+      "IMG_9833.JPG",
+      "IMG_9834.JPG",
+      "IMG_9835.JPG",
+      "IMG_9836.JPG"
+    ]
+  },
+  {
+    "lat": 16.774,
+    "lon": 96.159,
+    "count": 6,
+    "start_time": "2026:01:18 10:44:18",
+    "end_time": "2026:01:18 12:58:07",
+    "sample_file": "IMG_0066.JPG",
+    "all_files": [
+      "IMG_0066.JPG",
+      "IMG_0067.JPG",
+      "IMG_0068.JPG",
+      "IMG_0069.JPG",
+      "IMG_0070.JPG",
+      "IMG_0146.JPG"
+    ]
+  },
+  {
+    "lat": 16.882,
+    "lon": 96.1,
+    "count": 6,
+    "start_time": "2026:01:18 14:41:59",
+    "end_time": "2026:01:18 15:02:39",
+    "sample_file": "IMG_0355.JPG",
+    "all_files": [
+      "IMG_0355.JPG",
+      "IMG_0401.JPG",
+      "IMG_0402.JPG",
+      "IMG_0403.JPG",
+      "IMG_0404.JPG",
+      "IMG_0405.JPG"
+    ]
+  },
+  {
+    "lat": 16.833,
+    "lon": 96.136,
+    "count": 6,
+    "start_time": "2026:01:18 16:40:05",
+    "end_time": "2026:01:18 16:44:42",
+    "sample_file": "IMG_0467.JPG",
+    "all_files": [
+      "IMG_0467.JPG",
+      "IMG_0468.JPG",
+      "IMG_0469.JPG",
+      "IMG_0470.JPG",
+      "IMG_0471.JPG",
+      "IMG_0472.JPG"
+    ]
+  },
+  {
+    "lat": 16.827,
+    "lon": 96.13,
+    "count": 6,
+    "start_time": "2026:01:18 18:33:45",
+    "end_time": "2026:01:18 18:34:25",
+    "sample_file": "IMG_0670.JPG",
+    "all_files": [
+      "IMG_0670.JPG",
+      "IMG_0671.JPG",
+      "IMG_0672.JPG",
+      "IMG_0673.JPG",
+      "IMG_0674.JPG",
+      "IMG_0675.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.138,
+    "count": 6,
+    "start_time": "2026:01:19 08:19:31",
+    "end_time": "2026:01:19 09:04:47",
+    "sample_file": "IMG_0773.JPG",
+    "all_files": [
+      "IMG_0773.JPG",
+      "IMG_0799.JPG",
+      "IMG_0800.JPG",
+      "IMG_0801.JPG",
+      "IMG_0802.JPG",
+      "IMG_0803.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.149,
+    "count": 6,
+    "start_time": "2026:01:22 18:13:16",
+    "end_time": "2026:01:22 18:13:41",
+    "sample_file": "IMG_1484.JPG",
+    "all_files": [
+      "IMG_1484.JPG",
+      "IMG_1485.JPG",
+      "IMG_1486.JPG",
+      "IMG_1487.JPG",
+      "IMG_1488.JPG",
+      "IMG_1489.JPG"
+    ]
+  },
+  {
+    "lat": 16.794,
+    "lon": 96.164,
+    "count": 6,
+    "start_time": "2026:01:23 16:16:33",
+    "end_time": "2026:01:23 16:16:39",
+    "sample_file": "IMG_1850.JPG",
+    "all_files": [
+      "IMG_1850.JPG",
+      "IMG_1851.JPG",
+      "IMG_1852.JPG",
+      "IMG_1853.JPG",
+      "IMG_1854.JPG",
+      "IMG_1855.JPG"
+    ]
+  },
+  {
+    "lat": 16.789,
+    "lon": 96.141,
+    "count": 6,
+    "start_time": "2026:01:25 11:21:35",
+    "end_time": "2026:01:25 12:01:47",
+    "sample_file": "IMG_2535.JPG",
+    "all_files": [
+      "IMG_2535.JPG",
+      "IMG_2568.JPG",
+      "IMG_2569.JPG",
+      "IMG_2576.JPG",
+      "IMG_2664.JPG",
+      "IMG_2665.JPG"
+    ]
+  },
+  {
+    "lat": 16.789,
+    "lon": 96.14,
+    "count": 6,
+    "start_time": "2026:01:25 11:33:11",
+    "end_time": "2026:01:25 11:34:02",
+    "sample_file": "IMG_2570.JPG",
+    "all_files": [
+      "IMG_2570.JPG",
+      "IMG_2571.JPG",
+      "IMG_2572.JPG",
+      "IMG_2573.JPG",
+      "IMG_2574.JPG",
+      "IMG_2575.JPG"
+    ]
+  },
+  {
+    "lat": 16.783,
+    "lon": 96.144,
+    "count": 6,
+    "start_time": "2026:01:26 18:29:27",
+    "end_time": "2026:01:26 18:32:56",
+    "sample_file": "IMG_2818.JPG",
+    "all_files": [
+      "IMG_2818.JPG",
+      "IMG_2819.JPG",
+      "IMG_2820.JPG",
+      "IMG_2821.JPG",
+      "IMG_2824.JPG",
+      "IMG_2825.JPG"
+    ]
+  },
+  {
+    "lat": 13.692,
+    "lon": 100.747,
+    "count": 6,
+    "start_time": "2026:01:17 17:58:14",
+    "end_time": "2026:01:17 18:50:50",
+    "sample_file": "IMG_9559.JPG",
+    "all_files": [
+      "IMG_9559.JPG",
+      "IMG_9570.JPG",
+      "IMG_9590.JPG",
+      "IMG_9591.JPG",
+      "IMG_9592.JPG",
+      "IMG_9593.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.16,
+    "count": 5,
+    "start_time": "2026:01:18 10:41:07",
+    "end_time": "2026:01:18 10:41:21",
+    "sample_file": "IMG_0055.JPG",
+    "all_files": [
+      "IMG_0055.JPG",
+      "IMG_0056.JPG",
+      "IMG_0057.JPG",
+      "IMG_0058.JPG",
+      "IMG_0059.JPG"
+    ]
+  },
+  {
+    "lat": 16.77,
+    "lon": 96.16,
+    "count": 5,
+    "start_time": "2026:01:18 13:12:12",
+    "end_time": "2026:01:18 13:12:20",
+    "sample_file": "IMG_0176.JPG",
+    "all_files": [
+      "IMG_0176.JPG",
+      "IMG_0177.JPG",
+      "IMG_0178.JPG",
+      "IMG_0179.JPG",
+      "IMG_0180.JPG"
+    ]
+  },
+  {
+    "lat": 16.829,
+    "lon": 96.155,
+    "count": 5,
+    "start_time": "2026:01:18 14:08:42",
+    "end_time": "2026:01:18 20:33:56",
+    "sample_file": "IMG_0317.JPG",
+    "all_files": [
+      "IMG_0317.JPG",
+      "IMG_0318.JPG",
+      "IMG_0688.JPG",
+      "IMG_0689.JPG",
+      "IMG_0750.JPG"
+    ]
+  },
+  {
+    "lat": 16.881,
+    "lon": 96.1,
+    "count": 5,
+    "start_time": "2026:01:18 14:41:01",
+    "end_time": "2026:01:18 15:02:44",
+    "sample_file": "IMG_0351.JPG",
+    "all_files": [
+      "IMG_0351.JPG",
+      "IMG_0352.JPG",
+      "IMG_0353.JPG",
+      "IMG_0354.JPG",
+      "IMG_0406.JPG"
+    ]
+  },
+  {
+    "lat": 16.827,
+    "lon": 96.131,
+    "count": 5,
+    "start_time": "2026:01:18 16:51:35",
+    "end_time": "2026:01:27 08:06:56",
+    "sample_file": "IMG_0480.JPG",
+    "all_files": [
+      "IMG_0480.JPG",
+      "IMG_0554.JPG",
+      "IMG_0555.JPG",
+      "IMG_0868.JPG",
+      "IMG_2868.JPG"
+    ]
+  },
+  {
+    "lat": 16.831,
+    "lon": 96.133,
+    "count": 5,
+    "start_time": "2026:01:18 17:18:47",
+    "end_time": "2026:01:18 17:20:26",
+    "sample_file": "IMG_0528.JPG",
+    "all_files": [
+      "IMG_0528.JPG",
+      "IMG_0529.JPG",
+      "IMG_0530.JPG",
+      "IMG_0531.JPG",
+      "IMG_0538.JPG"
+    ]
+  },
+  {
+    "lat": 16.833,
+    "lon": 96.133,
+    "count": 5,
+    "start_time": "2026:01:18 17:28:18",
+    "end_time": "2026:01:20 17:17:54",
+    "sample_file": "IMG_0543.JPG",
+    "all_files": [
+      "IMG_0543.JPG",
+      "IMG_0544.JPG",
+      "IMG_0545.JPG",
+      "IMG_0546.JPG",
+      "IMG_1092.JPG"
+    ]
+  },
+  {
+    "lat": 16.828,
+    "lon": 96.156,
+    "count": 5,
+    "start_time": "2026:01:18 19:15:15",
+    "end_time": "2026:01:18 19:50:54",
+    "sample_file": "IMG_0713.JPG",
+    "all_files": [
+      "IMG_0713.JPG",
+      "IMG_0718.JPG",
+      "IMG_0719.JPG",
+      "IMG_0720.JPG",
+      "IMG_0722.JPG"
+    ]
+  },
+  {
+    "lat": 16.803,
+    "lon": 96.156,
+    "count": 5,
+    "start_time": "2026:01:22 09:43:31",
+    "end_time": "2026:01:22 09:43:43",
+    "sample_file": "IMG_1310.JPG",
+    "all_files": [
+      "IMG_1310.JPG",
+      "IMG_1311.JPG",
+      "IMG_1312.JPG",
+      "IMG_1313.JPG",
+      "IMG_1314.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.154,
+    "count": 5,
+    "start_time": "2026:01:22 11:32:18",
+    "end_time": "2026:01:22 11:32:27",
+    "sample_file": "IMG_1363.JPG",
+    "all_files": [
+      "IMG_1363.JPG",
+      "IMG_1364.JPG",
+      "IMG_1365.JPG",
+      "IMG_1366.JPG",
+      "IMG_1367.JPG"
+    ]
+  },
+  {
+    "lat": 16.81,
+    "lon": 96.137,
+    "count": 5,
+    "start_time": "2026:01:18 08:35:34",
+    "end_time": "2026:01:22 12:01:34",
+    "sample_file": "IMG_9772.JPG",
+    "all_files": [
+      "IMG_9772.JPG",
+      "IMG_9773.JPG",
+      "IMG_9774.JPG",
+      "IMG_9775.JPG",
+      "IMG_1373.JPG"
+    ]
+  },
+  {
+    "lat": 16.795,
+    "lon": 96.147,
+    "count": 5,
+    "start_time": "2026:01:18 08:39:36",
+    "end_time": "2026:01:22 17:44:22",
+    "sample_file": "IMG_9785.JPG",
+    "all_files": [
+      "IMG_9785.JPG",
+      "IMG_9786.JPG",
+      "IMG_1401.JPG",
+      "IMG_1402.JPG",
+      "IMG_1403.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.136,
+    "count": 5,
+    "start_time": "2026:01:22 19:31:49",
+    "end_time": "2026:01:22 19:32:46",
+    "sample_file": "IMG_1783.JPG",
+    "all_files": [
+      "IMG_1783.JPG",
+      "IMG_1784.JPG",
+      "IMG_1785.JPG",
+      "IMG_1786.JPG",
+      "IMG_1787.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.166,
+    "count": 5,
+    "start_time": "2026:01:24 09:43:38",
+    "end_time": "2026:01:24 09:43:51",
+    "sample_file": "IMG_1987.JPG",
+    "all_files": [
+      "IMG_1987.JPG",
+      "IMG_1988.JPG",
+      "IMG_1989.JPG",
+      "IMG_1990.JPG",
+      "IMG_1991.JPG"
+    ]
+  },
+  {
+    "lat": 16.79,
+    "lon": 96.143,
+    "count": 5,
+    "start_time": "2026:01:25 11:27:48",
+    "end_time": "2026:01:25 11:28:07",
+    "sample_file": "IMG_2548.JPG",
+    "all_files": [
+      "IMG_2548.JPG",
+      "IMG_2549.JPG",
+      "IMG_2550.JPG",
+      "IMG_2551.JPG",
+      "IMG_2552.JPG"
+    ]
+  },
+  {
+    "lat": 16.789,
+    "lon": 96.143,
+    "count": 5,
+    "start_time": "2026:01:25 11:29:35",
+    "end_time": "2026:01:25 12:10:38",
+    "sample_file": "IMG_2555.JPG",
+    "all_files": [
+      "IMG_2555.JPG",
+      "IMG_2563.JPG",
+      "IMG_2710.JPG",
+      "IMG_2711.JPG",
+      "IMG_2712.JPG"
+    ]
+  },
+  {
+    "lat": 16.819,
+    "lon": 96.175,
+    "count": 5,
+    "start_time": "2026:01:25 15:39:16",
+    "end_time": "2026:01:25 17:43:25",
+    "sample_file": "IMG_2751.JPG",
+    "all_files": [
+      "IMG_2751.JPG",
+      "IMG_2752.JPG",
+      "IMG_2753.JPG",
+      "IMG_2775.JPG",
+      "IMG_2776.JPG"
+    ]
+  },
+  {
+    "lat": 16.893,
+    "lon": 96.132,
+    "count": 5,
+    "start_time": "2026:01:27 08:27:21",
+    "end_time": "2026:01:27 08:27:58",
+    "sample_file": "IMG_2893.JPG",
+    "all_files": [
+      "IMG_2893.JPG",
+      "IMG_2894.JPG",
+      "IMG_2895.JPG",
+      "IMG_2896.JPG",
+      "IMG_2897.JPG"
+    ]
+  },
+  {
+    "lat": 13.691,
+    "lon": 100.746,
+    "count": 5,
+    "start_time": "2026:01:17 17:03:48",
+    "end_time": "2026:01:17 18:53:40",
+    "sample_file": "IMG_9522.JPG",
+    "all_files": [
+      "IMG_9522.JPG",
+      "IMG_9594.JPG",
+      "IMG_9599.JPG",
+      "IMG_9600.JPG",
+      "IMG_9601.JPG"
+    ]
+  },
+  {
+    "lat": 16.9,
+    "lon": 96.14,
+    "count": 5,
+    "start_time": "2026:01:17 21:34:53",
+    "end_time": "2026:01:17 21:35:35",
+    "sample_file": "IMG_9675.JPG",
+    "all_files": [
+      "IMG_9675.JPG",
+      "IMG_9676.JPG",
+      "IMG_9677.JPG",
+      "IMG_9678.JPG",
+      "IMG_9679.JPG"
+    ]
+  },
+  {
+    "lat": 16.775,
+    "lon": 96.167,
+    "count": 4,
+    "start_time": "2026:01:18 10:08:30",
+    "end_time": "2026:01:18 10:30:30",
+    "sample_file": "IMG_9913.JPG",
+    "all_files": [
+      "IMG_9913.JPG",
+      "IMG_0006.JPG",
+      "IMG_0007.JPG",
+      "IMG_0008.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 10:42:09",
+    "end_time": "2026:01:24 12:18:22",
+    "sample_file": "IMG_0060.JPG",
+    "all_files": [
+      "IMG_0060.JPG",
+      "IMG_0061.JPG",
+      "IMG_0062.JPG",
+      "IMG_2016.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 13:10:50",
+    "end_time": "2026:01:18 13:11:24",
+    "sample_file": "IMG_0168.JPG",
+    "all_files": [
+      "IMG_0168.JPG",
+      "IMG_0169.JPG",
+      "IMG_0170.JPG",
+      "IMG_0171.JPG"
+    ]
+  },
+  {
+    "lat": 16.771,
+    "lon": 96.159,
+    "count": 4,
+    "start_time": "2026:01:18 13:11:30",
+    "end_time": "2026:01:18 13:12:10",
+    "sample_file": "IMG_0172.JPG",
+    "all_files": [
+      "IMG_0172.JPG",
+      "IMG_0173.JPG",
+      "IMG_0174.JPG",
+      "IMG_0175.JPG"
+    ]
+  },
+  {
+    "lat": 16.774,
+    "lon": 96.164,
+    "count": 4,
+    "start_time": "2026:01:18 13:38:07",
+    "end_time": "2026:01:18 13:38:21",
+    "sample_file": "IMG_0258.JPG",
+    "all_files": [
+      "IMG_0258.JPG",
+      "IMG_0259.JPG",
+      "IMG_0260.JPG",
+      "IMG_0261.JPG"
+    ]
+  },
+  {
+    "lat": 16.778,
+    "lon": 96.165,
+    "count": 4,
+    "start_time": "2026:01:18 13:40:32",
+    "end_time": "2026:01:18 13:49:25",
+    "sample_file": "IMG_0266.JPG",
+    "all_files": [
+      "IMG_0266.JPG",
+      "IMG_0269.JPG",
+      "IMG_0273.JPG",
+      "IMG_0274.JPG"
+    ]
+  },
+  {
+    "lat": 16.796,
+    "lon": 96.157,
+    "count": 4,
+    "start_time": "2026:01:18 13:57:13",
+    "end_time": "2026:01:18 13:57:18",
+    "sample_file": "IMG_0294.JPG",
+    "all_files": [
+      "IMG_0294.JPG",
+      "IMG_0295.JPG",
+      "IMG_0296.JPG",
+      "IMG_0297.JPG"
+    ]
+  },
+  {
+    "lat": 16.831,
+    "lon": 96.155,
+    "count": 4,
+    "start_time": "2026:01:18 14:09:15",
+    "end_time": "2026:01:18 14:09:34",
+    "sample_file": "IMG_0321.JPG",
+    "all_files": [
+      "IMG_0321.JPG",
+      "IMG_0322.JPG",
+      "IMG_0323.JPG",
+      "IMG_0324.JPG"
+    ]
+  },
+  {
+    "lat": 16.842,
+    "lon": 96.112,
+    "count": 4,
+    "start_time": "2026:01:18 15:09:51",
+    "end_time": "2026:01:18 15:10:02",
+    "sample_file": "IMG_0418.JPG",
+    "all_files": [
+      "IMG_0418.JPG",
+      "IMG_0419.JPG",
+      "IMG_0420.JPG",
+      "IMG_0421.JPG"
+    ]
+  },
+  {
+    "lat": 16.821,
+    "lon": 96.132,
+    "count": 4,
+    "start_time": "2026:01:18 15:18:35",
+    "end_time": "2026:01:27 08:06:21",
+    "sample_file": "IMG_0427.JPG",
+    "all_files": [
+      "IMG_0427.JPG",
+      "IMG_2857.JPG",
+      "IMG_2858.JPG",
+      "IMG_2859.JPG"
+    ]
+  },
+  {
+    "lat": 16.82,
+    "lon": 96.133,
+    "count": 4,
+    "start_time": "2026:01:18 15:21:10",
+    "end_time": "2026:01:27 08:06:14",
+    "sample_file": "IMG_0429.JPG",
+    "all_files": [
+      "IMG_0429.JPG",
+      "IMG_2854.JPG",
+      "IMG_2855.JPG",
+      "IMG_2856.JPG"
+    ]
+  },
+  {
+    "lat": 16.828,
+    "lon": 96.131,
+    "count": 4,
+    "start_time": "2026:01:18 16:51:46",
+    "end_time": "2026:01:18 16:51:50",
+    "sample_file": "IMG_0481.JPG",
+    "all_files": [
+      "IMG_0481.JPG",
+      "IMG_0482.JPG",
+      "IMG_0483.JPG",
+      "IMG_0484.JPG"
+    ]
+  },
+  {
+    "lat": 16.825,
+    "lon": 96.131,
+    "count": 4,
+    "start_time": "2026:01:18 18:36:55",
+    "end_time": "2026:01:27 08:06:45",
+    "sample_file": "IMG_0687.JPG",
+    "all_files": [
+      "IMG_0687.JPG",
+      "IMG_2862.JPG",
+      "IMG_2863.JPG",
+      "IMG_2864.JPG"
+    ]
+  },
+  {
+    "lat": 16.856,
+    "lon": 96.141,
+    "count": 4,
+    "start_time": "2026:01:20 17:05:55",
+    "end_time": "2026:01:27 08:18:16",
+    "sample_file": "IMG_1083.JPG",
+    "all_files": [
+      "IMG_1083.JPG",
+      "IMG_2880.JPG",
+      "IMG_2881.JPG",
+      "IMG_2882.JPG"
+    ]
+  },
+  {
+    "lat": 16.836,
+    "lon": 96.134,
+    "count": 4,
+    "start_time": "2026:01:20 17:57:40",
+    "end_time": "2026:01:21 09:21:35",
+    "sample_file": "IMG_1096.JPG",
+    "all_files": [
+      "IMG_1096.JPG",
+      "IMG_1149.JPG",
+      "IMG_1150.JPG",
+      "IMG_1151.JPG"
+    ]
+  },
+  {
+    "lat": 16.838,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:20 17:57:42",
+    "end_time": "2026:01:21 09:22:11",
+    "sample_file": "IMG_1097.JPG",
+    "all_files": [
+      "IMG_1097.JPG",
+      "IMG_1098.JPG",
+      "IMG_1152.JPG",
+      "IMG_1153.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.155,
+    "count": 4,
+    "start_time": "2026:01:22 09:43:15",
+    "end_time": "2026:01:22 09:43:21",
+    "sample_file": "IMG_1304.JPG",
+    "all_files": [
+      "IMG_1304.JPG",
+      "IMG_1305.JPG",
+      "IMG_1306.JPG",
+      "IMG_1307.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.163,
+    "count": 4,
+    "start_time": "2026:01:23 16:16:00",
+    "end_time": "2026:01:23 16:16:04",
+    "sample_file": "IMG_1846.JPG",
+    "all_files": [
+      "IMG_1846.JPG",
+      "IMG_1847.JPG",
+      "IMG_1848.JPG",
+      "IMG_1849.JPG"
+    ]
+  },
+  {
+    "lat": 16.78,
+    "lon": 96.154,
+    "count": 4,
+    "start_time": "2026:01:24 13:37:45",
+    "end_time": "2026:01:24 14:30:49",
+    "sample_file": "IMG_2074.JPG",
+    "all_files": [
+      "IMG_2074.JPG",
+      "IMG_2075.JPG",
+      "IMG_2076.JPG",
+      "IMG_2275.JPG"
+    ]
+  },
+  {
+    "lat": 16.785,
+    "lon": 96.139,
+    "count": 4,
+    "start_time": "2026:01:25 12:04:50",
+    "end_time": "2026:01:25 12:05:08",
+    "sample_file": "IMG_2691.JPG",
+    "all_files": [
+      "IMG_2691.JPG",
+      "IMG_2692.JPG",
+      "IMG_2693.JPG",
+      "IMG_2694.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:26 19:50:07",
+    "end_time": "2026:01:26 19:50:14",
+    "sample_file": "IMG_2841.JPG",
+    "all_files": [
+      "IMG_2841.JPG",
+      "IMG_2842.JPG",
+      "IMG_2843.JPG",
+      "IMG_2844.JPG"
+    ]
+  },
+  {
+    "lat": 16.849,
+    "lon": 96.139,
+    "count": 4,
+    "start_time": "2026:01:27 08:11:36",
+    "end_time": "2026:01:27 08:11:41",
+    "sample_file": "IMG_2873.JPG",
+    "all_files": [
+      "IMG_2873.JPG",
+      "IMG_2874.JPG",
+      "IMG_2875.JPG",
+      "IMG_2876.JPG"
+    ]
+  },
+  {
+    "lat": 25.081,
+    "lon": 121.237,
+    "count": 4,
+    "start_time": "2026:01:17 12:32:38",
+    "end_time": "2026:01:17 12:32:41",
+    "sample_file": "IMG_9487.JPG",
+    "all_files": [
+      "IMG_9487.JPG",
+      "IMG_9488.JPG",
+      "IMG_9489.JPG",
+      "IMG_9490.JPG"
+    ]
+  },
+  {
+    "lat": 13.691,
+    "lon": 100.75,
+    "count": 4,
+    "start_time": "2026:01:17 17:10:40",
+    "end_time": "2026:01:17 17:44:20",
+    "sample_file": "IMG_9538.JPG",
+    "all_files": [
+      "IMG_9538.JPG",
+      "IMG_9539.JPG",
+      "IMG_9540.JPG",
+      "IMG_9552.JPG"
+    ]
+  },
+  {
+    "lat": 13.691,
+    "lon": 100.747,
+    "count": 4,
+    "start_time": "2026:01:17 18:51:35",
+    "end_time": "2026:01:17 18:53:05",
+    "sample_file": "IMG_9595.JPG",
+    "all_files": [
+      "IMG_9595.JPG",
+      "IMG_9596.JPG",
+      "IMG_9597.JPG",
+      "IMG_9598.JPG"
+    ]
+  },
+  {
+    "lat": 13.689,
+    "lon": 100.746,
+    "count": 4,
+    "start_time": "2026:01:17 19:10:04",
+    "end_time": "2026:01:17 19:10:23",
+    "sample_file": "IMG_9621.JPG",
+    "all_files": [
+      "IMG_9621.JPG",
+      "IMG_9622.JPG",
+      "IMG_9623.JPG",
+      "IMG_9624.JPG"
+    ]
+  },
+  {
+    "lat": 16.902,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:17 21:17:35",
+    "end_time": "2026:01:17 21:17:57",
+    "sample_file": "IMG_9657.JPG",
+    "all_files": [
+      "IMG_9657.JPG",
+      "IMG_9658.JPG",
+      "IMG_9659.JPG",
+      "IMG_9660.JPG"
+    ]
+  },
+  {
+    "lat": 16.882,
+    "lon": 96.135,
+    "count": 4,
+    "start_time": "2026:01:17 21:40:39",
+    "end_time": "2026:01:17 21:40:55",
+    "sample_file": "IMG_9683.JPG",
+    "all_files": [
+      "IMG_9683.JPG",
+      "IMG_9684.JPG",
+      "IMG_9685.JPG",
+      "IMG_9686.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.164,
+    "count": 3,
+    "start_time": "2026:01:18 10:39:14",
+    "end_time": "2026:01:18 13:49:37",
+    "sample_file": "IMG_0038.JPG",
+    "all_files": [
+      "IMG_0038.JPG",
+      "IMG_0039.JPG",
+      "IMG_0275.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.163,
+    "count": 3,
+    "start_time": "2026:01:18 10:39:35",
+    "end_time": "2026:01:18 10:39:45",
+    "sample_file": "IMG_0040.JPG",
+    "all_files": [
+      "IMG_0040.JPG",
+      "IMG_0041.JPG",
+      "IMG_0042.JPG"
+    ]
+  },
+  {
+    "lat": 16.773,
+    "lon": 96.159,
+    "count": 3,
+    "start_time": "2026:01:18 13:02:53",
+    "end_time": "2026:01:18 13:03:17",
+    "sample_file": "IMG_0162.JPG",
+    "all_files": [
+      "IMG_0162.JPG",
+      "IMG_0163.JPG",
+      "IMG_0164.JPG"
+    ]
+  },
+  {
+    "lat": 16.77,
+    "lon": 96.163,
+    "count": 3,
+    "start_time": "2026:01:18 13:17:28",
+    "end_time": "2026:01:18 13:19:25",
+    "sample_file": "IMG_0200.JPG",
+    "all_files": [
+      "IMG_0200.JPG",
+      "IMG_0201.JPG",
+      "IMG_0204.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:18 13:59:39",
+    "end_time": "2026:01:22 11:31:29",
+    "sample_file": "IMG_0300.JPG",
+    "all_files": [
+      "IMG_0300.JPG",
+      "IMG_0301.JPG",
+      "IMG_1359.JPG"
+    ]
+  },
+  {
+    "lat": 16.856,
+    "lon": 96.108,
+    "count": 3,
+    "start_time": "2026:01:18 14:34:40",
+    "end_time": "2026:01:18 14:34:46",
+    "sample_file": "IMG_0341.JPG",
+    "all_files": [
+      "IMG_0341.JPG",
+      "IMG_0342.JPG",
+      "IMG_0343.JPG"
+    ]
+  },
+  {
+    "lat": 16.867,
+    "lon": 96.144,
+    "count": 3,
+    "start_time": "2026:01:20 17:02:30",
+    "end_time": "2026:01:20 17:02:37",
+    "sample_file": "IMG_1080.JPG",
+    "all_files": [
+      "IMG_1080.JPG",
+      "IMG_1081.JPG",
+      "IMG_1082.JPG"
+    ]
+  },
+  {
+    "lat": 16.82,
+    "lon": 96.132,
+    "count": 3,
+    "start_time": "2026:01:20 17:21:30",
+    "end_time": "2026:01:20 17:21:33",
+    "sample_file": "IMG_1093.JPG",
+    "all_files": [
+      "IMG_1093.JPG",
+      "IMG_1094.JPG",
+      "IMG_1095.JPG"
+    ]
+  },
+  {
+    "lat": 16.866,
+    "lon": 96.142,
+    "count": 3,
+    "start_time": "2026:01:17 21:43:24",
+    "end_time": "2026:01:21 09:33:17",
+    "sample_file": "IMG_9690.JPG",
+    "all_files": [
+      "IMG_9690.JPG",
+      "IMG_1156.JPG",
+      "IMG_1157.JPG"
+    ]
+  },
+  {
+    "lat": 16.803,
+    "lon": 96.155,
+    "count": 3,
+    "start_time": "2026:01:22 09:42:32",
+    "end_time": "2026:01:22 09:43:28",
+    "sample_file": "IMG_1300.JPG",
+    "all_files": [
+      "IMG_1300.JPG",
+      "IMG_1308.JPG",
+      "IMG_1309.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.155,
+    "count": 3,
+    "start_time": "2026:01:22 11:32:03",
+    "end_time": "2026:01:22 11:32:05",
+    "sample_file": "IMG_1360.JPG",
+    "all_files": [
+      "IMG_1360.JPG",
+      "IMG_1361.JPG",
+      "IMG_1362.JPG"
+    ]
+  },
+  {
+    "lat": 16.808,
+    "lon": 96.139,
+    "count": 3,
+    "start_time": "2026:01:22 12:24:00",
+    "end_time": "2026:01:22 17:40:22",
+    "sample_file": "IMG_1378.JPG",
+    "all_files": [
+      "IMG_1378.JPG",
+      "IMG_1379.JPG",
+      "IMG_1396.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.148,
+    "count": 3,
+    "start_time": "2026:01:22 19:11:39",
+    "end_time": "2026:01:22 19:21:16",
+    "sample_file": "IMG_1763.JPG",
+    "all_files": [
+      "IMG_1763.JPG",
+      "IMG_1764.JPG",
+      "IMG_1775.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.142,
+    "count": 3,
+    "start_time": "2026:01:23 15:26:55",
+    "end_time": "2026:01:26 13:08:41",
+    "sample_file": "IMG_1807.JPG",
+    "all_files": [
+      "IMG_1807.JPG",
+      "IMG_2810.JPG",
+      "IMG_2811.JPG"
+    ]
+  },
+  {
+    "lat": 16.804,
+    "lon": 96.143,
+    "count": 3,
+    "start_time": "2026:01:23 15:31:32",
+    "end_time": "2026:01:23 15:31:35",
+    "sample_file": "IMG_1812.JPG",
+    "all_files": [
+      "IMG_1812.JPG",
+      "IMG_1813.JPG",
+      "IMG_1814.JPG"
+    ]
+  },
+  {
+    "lat": 16.795,
+    "lon": 96.15,
+    "count": 3,
+    "start_time": "2026:01:23 16:12:46",
+    "end_time": "2026:01:23 16:12:49",
+    "sample_file": "IMG_1843.JPG",
+    "all_files": [
+      "IMG_1843.JPG",
+      "IMG_1844.JPG",
+      "IMG_1845.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.165,
+    "count": 3,
+    "start_time": "2026:01:23 16:16:46",
+    "end_time": "2026:01:23 16:16:54",
+    "sample_file": "IMG_1856.JPG",
+    "all_files": [
+      "IMG_1856.JPG",
+      "IMG_1857.JPG",
+      "IMG_1858.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.168,
+    "count": 3,
+    "start_time": "2026:01:23 19:15:47",
+    "end_time": "2026:01:23 19:15:53",
+    "sample_file": "IMG_1966.JPG",
+    "all_files": [
+      "IMG_1966.JPG",
+      "IMG_1967.JPG",
+      "IMG_1968.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.165,
+    "count": 3,
+    "start_time": "2026:01:24 09:43:58",
+    "end_time": "2026:01:24 09:44:22",
+    "sample_file": "IMG_1992.JPG",
+    "all_files": [
+      "IMG_1992.JPG",
+      "IMG_1993.JPG",
+      "IMG_1994.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:24 12:19:56",
+    "end_time": "2026:01:24 12:20:01",
+    "sample_file": "IMG_2017.JPG",
+    "all_files": [
+      "IMG_2017.JPG",
+      "IMG_2018.JPG",
+      "IMG_2019.JPG"
+    ]
+  },
+  {
+    "lat": 16.773,
+    "lon": 96.156,
+    "count": 3,
+    "start_time": "2026:01:24 14:42:09",
+    "end_time": "2026:01:24 14:42:17",
+    "sample_file": "IMG_2283.JPG",
+    "all_files": [
+      "IMG_2283.JPG",
+      "IMG_2284.JPG",
+      "IMG_2285.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.156,
+    "count": 3,
+    "start_time": "2026:01:24 14:42:19",
+    "end_time": "2026:01:24 14:42:28",
+    "sample_file": "IMG_2286.JPG",
+    "all_files": [
+      "IMG_2286.JPG",
+      "IMG_2287.JPG",
+      "IMG_2288.JPG"
+    ]
+  },
+  {
+    "lat": 16.795,
+    "lon": 96.146,
+    "count": 3,
+    "start_time": "2026:01:25 09:56:09",
+    "end_time": "2026:01:25 09:56:13",
+    "sample_file": "IMG_2380.JPG",
+    "all_files": [
+      "IMG_2380.JPG",
+      "IMG_2381.JPG",
+      "IMG_2382.JPG"
+    ]
+  },
+  {
+    "lat": 16.788,
+    "lon": 96.143,
+    "count": 3,
+    "start_time": "2026:01:25 10:14:57",
+    "end_time": "2026:01:25 12:00:08",
+    "sample_file": "IMG_2403.JPG",
+    "all_files": [
+      "IMG_2403.JPG",
+      "IMG_2653.JPG",
+      "IMG_2654.JPG"
+    ]
+  },
+  {
+    "lat": 16.787,
+    "lon": 96.141,
+    "count": 3,
+    "start_time": "2026:01:25 12:04:18",
+    "end_time": "2026:01:25 12:04:31",
+    "sample_file": "IMG_2686.JPG",
+    "all_files": [
+      "IMG_2686.JPG",
+      "IMG_2687.JPG",
+      "IMG_2688.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.134,
+    "count": 3,
+    "start_time": "2026:01:26 19:49:49",
+    "end_time": "2026:01:26 19:49:55",
+    "sample_file": "IMG_2838.JPG",
+    "all_files": [
+      "IMG_2838.JPG",
+      "IMG_2839.JPG",
+      "IMG_2840.JPG"
+    ]
+  },
+  {
+    "lat": 16.85,
+    "lon": 96.14,
+    "count": 3,
+    "start_time": "2026:01:27 08:11:44",
+    "end_time": "2026:01:27 08:11:48",
+    "sample_file": "IMG_2877.JPG",
+    "all_files": [
+      "IMG_2877.JPG",
+      "IMG_2878.JPG",
+      "IMG_2879.JPG"
+    ]
+  },
+  {
+    "lat": 16.871,
+    "lon": 96.14,
+    "count": 3,
+    "start_time": "2026:01:27 08:20:28",
+    "end_time": "2026:01:27 08:20:30",
+    "sample_file": "IMG_2883.JPG",
+    "all_files": [
+      "IMG_2883.JPG",
+      "IMG_2884.JPG",
+      "IMG_2885.JPG"
+    ]
+  },
+  {
+    "lat": 16.875,
+    "lon": 96.139,
+    "count": 3,
+    "start_time": "2026:01:27 08:21:04",
+    "end_time": "2026:01:27 08:21:11",
+    "sample_file": "IMG_2886.JPG",
+    "all_files": [
+      "IMG_2886.JPG",
+      "IMG_2887.JPG",
+      "IMG_2888.JPG"
+    ]
+  },
+  {
+    "lat": 16.904,
+    "lon": 96.135,
+    "count": 3,
+    "start_time": "2026:01:27 11:18:07",
+    "end_time": "2026:01:27 11:27:27",
+    "sample_file": "IMG_2960.JPG",
+    "all_files": [
+      "IMG_2960.JPG",
+      "IMG_2961.JPG",
+      "IMG_2962.JPG"
+    ]
+  },
+  {
+    "lat": 25.082,
+    "lon": 121.238,
+    "count": 3,
+    "start_time": "2026:01:17 11:58:09",
+    "end_time": "2026:01:17 12:29:32",
+    "sample_file": "IMG_9485.JPG",
+    "all_files": [
+      "IMG_9485.JPG",
+      "IMG_9484.JPG",
+      "IMG_9486.JPG"
+    ]
+  },
+  {
+    "lat": 13.692,
+    "lon": 100.75,
+    "count": 3,
+    "start_time": "2026:01:17 17:43:43",
+    "end_time": "2026:01:17 17:44:19",
+    "sample_file": "IMG_9549.JPG",
+    "all_files": [
+      "IMG_9549.JPG",
+      "IMG_9550.JPG",
+      "IMG_9551.JPG"
+    ]
+  },
+  {
+    "lat": 13.694,
+    "lon": 100.747,
+    "count": 3,
+    "start_time": "2026:01:17 18:45:46",
+    "end_time": "2026:01:17 18:45:56",
+    "sample_file": "IMG_9583.JPG",
+    "all_files": [
+      "IMG_9583.JPG",
+      "IMG_9584.JPG",
+      "IMG_9585.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.148,
+    "count": 3,
+    "start_time": "2026:01:18 08:40:21",
+    "end_time": "2026:01:18 08:40:25",
+    "sample_file": "IMG_9787.JPG",
+    "all_files": [
+      "IMG_9787.JPG",
+      "IMG_9788.JPG",
+      "IMG_9789.JPG"
+    ]
+  },
+  {
+    "lat": 16.788,
+    "lon": 96.15,
+    "count": 3,
+    "start_time": "2026:01:18 08:41:01",
+    "end_time": "2026:01:18 08:41:10",
+    "sample_file": "IMG_9791.JPG",
+    "all_files": [
+      "IMG_9791.JPG",
+      "IMG_9792.JPG",
+      "IMG_9793.JPG"
+    ]
+  },
+  {
+    "lat": 16.781,
+    "lon": 96.153,
+    "count": 3,
+    "start_time": "2026:01:18 08:42:12",
+    "end_time": "2026:01:18 08:42:23",
+    "sample_file": "IMG_9795.JPG",
+    "all_files": [
+      "IMG_9795.JPG",
+      "IMG_9796.JPG",
+      "IMG_9797.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.158,
+    "count": 3,
+    "start_time": "2026:01:18 08:44:56",
+    "end_time": "2026:01:18 08:45:29",
+    "sample_file": "IMG_9814.JPG",
+    "all_files": [
+      "IMG_9814.JPG",
+      "IMG_9815.JPG",
+      "IMG_9816.JPG"
+    ]
+  },
+  {
+    "lat": 16.778,
+    "lon": 96.167,
+    "count": 3,
+    "start_time": "2026:01:18 08:47:47",
+    "end_time": "2026:01:18 08:47:56",
+    "sample_file": "IMG_9827.JPG",
+    "all_files": [
+      "IMG_9827.JPG",
+      "IMG_9828.JPG",
+      "IMG_9829.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.161,
+    "count": 2,
+    "start_time": "2026:01:18 10:40:53",
+    "end_time": "2026:01:18 10:40:57",
+    "sample_file": "IMG_0053.JPG",
+    "all_files": [
+      "IMG_0053.JPG",
+      "IMG_0054.JPG"
+    ]
+  },
+  {
+    "lat": 16.775,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 10:43:24",
+    "end_time": "2026:01:18 10:43:25",
+    "sample_file": "IMG_0064.JPG",
+    "all_files": [
+      "IMG_0064.JPG",
+      "IMG_0065.JPG"
+    ]
+  },
+  {
+    "lat": 16.771,
+    "lon": 96.164,
+    "count": 2,
+    "start_time": "2026:01:18 13:37:12",
+    "end_time": "2026:01:18 13:37:16",
+    "sample_file": "IMG_0256.JPG",
+    "all_files": [
+      "IMG_0256.JPG",
+      "IMG_0257.JPG"
+    ]
+  },
+  {
+    "lat": 16.775,
+    "lon": 96.164,
+    "count": 2,
+    "start_time": "2026:01:18 13:38:36",
+    "end_time": "2026:01:18 13:38:40",
+    "sample_file": "IMG_0262.JPG",
+    "all_files": [
+      "IMG_0262.JPG",
+      "IMG_0263.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 08:46:19",
+    "end_time": "2026:01:18 13:51:59",
+    "sample_file": "IMG_9820.JPG",
+    "all_files": [
+      "IMG_9820.JPG",
+      "IMG_0280.JPG"
+    ]
+  },
+  {
+    "lat": 16.781,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:52:15",
+    "end_time": "2026:01:18 13:52:21",
+    "sample_file": "IMG_0281.JPG",
+    "all_files": [
+      "IMG_0281.JPG",
+      "IMG_0282.JPG"
+    ]
+  },
+  {
+    "lat": 16.782,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:52:26",
+    "end_time": "2026:01:18 13:52:28",
+    "sample_file": "IMG_0283.JPG",
+    "all_files": [
+      "IMG_0283.JPG",
+      "IMG_0284.JPG"
+    ]
+  },
+  {
+    "lat": 16.791,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:54:07",
+    "end_time": "2026:01:18 13:54:08",
+    "sample_file": "IMG_0286.JPG",
+    "all_files": [
+      "IMG_0286.JPG",
+      "IMG_0287.JPG"
+    ]
+  },
+  {
+    "lat": 16.792,
+    "lon": 96.162,
+    "count": 2,
+    "start_time": "2026:01:18 13:54:15",
+    "end_time": "2026:01:18 13:54:17",
+    "sample_file": "IMG_0288.JPG",
+    "all_files": [
+      "IMG_0288.JPG",
+      "IMG_0289.JPG"
+    ]
+  },
+  {
+    "lat": 16.795,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 13:56:39",
+    "end_time": "2026:01:18 13:56:45",
+    "sample_file": "IMG_0291.JPG",
+    "all_files": [
+      "IMG_0291.JPG",
+      "IMG_0292.JPG"
+    ]
+  },
+  {
+    "lat": 16.798,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:18 13:57:42",
+    "end_time": "2026:01:18 13:57:43",
+    "sample_file": "IMG_0298.JPG",
+    "all_files": [
+      "IMG_0298.JPG",
+      "IMG_0299.JPG"
+    ]
+  },
+  {
+    "lat": 16.826,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:18 14:07:06",
+    "end_time": "2026:01:18 14:07:11",
+    "sample_file": "IMG_0310.JPG",
+    "all_files": [
+      "IMG_0310.JPG",
+      "IMG_0311.JPG"
+    ]
+  },
+  {
+    "lat": 16.83,
+    "lon": 96.155,
+    "count": 2,
+    "start_time": "2026:01:18 14:08:51",
+    "end_time": "2026:01:18 14:08:57",
+    "sample_file": "IMG_0319.JPG",
+    "all_files": [
+      "IMG_0319.JPG",
+      "IMG_0320.JPG"
+    ]
+  },
+  {
+    "lat": 16.833,
+    "lon": 96.155,
+    "count": 2,
+    "start_time": "2026:01:18 14:10:45",
+    "end_time": "2026:01:18 14:10:48",
+    "sample_file": "IMG_0325.JPG",
+    "all_files": [
+      "IMG_0325.JPG",
+      "IMG_0326.JPG"
+    ]
+  },
+  {
+    "lat": 16.834,
+    "lon": 96.156,
+    "count": 2,
+    "start_time": "2026:01:18 14:11:28",
+    "end_time": "2026:01:18 14:11:32",
+    "sample_file": "IMG_0327.JPG",
+    "all_files": [
+      "IMG_0327.JPG",
+      "IMG_0328.JPG"
+    ]
+  },
+  {
+    "lat": 16.854,
+    "lon": 96.138,
+    "count": 2,
+    "start_time": "2026:01:18 14:25:25",
+    "end_time": "2026:01:18 14:25:27",
+    "sample_file": "IMG_0335.JPG",
+    "all_files": [
+      "IMG_0335.JPG",
+      "IMG_0336.JPG"
+    ]
+  },
+  {
+    "lat": 16.857,
+    "lon": 96.116,
+    "count": 2,
+    "start_time": "2026:01:18 14:33:34",
+    "end_time": "2026:01:18 14:33:35",
+    "sample_file": "IMG_0339.JPG",
+    "all_files": [
+      "IMG_0339.JPG",
+      "IMG_0340.JPG"
+    ]
+  },
+  {
+    "lat": 16.866,
+    "lon": 96.106,
+    "count": 2,
+    "start_time": "2026:01:18 14:36:29",
+    "end_time": "2026:01:18 14:36:32",
+    "sample_file": "IMG_0345.JPG",
+    "all_files": [
+      "IMG_0345.JPG",
+      "IMG_0346.JPG"
+    ]
+  },
+  {
+    "lat": 16.87,
+    "lon": 96.105,
+    "count": 2,
+    "start_time": "2026:01:18 14:37:08",
+    "end_time": "2026:01:18 14:37:09",
+    "sample_file": "IMG_0347.JPG",
+    "all_files": [
+      "IMG_0347.JPG",
+      "IMG_0348.JPG"
+    ]
+  },
+  {
+    "lat": 16.881,
+    "lon": 96.099,
+    "count": 2,
+    "start_time": "2026:01:18 14:40:50",
+    "end_time": "2026:01:18 14:40:58",
+    "sample_file": "IMG_0349.JPG",
+    "all_files": [
+      "IMG_0349.JPG",
+      "IMG_0350.JPG"
+    ]
+  },
+  {
+    "lat": 16.845,
+    "lon": 96.112,
+    "count": 2,
+    "start_time": "2026:01:18 15:09:00",
+    "end_time": "2026:01:18 15:09:01",
+    "sample_file": "IMG_0407.JPG",
+    "all_files": [
+      "IMG_0407.JPG",
+      "IMG_0408.JPG"
+    ]
+  },
+  {
+    "lat": 16.843,
+    "lon": 96.112,
+    "count": 2,
+    "start_time": "2026:01:18 15:09:32",
+    "end_time": "2026:01:18 15:09:46",
+    "sample_file": "IMG_0416.JPG",
+    "all_files": [
+      "IMG_0416.JPG",
+      "IMG_0417.JPG"
+    ]
+  },
+  {
+    "lat": 16.822,
+    "lon": 96.123,
+    "count": 2,
+    "start_time": "2026:01:18 15:14:52",
+    "end_time": "2026:01:18 15:14:54",
+    "sample_file": "IMG_0424.JPG",
+    "all_files": [
+      "IMG_0424.JPG",
+      "IMG_0425.JPG"
+    ]
+  },
+  {
+    "lat": 16.813,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:18 15:22:23",
+    "end_time": "2026:01:18 15:22:26",
+    "sample_file": "IMG_0430.JPG",
+    "all_files": [
+      "IMG_0430.JPG",
+      "IMG_0431.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:18 15:27:45",
+    "end_time": "2026:01:18 15:27:47",
+    "sample_file": "IMG_0432.JPG",
+    "all_files": [
+      "IMG_0432.JPG",
+      "IMG_0433.JPG"
+    ]
+  },
+  {
+    "lat": 16.829,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:18 16:48:51",
+    "end_time": "2026:01:18 16:48:53",
+    "sample_file": "IMG_0476.JPG",
+    "all_files": [
+      "IMG_0476.JPG",
+      "IMG_0477.JPG"
+    ]
+  },
+  {
+    "lat": 16.826,
+    "lon": 96.133,
+    "count": 2,
+    "start_time": "2026:01:18 16:49:50",
+    "end_time": "2026:01:18 16:49:55",
+    "sample_file": "IMG_0478.JPG",
+    "all_files": [
+      "IMG_0478.JPG",
+      "IMG_0479.JPG"
+    ]
+  },
+  {
+    "lat": 16.808,
+    "lon": 96.136,
+    "count": 2,
+    "start_time": "2026:01:19 09:29:56",
+    "end_time": "2026:01:19 09:29:56",
+    "sample_file": "IMG_0810.JPG",
+    "all_files": [
+      "IMG_0810.JPG",
+      "IMG_0811.JPG"
+    ]
+  },
+  {
+    "lat": 16.814,
+    "lon": 96.134,
+    "count": 2,
+    "start_time": "2026:01:20 14:06:40",
+    "end_time": "2026:01:20 14:06:42",
+    "sample_file": "IMG_0863.JPG",
+    "all_files": [
+      "IMG_0863.JPG",
+      "IMG_0864.JPG"
+    ]
+  },
+  {
+    "lat": 16.819,
+    "lon": 96.133,
+    "count": 2,
+    "start_time": "2026:01:20 14:12:55",
+    "end_time": "2026:01:20 14:12:56",
+    "sample_file": "IMG_0866.JPG",
+    "all_files": [
+      "IMG_0866.JPG",
+      "IMG_0867.JPG"
+    ]
+  },
+  {
+    "lat": 16.846,
+    "lon": 96.136,
+    "count": 2,
+    "start_time": "2026:01:20 14:18:11",
+    "end_time": "2026:01:20 14:18:13",
+    "sample_file": "IMG_0870.JPG",
+    "all_files": [
+      "IMG_0870.JPG",
+      "IMG_0871.JPG"
+    ]
+  },
+  {
+    "lat": 16.849,
+    "lon": 96.137,
+    "count": 2,
+    "start_time": "2026:01:20 17:13:30",
+    "end_time": "2026:01:27 08:11:26",
+    "sample_file": "IMG_1084.JPG",
+    "all_files": [
+      "IMG_1084.JPG",
+      "IMG_2870.JPG"
+    ]
+  },
+  {
+    "lat": 16.839,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:21 09:22:11",
+    "end_time": "2026:01:21 09:22:13",
+    "sample_file": "IMG_1154.JPG",
+    "all_files": [
+      "IMG_1154.JPG",
+      "IMG_1155.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:22 09:35:54",
+    "end_time": "2026:01:23 15:26:36",
+    "sample_file": "IMG_1296.JPG",
+    "all_files": [
+      "IMG_1296.JPG",
+      "IMG_1806.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:22 09:43:09",
+    "end_time": "2026:01:22 09:43:10",
+    "sample_file": "IMG_1302.JPG",
+    "all_files": [
+      "IMG_1302.JPG",
+      "IMG_1303.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:22 11:37:41",
+    "end_time": "2026:01:22 11:37:42",
+    "sample_file": "IMG_1368.JPG",
+    "all_files": [
+      "IMG_1368.JPG",
+      "IMG_1369.JPG"
+    ]
+  },
+  {
+    "lat": 16.803,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:22 11:37:54",
+    "end_time": "2026:01:22 11:37:55",
+    "sample_file": "IMG_1370.JPG",
+    "all_files": [
+      "IMG_1370.JPG",
+      "IMG_1371.JPG"
+    ]
+  },
+  {
+    "lat": 16.799,
+    "lon": 96.146,
+    "count": 2,
+    "start_time": "2026:01:22 19:22:45",
+    "end_time": "2026:01:22 19:22:51",
+    "sample_file": "IMG_1780.JPG",
+    "all_files": [
+      "IMG_1780.JPG",
+      "IMG_1781.JPG"
+    ]
+  },
+  {
+    "lat": 16.804,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:23 16:07:28",
+    "end_time": "2026:01:23 16:07:29",
+    "sample_file": "IMG_1841.JPG",
+    "all_files": [
+      "IMG_1841.JPG",
+      "IMG_1842.JPG"
+    ]
+  },
+  {
+    "lat": 16.777,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:24 12:20:38",
+    "end_time": "2026:01:24 12:20:39",
+    "sample_file": "IMG_2020.JPG",
+    "all_files": [
+      "IMG_2020.JPG",
+      "IMG_2021.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.154,
+    "count": 2,
+    "start_time": "2026:01:24 14:43:08",
+    "end_time": "2026:01:24 14:43:12",
+    "sample_file": "IMG_2290.JPG",
+    "all_files": [
+      "IMG_2290.JPG",
+      "IMG_2291.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.153,
+    "count": 2,
+    "start_time": "2026:01:24 14:43:20",
+    "end_time": "2026:01:24 14:43:22",
+    "sample_file": "IMG_2292.JPG",
+    "all_files": [
+      "IMG_2292.JPG",
+      "IMG_2293.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.148,
+    "count": 2,
+    "start_time": "2026:01:24 14:44:16",
+    "end_time": "2026:01:24 14:44:19",
+    "sample_file": "IMG_2296.JPG",
+    "all_files": [
+      "IMG_2296.JPG",
+      "IMG_2297.JPG"
+    ]
+  },
+  {
+    "lat": 16.773,
+    "lon": 96.146,
+    "count": 2,
+    "start_time": "2026:01:24 14:44:41",
+    "end_time": "2026:01:24 14:44:44",
+    "sample_file": "IMG_2299.JPG",
+    "all_files": [
+      "IMG_2299.JPG",
+      "IMG_2300.JPG"
+    ]
+  },
+  {
+    "lat": 16.778,
+    "lon": 96.145,
+    "count": 2,
+    "start_time": "2026:01:24 14:47:26",
+    "end_time": "2026:01:24 14:47:29",
+    "sample_file": "IMG_2301.JPG",
+    "all_files": [
+      "IMG_2301.JPG",
+      "IMG_2302.JPG"
+    ]
+  },
+  {
+    "lat": 16.794,
+    "lon": 96.145,
+    "count": 2,
+    "start_time": "2026:01:25 09:56:29",
+    "end_time": "2026:01:25 09:56:30",
+    "sample_file": "IMG_2383.JPG",
+    "all_files": [
+      "IMG_2383.JPG",
+      "IMG_2384.JPG"
+    ]
+  },
+  {
+    "lat": 16.788,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:25 12:04:11",
+    "end_time": "2026:01:25 12:04:37",
+    "sample_file": "IMG_2685.JPG",
+    "all_files": [
+      "IMG_2685.JPG",
+      "IMG_2689.JPG"
+    ]
+  },
+  {
+    "lat": 16.815,
+    "lon": 96.172,
+    "count": 2,
+    "start_time": "2026:01:25 15:35:42",
+    "end_time": "2026:01:25 15:35:47",
+    "sample_file": "IMG_2743.JPG",
+    "all_files": [
+      "IMG_2743.JPG",
+      "IMG_2744.JPG"
+    ]
+  },
+  {
+    "lat": 16.818,
+    "lon": 96.174,
+    "count": 2,
+    "start_time": "2026:01:25 15:37:50",
+    "end_time": "2026:01:25 15:37:54",
+    "sample_file": "IMG_2747.JPG",
+    "all_files": [
+      "IMG_2747.JPG",
+      "IMG_2748.JPG"
+    ]
+  },
+  {
+    "lat": 16.782,
+    "lon": 96.144,
+    "count": 2,
+    "start_time": "2026:01:26 18:30:37",
+    "end_time": "2026:01:26 18:30:39",
+    "sample_file": "IMG_2822.JPG",
+    "all_files": [
+      "IMG_2822.JPG",
+      "IMG_2823.JPG"
+    ]
+  },
+  {
+    "lat": 16.849,
+    "lon": 96.138,
+    "count": 2,
+    "start_time": "2026:01:27 08:11:32",
+    "end_time": "2026:01:27 08:11:33",
+    "sample_file": "IMG_2871.JPG",
+    "all_files": [
+      "IMG_2871.JPG",
+      "IMG_2872.JPG"
+    ]
+  },
+  {
+    "lat": 13.691,
+    "lon": 100.748,
+    "count": 2,
+    "start_time": "2026:01:17 17:07:40",
+    "end_time": "2026:01:17 17:07:48",
+    "sample_file": "IMG_9531.JPG",
+    "all_files": [
+      "IMG_9531.JPG",
+      "IMG_9532.JPG"
+    ]
+  },
+  {
+    "lat": 16.899,
+    "lon": 96.135,
+    "count": 2,
+    "start_time": "2026:01:17 21:33:34",
+    "end_time": "2026:01:17 21:33:41",
+    "sample_file": "IMG_9670.JPG",
+    "all_files": [
+      "IMG_9670.JPG",
+      "IMG_9671.JPG"
+    ]
+  },
+  {
+    "lat": 16.901,
+    "lon": 96.139,
+    "count": 2,
+    "start_time": "2026:01:17 21:34:37",
+    "end_time": "2026:01:17 21:34:39",
+    "sample_file": "IMG_9673.JPG",
+    "all_files": [
+      "IMG_9673.JPG",
+      "IMG_9674.JPG"
+    ]
+  },
+  {
+    "lat": 16.86,
+    "lon": 96.142,
+    "count": 2,
+    "start_time": "2026:01:17 21:44:05",
+    "end_time": "2026:01:17 21:44:07",
+    "sample_file": "IMG_9691.JPG",
+    "all_files": [
+      "IMG_9691.JPG",
+      "IMG_9692.JPG"
+    ]
+  },
+  {
+    "lat": 16.854,
+    "lon": 96.141,
+    "count": 2,
+    "start_time": "2026:01:17 21:45:27",
+    "end_time": "2026:01:17 21:45:31",
+    "sample_file": "IMG_9695.JPG",
+    "all_files": [
+      "IMG_9695.JPG",
+      "IMG_9696.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.157,
+    "count": 2,
+    "start_time": "2026:01:18 08:44:47",
+    "end_time": "2026:01:18 08:44:52",
+    "sample_file": "IMG_9812.JPG",
+    "all_files": [
+      "IMG_9812.JPG",
+      "IMG_9813.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.159,
+    "count": 2,
+    "start_time": "2026:01:18 08:45:43",
+    "end_time": "2026:01:18 08:45:45",
+    "sample_file": "IMG_9817.JPG",
+    "all_files": [
+      "IMG_9817.JPG",
+      "IMG_9818.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.166,
+    "count": 2,
+    "start_time": "2026:01:18 08:46:56",
+    "end_time": "2026:01:18 08:46:58",
+    "sample_file": "IMG_9824.JPG",
+    "all_files": [
+      "IMG_9824.JPG",
+      "IMG_9825.JPG"
+    ]
+  },
+  {
+    "lat": 16.776,
+    "lon": 96.159,
+    "count": 1,
+    "start_time": "2026:01:18 10:43:16",
+    "end_time": "2026:01:18 10:43:16",
+    "sample_file": "IMG_0063.JPG",
+    "all_files": [
+      "IMG_0063.JPG"
+    ]
+  },
+  {
+    "lat": 16.77,
+    "lon": 96.161,
+    "count": 1,
+    "start_time": "2026:01:18 13:12:32",
+    "end_time": "2026:01:18 13:12:32",
+    "sample_file": "IMG_0181.JPG",
+    "all_files": [
+      "IMG_0181.JPG"
+    ]
+  },
+  {
+    "lat": 16.769,
+    "lon": 96.165,
+    "count": 1,
+    "start_time": "2026:01:18 13:37:01",
+    "end_time": "2026:01:18 13:37:01",
+    "sample_file": "IMG_0255.JPG",
+    "all_files": [
+      "IMG_0255.JPG"
+    ]
+  },
+  {
+    "lat": 16.776,
+    "lon": 96.164,
+    "count": 1,
+    "start_time": "2026:01:18 13:38:51",
+    "end_time": "2026:01:18 13:38:51",
+    "sample_file": "IMG_0264.JPG",
+    "all_files": [
+      "IMG_0264.JPG"
+    ]
+  },
+  {
+    "lat": 16.778,
+    "lon": 96.162,
+    "count": 1,
+    "start_time": "2026:01:18 13:51:44",
+    "end_time": "2026:01:18 13:51:44",
+    "sample_file": "IMG_0279.JPG",
+    "all_files": [
+      "IMG_0279.JPG"
+    ]
+  },
+  {
+    "lat": 16.783,
+    "lon": 96.162,
+    "count": 1,
+    "start_time": "2026:01:18 13:52:44",
+    "end_time": "2026:01:18 13:52:44",
+    "sample_file": "IMG_0285.JPG",
+    "all_files": [
+      "IMG_0285.JPG"
+    ]
+  },
+  {
+    "lat": 16.794,
+    "lon": 96.159,
+    "count": 1,
+    "start_time": "2026:01:18 13:56:28",
+    "end_time": "2026:01:18 13:56:28",
+    "sample_file": "IMG_0290.JPG",
+    "all_files": [
+      "IMG_0290.JPG"
+    ]
+  },
+  {
+    "lat": 16.795,
+    "lon": 96.158,
+    "count": 1,
+    "start_time": "2026:01:18 13:56:46",
+    "end_time": "2026:01:18 13:56:46",
+    "sample_file": "IMG_0293.JPG",
+    "all_files": [
+      "IMG_0293.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.156,
+    "count": 1,
+    "start_time": "2026:01:18 14:01:35",
+    "end_time": "2026:01:18 14:01:35",
+    "sample_file": "IMG_0302.JPG",
+    "all_files": [
+      "IMG_0302.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.155,
+    "count": 1,
+    "start_time": "2026:01:18 14:01:36",
+    "end_time": "2026:01:18 14:01:36",
+    "sample_file": "IMG_0303.JPG",
+    "all_files": [
+      "IMG_0303.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.155,
+    "count": 1,
+    "start_time": "2026:01:18 14:02:21",
+    "end_time": "2026:01:18 14:02:21",
+    "sample_file": "IMG_0304.JPG",
+    "all_files": [
+      "IMG_0304.JPG"
+    ]
+  },
+  {
+    "lat": 16.813,
+    "lon": 96.156,
+    "count": 1,
+    "start_time": "2026:01:18 14:03:38",
+    "end_time": "2026:01:18 14:03:38",
+    "sample_file": "IMG_0306.JPG",
+    "all_files": [
+      "IMG_0306.JPG"
+    ]
+  },
+  {
+    "lat": 16.814,
+    "lon": 96.156,
+    "count": 1,
+    "start_time": "2026:01:18 14:06:43",
+    "end_time": "2026:01:18 14:06:43",
+    "sample_file": "IMG_0307.JPG",
+    "all_files": [
+      "IMG_0307.JPG"
+    ]
+  },
+  {
+    "lat": 16.824,
+    "lon": 96.154,
+    "count": 1,
+    "start_time": "2026:01:18 14:06:56",
+    "end_time": "2026:01:18 14:06:56",
+    "sample_file": "IMG_0308.JPG",
+    "all_files": [
+      "IMG_0308.JPG"
+    ]
+  },
+  {
+    "lat": 16.825,
+    "lon": 96.154,
+    "count": 1,
+    "start_time": "2026:01:18 14:06:59",
+    "end_time": "2026:01:18 14:06:59",
+    "sample_file": "IMG_0309.JPG",
+    "all_files": [
+      "IMG_0309.JPG"
+    ]
+  },
+  {
+    "lat": 16.835,
+    "lon": 96.155,
+    "count": 1,
+    "start_time": "2026:01:18 14:11:35",
+    "end_time": "2026:01:18 14:11:35",
+    "sample_file": "IMG_0329.JPG",
+    "all_files": [
+      "IMG_0329.JPG"
+    ]
+  },
+  {
+    "lat": 16.836,
+    "lon": 96.156,
+    "count": 1,
+    "start_time": "2026:01:18 14:11:46",
+    "end_time": "2026:01:18 14:11:46",
+    "sample_file": "IMG_0330.JPG",
+    "all_files": [
+      "IMG_0330.JPG"
+    ]
+  },
+  {
+    "lat": 16.838,
+    "lon": 96.156,
+    "count": 1,
+    "start_time": "2026:01:18 14:12:00",
+    "end_time": "2026:01:18 14:12:00",
+    "sample_file": "IMG_0331.JPG",
+    "all_files": [
+      "IMG_0331.JPG"
+    ]
+  },
+  {
+    "lat": 16.852,
+    "lon": 96.15,
+    "count": 1,
+    "start_time": "2026:01:18 14:19:20",
+    "end_time": "2026:01:18 14:19:20",
+    "sample_file": "IMG_0334.JPG",
+    "all_files": [
+      "IMG_0334.JPG"
+    ]
+  },
+  {
+    "lat": 16.856,
+    "lon": 96.134,
+    "count": 1,
+    "start_time": "2026:01:18 14:27:35",
+    "end_time": "2026:01:18 14:27:35",
+    "sample_file": "IMG_0338.JPG",
+    "all_files": [
+      "IMG_0338.JPG"
+    ]
+  },
+  {
+    "lat": 16.865,
+    "lon": 96.106,
+    "count": 1,
+    "start_time": "2026:01:18 14:36:17",
+    "end_time": "2026:01:18 14:36:17",
+    "sample_file": "IMG_0344.JPG",
+    "all_files": [
+      "IMG_0344.JPG"
+    ]
+  },
+  {
+    "lat": 16.883,
+    "lon": 96.1,
+    "count": 1,
+    "start_time": "2026:01:18 14:42:03",
+    "end_time": "2026:01:18 14:42:03",
+    "sample_file": "IMG_0356.JPG",
+    "all_files": [
+      "IMG_0356.JPG"
+    ]
+  },
+  {
+    "lat": 16.842,
+    "lon": 96.113,
+    "count": 1,
+    "start_time": "2026:01:18 15:10:03",
+    "end_time": "2026:01:18 15:10:03",
+    "sample_file": "IMG_0422.JPG",
+    "all_files": [
+      "IMG_0422.JPG"
+    ]
+  },
+  {
+    "lat": 16.823,
+    "lon": 96.123,
+    "count": 1,
+    "start_time": "2026:01:18 15:14:41",
+    "end_time": "2026:01:18 15:14:41",
+    "sample_file": "IMG_0423.JPG",
+    "all_files": [
+      "IMG_0423.JPG"
+    ]
+  },
+  {
+    "lat": 16.821,
+    "lon": 96.128,
+    "count": 1,
+    "start_time": "2026:01:18 15:17:29",
+    "end_time": "2026:01:18 15:17:29",
+    "sample_file": "IMG_0426.JPG",
+    "all_files": [
+      "IMG_0426.JPG"
+    ]
+  },
+  {
+    "lat": 16.806,
+    "lon": 96.146,
+    "count": 1,
+    "start_time": "2026:01:18 15:29:27",
+    "end_time": "2026:01:18 15:29:27",
+    "sample_file": "IMG_0434.JPG",
+    "all_files": [
+      "IMG_0434.JPG"
+    ]
+  },
+  {
+    "lat": 16.826,
+    "lon": 96.134,
+    "count": 1,
+    "start_time": "2026:01:18 16:33:47",
+    "end_time": "2026:01:18 16:33:47",
+    "sample_file": "IMG_0459.JPG",
+    "all_files": [
+      "IMG_0459.JPG"
+    ]
+  },
+  {
+    "lat": 16.832,
+    "lon": 96.137,
+    "count": 1,
+    "start_time": "2026:01:18 16:47:51",
+    "end_time": "2026:01:18 16:47:51",
+    "sample_file": "IMG_0475.JPG",
+    "all_files": [
+      "IMG_0475.JPG"
+    ]
+  },
+  {
+    "lat": 16.83,
+    "lon": 96.134,
+    "count": 1,
+    "start_time": "2026:01:18 16:59:00",
+    "end_time": "2026:01:18 16:59:00",
+    "sample_file": "IMG_0503.JPG",
+    "all_files": [
+      "IMG_0503.JPG"
+    ]
+  },
+  {
+    "lat": 16.831,
+    "lon": 96.135,
+    "count": 1,
+    "start_time": "2026:01:18 16:59:06",
+    "end_time": "2026:01:18 16:59:06",
+    "sample_file": "IMG_0504.JPG",
+    "all_files": [
+      "IMG_0504.JPG"
+    ]
+  },
+  {
+    "lat": 16.817,
+    "lon": 96.134,
+    "count": 1,
+    "start_time": "2026:01:20 14:10:53",
+    "end_time": "2026:01:20 14:10:53",
+    "sample_file": "IMG_0865.JPG",
+    "all_files": [
+      "IMG_0865.JPG"
+    ]
+  },
+  {
+    "lat": 16.845,
+    "lon": 96.136,
+    "count": 1,
+    "start_time": "2026:01:20 14:18:06",
+    "end_time": "2026:01:20 14:18:06",
+    "sample_file": "IMG_0869.JPG",
+    "all_files": [
+      "IMG_0869.JPG"
+    ]
+  },
+  {
+    "lat": 16.847,
+    "lon": 96.136,
+    "count": 1,
+    "start_time": "2026:01:20 14:18:19",
+    "end_time": "2026:01:20 14:18:19",
+    "sample_file": "IMG_0872.JPG",
+    "all_files": [
+      "IMG_0872.JPG"
+    ]
+  },
+  {
+    "lat": 16.864,
+    "lon": 96.141,
+    "count": 1,
+    "start_time": "2026:01:20 14:27:42",
+    "end_time": "2026:01:20 14:27:42",
+    "sample_file": "IMG_0873.JPG",
+    "all_files": [
+      "IMG_0873.JPG"
+    ]
+  },
+  {
+    "lat": 16.873,
+    "lon": 96.148,
+    "count": 1,
+    "start_time": "2026:01:20 17:00:51",
+    "end_time": "2026:01:20 17:00:51",
+    "sample_file": "IMG_1079.JPG",
+    "all_files": [
+      "IMG_1079.JPG"
+    ]
+  },
+  {
+    "lat": 16.851,
+    "lon": 96.151,
+    "count": 1,
+    "start_time": "2026:01:20 18:12:28",
+    "end_time": "2026:01:20 18:12:28",
+    "sample_file": "IMG_1099.JPG",
+    "all_files": [
+      "IMG_1099.JPG"
+    ]
+  },
+  {
+    "lat": 16.834,
+    "lon": 96.163,
+    "count": 1,
+    "start_time": "2026:01:20 18:30:41",
+    "end_time": "2026:01:20 18:30:41",
+    "sample_file": "IMG_1100.JPG",
+    "all_files": [
+      "IMG_1100.JPG"
+    ]
+  },
+  {
+    "lat": 16.83,
+    "lon": 96.173,
+    "count": 1,
+    "start_time": "2026:01:20 18:37:13",
+    "end_time": "2026:01:20 18:37:13",
+    "sample_file": "IMG_1101.JPG",
+    "all_files": [
+      "IMG_1101.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.137,
+    "count": 1,
+    "start_time": "2026:01:21 08:27:18",
+    "end_time": "2026:01:21 08:27:18",
+    "sample_file": "IMG_1145.JPG",
+    "all_files": [
+      "IMG_1145.JPG"
+    ]
+  },
+  {
+    "lat": 16.81,
+    "lon": 96.136,
+    "count": 1,
+    "start_time": "2026:01:22 09:09:37",
+    "end_time": "2026:01:22 09:09:37",
+    "sample_file": "IMG_1294.JPG",
+    "all_files": [
+      "IMG_1294.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.141,
+    "count": 1,
+    "start_time": "2026:01:22 09:35:52",
+    "end_time": "2026:01:22 09:35:52",
+    "sample_file": "IMG_1295.JPG",
+    "all_files": [
+      "IMG_1295.JPG"
+    ]
+  },
+  {
+    "lat": 16.803,
+    "lon": 96.154,
+    "count": 1,
+    "start_time": "2026:01:22 09:42:34",
+    "end_time": "2026:01:22 09:42:34",
+    "sample_file": "IMG_1301.JPG",
+    "all_files": [
+      "IMG_1301.JPG"
+    ]
+  },
+  {
+    "lat": 16.802,
+    "lon": 96.157,
+    "count": 1,
+    "start_time": "2026:01:22 09:43:54",
+    "end_time": "2026:01:22 09:43:54",
+    "sample_file": "IMG_1315.JPG",
+    "all_files": [
+      "IMG_1315.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.148,
+    "count": 1,
+    "start_time": "2026:01:22 18:12:46",
+    "end_time": "2026:01:22 18:12:46",
+    "sample_file": "IMG_1481.JPG",
+    "all_files": [
+      "IMG_1481.JPG"
+    ]
+  },
+  {
+    "lat": 16.797,
+    "lon": 96.148,
+    "count": 1,
+    "start_time": "2026:01:22 19:10:38",
+    "end_time": "2026:01:22 19:10:38",
+    "sample_file": "IMG_1762.JPG",
+    "all_files": [
+      "IMG_1762.JPG"
+    ]
+  },
+  {
+    "lat": 16.8,
+    "lon": 96.145,
+    "count": 1,
+    "start_time": "2026:01:22 19:23:00",
+    "end_time": "2026:01:22 19:23:00",
+    "sample_file": "IMG_1782.JPG",
+    "all_files": [
+      "IMG_1782.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.166,
+    "count": 1,
+    "start_time": "2026:01:23 16:18:08",
+    "end_time": "2026:01:23 16:18:08",
+    "sample_file": "IMG_1859.JPG",
+    "all_files": [
+      "IMG_1859.JPG"
+    ]
+  },
+  {
+    "lat": 16.79,
+    "lon": 96.172,
+    "count": 1,
+    "start_time": "2026:01:23 16:21:24",
+    "end_time": "2026:01:23 16:21:24",
+    "sample_file": "IMG_1864.JPG",
+    "all_files": [
+      "IMG_1864.JPG"
+    ]
+  },
+  {
+    "lat": 16.774,
+    "lon": 96.155,
+    "count": 1,
+    "start_time": "2026:01:24 14:42:05",
+    "end_time": "2026:01:24 14:42:05",
+    "sample_file": "IMG_2282.JPG",
+    "all_files": [
+      "IMG_2282.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.155,
+    "count": 1,
+    "start_time": "2026:01:24 14:42:34",
+    "end_time": "2026:01:24 14:42:34",
+    "sample_file": "IMG_2289.JPG",
+    "all_files": [
+      "IMG_2289.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.151,
+    "count": 1,
+    "start_time": "2026:01:24 14:43:44",
+    "end_time": "2026:01:24 14:43:44",
+    "sample_file": "IMG_2294.JPG",
+    "all_files": [
+      "IMG_2294.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.149,
+    "count": 1,
+    "start_time": "2026:01:24 14:44:08",
+    "end_time": "2026:01:24 14:44:08",
+    "sample_file": "IMG_2295.JPG",
+    "all_files": [
+      "IMG_2295.JPG"
+    ]
+  },
+  {
+    "lat": 16.772,
+    "lon": 96.147,
+    "count": 1,
+    "start_time": "2026:01:24 14:44:31",
+    "end_time": "2026:01:24 14:44:31",
+    "sample_file": "IMG_2298.JPG",
+    "all_files": [
+      "IMG_2298.JPG"
+    ]
+  },
+  {
+    "lat": 16.786,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:24 14:50:19",
+    "end_time": "2026:01:24 14:50:19",
+    "sample_file": "IMG_2303.JPG",
+    "all_files": [
+      "IMG_2303.JPG"
+    ]
+  },
+  {
+    "lat": 16.822,
+    "lon": 96.16,
+    "count": 1,
+    "start_time": "2026:01:24 18:22:48",
+    "end_time": "2026:01:24 18:22:48",
+    "sample_file": "IMG_2311.JPG",
+    "all_files": [
+      "IMG_2311.JPG"
+    ]
+  },
+  {
+    "lat": 16.808,
+    "lon": 96.14,
+    "count": 1,
+    "start_time": "2026:01:25 09:53:07",
+    "end_time": "2026:01:25 09:53:07",
+    "sample_file": "IMG_2374.JPG",
+    "all_files": [
+      "IMG_2374.JPG"
+    ]
+  },
+  {
+    "lat": 16.796,
+    "lon": 96.146,
+    "count": 1,
+    "start_time": "2026:01:25 09:55:55",
+    "end_time": "2026:01:25 09:55:55",
+    "sample_file": "IMG_2378.JPG",
+    "all_files": [
+      "IMG_2378.JPG"
+    ]
+  },
+  {
+    "lat": 16.796,
+    "lon": 96.147,
+    "count": 1,
+    "start_time": "2026:01:25 09:55:57",
+    "end_time": "2026:01:25 09:55:57",
+    "sample_file": "IMG_2379.JPG",
+    "all_files": [
+      "IMG_2379.JPG"
+    ]
+  },
+  {
+    "lat": 16.794,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:25 09:56:51",
+    "end_time": "2026:01:25 09:56:51",
+    "sample_file": "IMG_2385.JPG",
+    "all_files": [
+      "IMG_2385.JPG"
+    ]
+  },
+  {
+    "lat": 16.793,
+    "lon": 96.14,
+    "count": 1,
+    "start_time": "2026:01:25 09:57:49",
+    "end_time": "2026:01:25 09:57:49",
+    "sample_file": "IMG_2386.JPG",
+    "all_files": [
+      "IMG_2386.JPG"
+    ]
+  },
+  {
+    "lat": 16.787,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:25 11:57:34",
+    "end_time": "2026:01:25 11:57:34",
+    "sample_file": "IMG_2643.JPG",
+    "all_files": [
+      "IMG_2643.JPG"
+    ]
+  },
+  {
+    "lat": 16.786,
+    "lon": 96.14,
+    "count": 1,
+    "start_time": "2026:01:25 12:04:46",
+    "end_time": "2026:01:25 12:04:46",
+    "sample_file": "IMG_2690.JPG",
+    "all_files": [
+      "IMG_2690.JPG"
+    ]
+  },
+  {
+    "lat": 16.807,
+    "lon": 96.136,
+    "count": 1,
+    "start_time": "2026:01:25 12:36:59",
+    "end_time": "2026:01:25 12:36:59",
+    "sample_file": "IMG_2732.JPG",
+    "all_files": [
+      "IMG_2732.JPG"
+    ]
+  },
+  {
+    "lat": 16.817,
+    "lon": 96.172,
+    "count": 1,
+    "start_time": "2026:01:25 15:37:19",
+    "end_time": "2026:01:25 15:37:19",
+    "sample_file": "IMG_2745.JPG",
+    "all_files": [
+      "IMG_2745.JPG"
+    ]
+  },
+  {
+    "lat": 16.819,
+    "lon": 96.174,
+    "count": 1,
+    "start_time": "2026:01:25 15:37:46",
+    "end_time": "2026:01:25 15:37:46",
+    "sample_file": "IMG_2746.JPG",
+    "all_files": [
+      "IMG_2746.JPG"
+    ]
+  },
+  {
+    "lat": 16.815,
+    "lon": 96.17,
+    "count": 1,
+    "start_time": "2026:01:25 17:48:15",
+    "end_time": "2026:01:25 17:48:15",
+    "sample_file": "IMG_2777.JPG",
+    "all_files": [
+      "IMG_2777.JPG"
+    ]
+  },
+  {
+    "lat": 16.815,
+    "lon": 96.169,
+    "count": 1,
+    "start_time": "2026:01:25 17:48:19",
+    "end_time": "2026:01:25 17:48:19",
+    "sample_file": "IMG_2778.JPG",
+    "all_files": [
+      "IMG_2778.JPG"
+    ]
+  },
+  {
+    "lat": 16.794,
+    "lon": 96.14,
+    "count": 1,
+    "start_time": "2026:01:26 19:01:01",
+    "end_time": "2026:01:26 19:01:01",
+    "sample_file": "IMG_2826.JPG",
+    "all_files": [
+      "IMG_2826.JPG"
+    ]
+  },
+  {
+    "lat": 16.801,
+    "lon": 96.138,
+    "count": 1,
+    "start_time": "2026:01:26 19:51:54",
+    "end_time": "2026:01:26 19:51:54",
+    "sample_file": "IMG_2845.JPG",
+    "all_files": [
+      "IMG_2845.JPG"
+    ]
+  },
+  {
+    "lat": 16.823,
+    "lon": 96.132,
+    "count": 1,
+    "start_time": "2026:01:27 08:06:28",
+    "end_time": "2026:01:27 08:06:28",
+    "sample_file": "IMG_2860.JPG",
+    "all_files": [
+      "IMG_2860.JPG"
+    ]
+  },
+  {
+    "lat": 16.824,
+    "lon": 96.131,
+    "count": 1,
+    "start_time": "2026:01:27 08:06:38",
+    "end_time": "2026:01:27 08:06:38",
+    "sample_file": "IMG_2861.JPG",
+    "all_files": [
+      "IMG_2861.JPG"
+    ]
+  },
+  {
+    "lat": 16.876,
+    "lon": 96.139,
+    "count": 1,
+    "start_time": "2026:01:27 08:21:14",
+    "end_time": "2026:01:27 08:21:14",
+    "sample_file": "IMG_2889.JPG",
+    "all_files": [
+      "IMG_2889.JPG"
+    ]
+  },
+  {
+    "lat": 16.876,
+    "lon": 96.138,
+    "count": 1,
+    "start_time": "2026:01:27 08:21:16",
+    "end_time": "2026:01:27 08:21:16",
+    "sample_file": "IMG_2890.JPG",
+    "all_files": [
+      "IMG_2890.JPG"
+    ]
+  },
+  {
+    "lat": 16.877,
+    "lon": 96.138,
+    "count": 1,
+    "start_time": "2026:01:27 08:21:28",
+    "end_time": "2026:01:27 08:21:28",
+    "sample_file": "IMG_2891.JPG",
+    "all_files": [
+      "IMG_2891.JPG"
+    ]
+  },
+  {
+    "lat": 16.893,
+    "lon": 96.131,
+    "count": 1,
+    "start_time": "2026:01:27 08:29:13",
+    "end_time": "2026:01:27 08:29:13",
+    "sample_file": "IMG_2898.JPG",
+    "all_files": [
+      "IMG_2898.JPG"
+    ]
+  },
+  {
+    "lat": 16.894,
+    "lon": 96.131,
+    "count": 1,
+    "start_time": "2026:01:27 08:29:14",
+    "end_time": "2026:01:27 08:29:14",
+    "sample_file": "IMG_2899.JPG",
+    "all_files": [
+      "IMG_2899.JPG"
+    ]
+  },
+  {
+    "lat": 25.081,
+    "lon": 121.235,
+    "count": 1,
+    "start_time": "2026:01:17 13:03:20",
+    "end_time": "2026:01:17 13:03:20",
+    "sample_file": "IMG_9491.JPG",
+    "all_files": [
+      "IMG_9491.JPG"
+    ]
+  },
+  {
+    "lat": 13.692,
+    "lon": 100.751,
+    "count": 1,
+    "start_time": "2026:01:17 17:40:16",
+    "end_time": "2026:01:17 17:40:16",
+    "sample_file": "IMG_9544.JPG",
+    "all_files": [
+      "IMG_9544.JPG"
+    ]
+  },
+  {
+    "lat": 13.692,
+    "lon": 100.749,
+    "count": 1,
+    "start_time": "2026:01:17 17:45:46",
+    "end_time": "2026:01:17 17:45:46",
+    "sample_file": "IMG_9553.JPG",
+    "all_files": [
+      "IMG_9553.JPG"
+    ]
+  },
+  {
+    "lat": 16.902,
+    "lon": 96.139,
+    "count": 1,
+    "start_time": "2026:01:17 21:34:36",
+    "end_time": "2026:01:17 21:34:36",
+    "sample_file": "IMG_9672.JPG",
+    "all_files": [
+      "IMG_9672.JPG"
+    ]
+  },
+  {
+    "lat": 16.899,
+    "lon": 96.14,
+    "count": 1,
+    "start_time": "2026:01:17 21:35:40",
+    "end_time": "2026:01:17 21:35:40",
+    "sample_file": "IMG_9680.JPG",
+    "all_files": [
+      "IMG_9680.JPG"
+    ]
+  },
+  {
+    "lat": 16.881,
+    "lon": 96.135,
+    "count": 1,
+    "start_time": "2026:01:17 21:41:09",
+    "end_time": "2026:01:17 21:41:09",
+    "sample_file": "IMG_9687.JPG",
+    "all_files": [
+      "IMG_9687.JPG"
+    ]
+  },
+  {
+    "lat": 16.881,
+    "lon": 96.136,
+    "count": 1,
+    "start_time": "2026:01:17 21:41:19",
+    "end_time": "2026:01:17 21:41:19",
+    "sample_file": "IMG_9688.JPG",
+    "all_files": [
+      "IMG_9688.JPG"
+    ]
+  },
+  {
+    "lat": 16.867,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:17 21:43:19",
+    "end_time": "2026:01:17 21:43:19",
+    "sample_file": "IMG_9689.JPG",
+    "all_files": [
+      "IMG_9689.JPG"
+    ]
+  },
+  {
+    "lat": 16.859,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:17 21:44:11",
+    "end_time": "2026:01:17 21:44:11",
+    "sample_file": "IMG_9693.JPG",
+    "all_files": [
+      "IMG_9693.JPG"
+    ]
+  },
+  {
+    "lat": 16.858,
+    "lon": 96.142,
+    "count": 1,
+    "start_time": "2026:01:17 21:44:15",
+    "end_time": "2026:01:17 21:44:15",
+    "sample_file": "IMG_9694.JPG",
+    "all_files": [
+      "IMG_9694.JPG"
+    ]
+  },
+  {
+    "lat": 16.805,
+    "lon": 96.143,
+    "count": 1,
+    "start_time": "2026:01:18 08:38:20",
+    "end_time": "2026:01:18 08:38:20",
+    "sample_file": "IMG_9776.JPG",
+    "all_files": [
+      "IMG_9776.JPG"
+    ]
+  },
+  {
+    "lat": 16.801,
+    "lon": 96.145,
+    "count": 1,
+    "start_time": "2026:01:18 08:38:22",
+    "end_time": "2026:01:18 08:38:22",
+    "sample_file": "IMG_9777.JPG",
+    "all_files": [
+      "IMG_9777.JPG"
+    ]
+  },
+  {
+    "lat": 16.801,
+    "lon": 96.144,
+    "count": 1,
+    "start_time": "2026:01:18 08:38:24",
+    "end_time": "2026:01:18 08:38:24",
+    "sample_file": "IMG_9778.JPG",
+    "all_files": [
+      "IMG_9778.JPG"
+    ]
+  },
+  {
+    "lat": 16.791,
+    "lon": 96.148,
+    "count": 1,
+    "start_time": "2026:01:18 08:41:00",
+    "end_time": "2026:01:18 08:41:00",
+    "sample_file": "IMG_9790.JPG",
+    "all_files": [
+      "IMG_9790.JPG"
+    ]
+  },
+  {
+    "lat": 16.787,
+    "lon": 96.15,
+    "count": 1,
+    "start_time": "2026:01:18 08:41:17",
+    "end_time": "2026:01:18 08:41:17",
+    "sample_file": "IMG_9794.JPG",
+    "all_files": [
+      "IMG_9794.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.16,
+    "count": 1,
+    "start_time": "2026:01:18 08:46:00",
+    "end_time": "2026:01:18 08:46:00",
+    "sample_file": "IMG_9819.JPG",
+    "all_files": [
+      "IMG_9819.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.164,
+    "count": 1,
+    "start_time": "2026:01:18 08:46:36",
+    "end_time": "2026:01:18 08:46:36",
+    "sample_file": "IMG_9821.JPG",
+    "all_files": [
+      "IMG_9821.JPG"
+    ]
+  },
+  {
+    "lat": 16.779,
+    "lon": 96.167,
+    "count": 1,
+    "start_time": "2026:01:18 08:47:35",
+    "end_time": "2026:01:18 08:47:35",
+    "sample_file": "IMG_9826.JPG",
+    "all_files": [
+      "IMG_9826.JPG"
+    ]
+  }
+]
