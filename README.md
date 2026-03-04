@@ -1,41 +1,42 @@
 # Travel_Scrollyteller
 
-An interactive storytelling tool that combines photo maps and scroll-based presentation (Scrollytelling).
+一個結合照片地圖與滾動式敘事（Scrollytelling）的互動式旅行記錄工具。
 
-## 🌟 Features
-- **Interactive Photo Map**: Cluster photos by GPS location and annotate them in real-time.
-- **Scrollytelling Report**: Generate a beautiful, interactive web presentation from your travel notes and photos.
-- **Local Server Sync**: Real-time synchronization between the web interface and your Markdown notes.
+## 🌟 核心功能
+- **互動式照片地圖**：根據 GPS 座標自動串聯照片，並支援即時標註與分類。
+- **滾動式敘事報告**：將旅行筆記與照片轉化為精美、流暢的網頁式簡報。
+- **本地伺服器同步**：網頁介面與 Markdown 筆記（`notes/`）之間的實時資料同步。
 
-## 🚀 Getting Started
+## 🚀 快速上手
 
-### 1. Prerequisites
-- Python 3.x
-- Your travel photos in a folder
+### 1. 準備工作
+- 安裝 Python 3.x
+- 將您的旅行照片放入指定資料夾
 
-### 2. Configuration
-Open `config.json` (to be implemented) or edit the paths in:
+### 2. 配置設定
+雖然專案正朝向 `config.json` 自動化配置發展，目前您可以直接在以下腳本中修改路徑：
 - `scripts/diary_server.py`
 - `scripts/export_package.py`
 
-### 3. Usage
-- **Start the Sync Server**:
+### 3. 使用方法
+- **啟動同步伺服器**：
   ```bash
   python scripts/diary_server.py
   ```
-- **Open the Map Interface**:
-  Open `http://localhost:10001/output/photo_map_interactive.html` in your browser.
+- **開啟地圖介面**：
+  在瀏覽器中開啟 `http://localhost:10001/output/photo_map_interactive.html`。
 
-- **Export Presentation**:
+- **匯出呈現包**：
   ```bash
   python scripts/export_package.py
   ```
 
-## 📂 Directory Structure
-- `data/`: JSON data for locations and selections.
-- `notes/`: Markdown travel notes.
-- `scripts/`: Backend server and automation scripts.
-- `output/`: Web application files and exported packages.
+## 📂 目錄結構
+- `data/`：存放地點、分類與照片選取等 JSON 數據。
+- `notes/`：存放 Markdown 格式的旅行筆記。
+- `scripts/`：後端伺服器與自動化處理腳本。
+- `output/`：生成的網頁檔案與匯出的封裝包（已由 .gitignore 忽略上傳）。
 
-## 📄 License
-MIT
+## 📄 授權條款
+MIT License
+
